@@ -234,7 +234,7 @@
 			"name": "Clash of Talons",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/23.jpg"
@@ -333,7 +333,7 @@
 		{
 			"name": "Desert Racetrack",
 			"rarity": "mythic",
-			"mana_cost": "{5}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Enchantment Battle — Path",
 			"collector_number": "36",
 			"image_uris": {
@@ -453,8 +453,8 @@
 		{
 			"name": "Bizarre Fantasia",
 			"rarity": "common",
-			"mana_cost": "{5}{U}",
-			"type": "Instant",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/45.jpg"
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/49.jpg"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Jellyfish",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/52.jpg"
 			}
@@ -541,11 +541,11 @@
 			}
 		},
 		{
-			"name": "Fellowship Arcanist",
+			"name": "Calamity Augur",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "52",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/54.jpg"
 			}
@@ -563,9 +563,9 @@
 		{
 			"name": "Crystalline Brigand",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Creature — Giant",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/56.jpg"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Giant",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/57.jpg"
 			}
@@ -584,7 +584,7 @@
 			"name": "Adamant Core",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Vehicle",
+			"type": "Artifact — Vehicle",
 			"collector_number": "39",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/58.jpg"
@@ -655,7 +655,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Dwarf Wizard",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/65.jpg"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Crab",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/66.jpg"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/68.jpg"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/112.jpg"
 			}
@@ -1241,11 +1241,11 @@
 			}
 		},
 		{
-			"name": "Tempted by Power",
+			"name": "Supernatural Temptation",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "140",
+			"type": "Enchantment — Aether",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/124.jpg"
 			}
@@ -1273,7 +1273,7 @@
 		{
 			"name": "War Panther",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Creature — Cat",
 			"collector_number": "145",
 			"image_uris": {
@@ -1333,7 +1333,7 @@
 		{
 			"name": "Brazen Prospecting",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Aether",
 			"collector_number": "119",
 			"image_uris": {
@@ -1343,7 +1343,7 @@
 		{
 			"name": "Battle High",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "116",
 			"image_uris": {
@@ -1424,7 +1424,7 @@
 			"name": "Beyond the Source",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Instant",
+			"type": "Enchantment — Aether",
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/142.jpg"
@@ -1433,7 +1433,7 @@
 		{
 			"name": "Ruby Avenue",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Enchantment Battle — Path",
 			"collector_number": "149",
 			"image_uris": {
@@ -1443,7 +1443,7 @@
 		{
 			"name": "Alliance Raid",
 			"rarity": "mythic",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{R}",
 			"type": "Enchantment Battle — Path",
 			"collector_number": "146",
 			"image_uris": {
@@ -1473,7 +1473,7 @@
 		{
 			"name": "Seedseer Devotee",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{G}",
 			"type": "Creature — Elf Cleric",
 			"collector_number": "173",
 			"image_uris": {
@@ -1501,7 +1501,7 @@
 			}
 		},
 		{
-			"name": "Qiqirn Merchants",
+			"name": "Qiqirn Junkmongers",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Beast",
@@ -1614,7 +1614,7 @@
 			"name": "Roads Well Traveled",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "170",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/161.jpg"
@@ -1681,7 +1681,7 @@
 			}
 		},
 		{
-			"name": "Rugged Commandant",
+			"name": "Rugged Forerunner",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Giant",
@@ -1721,7 +1721,7 @@
 			}
 		},
 		{
-			"name": "Hinterland Companon",
+			"name": "Hinterland Companion",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Bird",
@@ -1813,7 +1813,7 @@
 		{
 			"name": "Jungle Longstop",
 			"rarity": "mythic",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{4}{G}",
 			"type": "Enchantment Battle — Path",
 			"collector_number": "184",
 			"image_uris": {
@@ -1903,7 +1903,7 @@
 		{
 			"name": "Selune, Faint Shadow",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{B}",
+			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Elf Rogue",
 			"collector_number": "190",
 			"image_uris": {
@@ -1943,7 +1943,7 @@
 		{
 			"name": "Hildibrand, Gentleman Heir",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{W}{B}",
+			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "198",
 			"image_uris": {
@@ -1983,7 +1983,7 @@
 		{
 			"name": "Arnr, Veteran Adventurer",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{U}",
+			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human",
 			"collector_number": "205",
 			"image_uris": {
@@ -2031,7 +2031,7 @@
 			}
 		},
 		{
-			"name": "Seventh Dawn Scion",
+			"name": "Seventh Dawn Scions",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Cat Cleric",
@@ -2183,7 +2183,7 @@
 		{
 			"name": "Lunar Facsimile",
 			"rarity": "rare",
-			"mana_cost": "{7}",
+			"mana_cost": "{9}",
 			"type": "Artifact Creature — Golem Soldier",
 			"collector_number": "220",
 			"image_uris": {
@@ -2384,7 +2384,7 @@
 			"name": "The Aethersea",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Legendary Land",
+			"type": "Legendary Enchantment Land — Aether",
 			"collector_number": "230",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/238.jpg"
@@ -2503,727 +2503,245 @@
 	]
 
 [rare(1)]
-	2 Curious Hatchling
-	2 Snowcloak Herald
-	2 Minfilia, Scion Antecedent
-	2 A Hero of Light
-	2 Gysahl Glutton
-	2 Push the Crystal
-	2 For the Homeland
-	2 Group Pose
-	1 Desert Racetrack
-	1 Crystalline Array
-	1 Triple Triad
-	1 Thornmarch
-	2 Ironworks Engineer
-	2 Bottomless Crags
-	2 Merlwyb, Storm Admiral
-	2 Carnivale Hotshot
-	2 Cancerous Threat
-	2 Marilye, Veiled Deceiver
-	2 Dream in Ice
-	2 Whalaqee Gambit
-	1 Syrcus Tower
-	1 Nymian Remnants
-	1 Sastasha Seagrot
-	1 Relict Tower
-	2 Megalomaniac
-	2 Legionnaire Envoy
-	2 Stygian Visage
-	2 Heart of Sabik
-	2 Gaius, Sable Legatus
-	2 Voidsent Royalty
-	2 Umbral Era
-	2 Manipulation
-	1 Haukke Foyer
-	1 Stone Vigil
-	1 Carteneau Flats
-	1 Dun Scaith
-	2 Auspice of Rebirth
-	2 Smoldering Bowl
-	2 Raubahn, Mhigan Champion
-	2 Alliance Commander
-	2 New World Tyrant
-	2 Ceruleum Cultivator
-	2 Flames of Rebellion
-	2 Beyond the Source
-	1 Ruby Avenue
-	1 Alliance Raid
-	1 Echoing Roars
-	1 Chocobo Nest
-	2 Hinterland Companon
-	2 Tempestuous Eye
-	2 Senna, Seedseer Matron
-	2 Sylvan Warden
-	2 Voracious Morbol
-	2 Quieting Winds
-	2 Coalesced Grace
-	2 Sanctuary Menagerie
-	1 Fallgourd Float
-	1 Jungle Longstop
-	1 Sylvan Thicket
-	1 Seal Rock
-	2 Baldesion Students
-	2 Legion Flagship
-	2 Ascian Lahabrea
-	2 Ajani, in a Strange Land
-	2 Seventh Dawn Scion
-	2 Heiress of Haukke
-	2 Dreadwyrm Invocation
-	2 Failed Encounter
-	2 Bonds Unbroken
-	2 Savage Raider
-	2 Nullstone Refraction
-	2 Lunar Facsimile
-	2 Tupsimati
-	2 Cid Garlond
-	2 Peaceful Harbor
-	2 Wretched Facade
-	2 Accursed Catacombs
-	2 Unexplored Wilds
-	2 Hushed Enclave
-	2 The Aethersea
+	5 Curious Hatchling
+	5 Snowcloak Herald
+	5 Minfilia, Scion Antecedent
+	5 A Hero of Light
+	5 Gysahl Glutton
+	5 Push the Crystal
+	5 For the Homeland
+	5 Group Pose
+	5 Desert Racetrack
+	5 Crystalline Array
+	5 Triple Triad
+	5 Thornmarch
+	5 Ironworks Engineer
+	5 Bottomless Crags
+	5 Merlwyb, Storm Admiral
+	5 Carnivale Hotshot
+	5 Cancerous Threat
+	5 Marilye, Veiled Deceiver
+	5 Dream in Ice
+	5 Whalaqee Gambit
+	5 Syrcus Tower
+	5 Nymian Remnants
+	5 Sastasha Seagrot
+	5 Relict Tower
+	5 Megalomaniac
+	5 Legionnaire Envoy
+	5 Stygian Visage
+	5 Heart of Sabik
+	5 Gaius, Sable Legatus
+	5 Voidsent Royalty
+	5 Umbral Era
+	5 Manipulation
+	5 Haukke Foyer
+	5 Stone Vigil
+	5 Carteneau Flats
+	5 Dun Scaith
+	5 Auspice of Rebirth
+	5 Smoldering Bowl
+	5 Raubahn, Mhigan Champion
+	5 Alliance Commander
+	5 New World Tyrant
+	5 Ceruleum Cultivator
+	5 Flames of Rebellion
+	5 Beyond the Source
+	5 Ruby Avenue
+	5 Alliance Raid
+	5 Echoing Roars
+	5 Chocobo Nest
+	5 Hinterland Companion
+	5 Tempestuous Eye
+	5 Senna, Seedseer Matron
+	5 Sylvan Warden
+	5 Voracious Morbol
+	5 Quieting Winds
+	5 Coalesced Grace
+	5 Sanctuary Menagerie
+	5 Fallgourd Float
+	5 Jungle Longstop
+	5 Sylvan Thicket
+	5 Seal Rock
+	5 Baldesion Students
+	5 Legion Flagship
+	5 Ascian Lahabrea
+	5 Ajani, in a Strange Land
+	5 Seventh Dawn Scions
+	5 Heiress of Haukke
+	5 Dreadwyrm Invocation
+	5 Failed Encounter
+	5 Bonds Unbroken
+	5 Savage Raider
+	5 Nullstone Refraction
+	5 Lunar Facsimile
+	5 Tupsimati
+	5 Cid Garlond
+	5 Peaceful Harbor
+	5 Wretched Facade
+	5 Accursed Catacombs
+	5 Unexplored Wilds
+	5 Hushed Enclave
+	5 The Aethersea
 [uncommon(3)]
-	4 Jack of All Trades
-	4 Chocobo Covering
-	4 Erstwhile Missionary
-	4 Midland Auspex
-	4 Pursy Pussy
-	4 Gilt Fateweaver
-	4 Benevolent Moglin
-	4 Inspiring Paean
-	4 Clash of Talons
-	4 Afflatus Solace
-	4 Elusive Aurelia
-	4 Surecast Manipulator
-	4 Fellowship Arcanist
-	4 Trained Aesthetician
-	4 Crystalline Brigand
-	4 Cerulean Adept
-	4 Adamant Core
-	4 Recruit a Friend
-	4 Whirlwind Denial
-	4 Records from Another World
-	4 Tainted Corsair
-	4 Life for Empire
-	4 Lingering Revenant
-	4 Praefectus Executor
-	4 Ominous Ahriman
-	4 Gaping Maw
-	4 At Any Cost
-	4 Futures Forfeit
-	4 Lost to the Lifestream
-	4 Touch of the Black Rose
-	4 Frenzied Marauder
-	4 War Panther
-	4 Steadfast Wanderer
-	4 Feathered Dancer
-	4 Strike Out
-	4 Dravanian Flamewing
-	4 Walking Gaol
-	4 Brazen Prospecting
-	4 Battle High
-	4 Orchard Keeper
-	4 Faetouched Vagabond
-	4 Prized Phurble
-	4 Sharlayan Specialist
-	4 Vicious Cock
-	4 Sylphland Guard
-	4 Rugged Commandant
-	4 Choose Your Weapon
-	4 Synergize
-	4 Rekindle
-	4 Godric, Flow Reader
-	4 Selune, Faint Shadow
-	4 Bellona, Cruel Thorn
-	4 Rostnfyr, Wild Axe
-	4 Urara, Heart Keeper
-	4 Hildibrand, Gentleman Heir
-	4 Geser, Rising Star
-	4 Echidna, Ark Remnant
-	4 Nezha, Decorated Cloak
-	4 Arnr, Veteran Adventurer
-	4 Faceless Combatant
-	4 Meteor Golem
-	4 Icarus Engine
-	4 Soul Crystals
-	4 Abalathian Stronghold
-	4 Vylbrand Wharf
-	4 Aldenard Fringes
-	4 Thanalan Exchange
-	4 Twelveswood Haven
-	4 Frontier Outpost
-	4 Battleworn Leader
-[common(7)]
-	8 Hunting Talon
-	8 Stillglade Initiate
-	8 Fortemps Exemplar
-	8 Frolicking Friend
-	8 Sandshore Colibri
-	8 Blessed Acolyte
-	8 Starlit Mystic
-	8 Postmog Deputy
-	8 Shimmer Tuner
-	8 Tailfeather Historian
-	8 Winged Tome
-	8 Welcome Home
-	8 Rampant Light
-	8 Immolating Glare
-	8 Take a Stand
-	8 Illusory Morpho
-	8 Rhotano Scoundrel
-	8 Moonlit Lantern
-	8 Imperfect Gentleman
-	8 Tricorne Spellblade
-	8 Wyrmwing Channeler
-	8 Shining Spellsword
-	8 Armada Scourge
-	8 Bizarre Fantasia
-	8 Othard Ferry
-	8 Gone Fishing
-	8 Among the Stars
-	8 Defensive Exercise
-	8 Adloquium
-	8 Looking for Help
-	8 Awaiting Orders
-	8 Silent Diremite
-	8 Dispensible Conscripts
-	8 Corrupted Blade
-	8 Displaced Doman
-	8 Obsidian Puppy
-	8 Mhachi Experiments
-	8 Solo Hunter
-	8 Endless Reinforcements
-	8 False Death
-	8 Garlean Magitek
-	8 Inevitable End
-	8 Duress
-	8 From the Void
-	8 Gelmorran Rite
-	8 Miner Problems
-	8 Swift Enrollment
-	8 Promising Ace
-	8 Coliseum Cyclone
-	8 Unstable Effigy
-	8 Mhigan Mercenaries
-	8 New Alliances
-	8 Storied Hunter
-	8 To the Races
-	8 Maverick Officer
-	8 Devastating Blow
-	8 Piercing Note
-	8 Ambitious Assault
-	8 Tempted by Power
-	8 Vivid Pyrotechnics
-	8 Seedseer Devotee
-	8 Invested Novice
-	8 Dodo of Paradise
-	8 Qiqirn Merchants
-	8 Hearty Highlander
-	8 Serene Sentinel
-	8 Leyline Seekers
-	8 Raingully Ascetic
-	8 Ehcatl Brightfeather
-	8 Borderlands Billy
-	8 Dravanian Guillotine
-	8 Expedition Hijinks
-	8 Desynthesis
-	8 Gentle Harmony
-	8 Roads Well Traveled
-	8 Return Home
-	8 Offworld Dissonance
-	8 Covering Fire
-	8 Exhibit Power
-	8 Accept Only Perfection
-	8 Wind-Up Flock
-	8 Towering Entity
-	8 Company Airship
-	8 Tonberry Knife
-	8 Small Mercies
-	8 Inconsistent Connection
-	8 Cast into the Maw
-	8 Alpha Protocol
-	8 Blessings of the Twelve
-	8 Hall of the Novice
-[foil(1)]
-	12 Hunting Talon
-	12 Stillglade Initiate
-	12 Fortemps Exemplar
-	12 Frolicking Friend
-	12 Sandshore Colibri
-	12 Blessed Acolyte
-	12 Starlit Mystic
-	12 Postmog Deputy
-	12 Shimmer Tuner
-	12 Tailfeather Historian
-	12 Winged Tome
-	12 Welcome Home
-	12 Rampant Light
-	12 Immolating Glare
-	12 Take a Stand
-	6 Jack of All Trades
-	6 Chocobo Covering
-	6 Erstwhile Missionary
-	6 Midland Auspex
-	6 Pursy Pussy
-	6 Gilt Fateweaver
-	6 Benevolent Moglin
-	6 Inspiring Paean
-	6 Clash of Talons
-	6 Afflatus Solace
-	2 Curious Hatchling
-	2 Snowcloak Herald
-	2 Minfilia, Scion Antecedent
-	2 A Hero of Light
-	2 Gysahl Glutton
-	2 Push the Crystal
-	2 For the Homeland
-	2 Group Pose
-	1 Desert Racetrack
-	1 Crystalline Array
-	1 Triple Triad
-	1 Thornmarch
-	12 Illusory Morpho
-	12 Rhotano Scoundrel
-	12 Moonlit Lantern
-	12 Imperfect Gentleman
-	12 Tricorne Spellblade
-	12 Wyrmwing Channeler
-	12 Shining Spellsword
-	12 Armada Scourge
-	12 Bizarre Fantasia
-	12 Othard Ferry
-	12 Gone Fishing
-	12 Among the Stars
-	12 Defensive Exercise
-	12 Adloquium
-	12 Looking for Help
-	6 Elusive Aurelia
-	6 Surecast Manipulator
-	6 Fellowship Arcanist
-	6 Trained Aesthetician
-	6 Crystalline Brigand
-	6 Cerulean Adept
-	6 Adamant Core
-	6 Recruit a Friend
-	6 Whirlwind Denial
-	6 Records from Another World
-	2 Ironworks Engineer
-	2 Bottomless Crags
-	2 Merlwyb, Storm Admiral
-	2 Carnivale Hotshot
-	2 Cancerous Threat
-	2 Marilye, Veiled Deceiver
-	2 Dream in Ice
-	2 Whalaqee Gambit
-	1 Syrcus Tower
-	1 Nymian Remnants
-	1 Sastasha Seagrot
-	1 Relict Tower
-	12 Awaiting Orders
-	12 Silent Diremite
-	12 Dispensible Conscripts
-	12 Corrupted Blade
-	12 Displaced Doman
-	12 Obsidian Puppy
-	12 Mhachi Experiments
-	12 Solo Hunter
-	12 Endless Reinforcements
-	12 False Death
-	12 Garlean Magitek
-	12 Inevitable End
-	12 Duress
-	12 From the Void
-	12 Gelmorran Rite
-	6 Tainted Corsair
-	6 Life for Empire
-	6 Lingering Revenant
-	6 Praefectus Executor
-	6 Ominous Ahriman
-	6 Gaping Maw
-	6 At Any Cost
-	6 Futures Forfeit
-	6 Lost to the Lifestream
-	6 Touch of the Black Rose
-	2 Megalomaniac
-	2 Legionnaire Envoy
-	2 Stygian Visage
-	2 Heart of Sabik
-	2 Gaius, Sable Legatus
-	2 Voidsent Royalty
-	2 Umbral Era
-	2 Manipulation
-	1 Haukke Foyer
-	1 Stone Vigil
-	1 Carteneau Flats
-	1 Dun Scaith
-	12 Miner Problems
-	12 Swift Enrollment
-	12 Promising Ace
-	12 Coliseum Cyclone
-	12 Unstable Effigy
-	12 Mhigan Mercenaries
-	12 New Alliances
-	12 Storied Hunter
-	12 To the Races
-	12 Maverick Officer
-	12 Devastating Blow
-	12 Piercing Note
-	12 Ambitious Assault
-	12 Tempted by Power
-	12 Vivid Pyrotechnics
-	6 Frenzied Marauder
-	6 War Panther
-	6 Steadfast Wanderer
-	6 Feathered Dancer
-	6 Strike Out
-	6 Dravanian Flamewing
-	6 Walking Gaol
-	6 Brazen Prospecting
-	6 Battle High
-	2 Auspice of Rebirth
-	2 Smoldering Bowl
-	2 Raubahn, Mhigan Champion
-	2 Alliance Commander
-	2 New World Tyrant
-	2 Ceruleum Cultivator
-	2 Flames of Rebellion
-	2 Beyond the Source
-	1 Ruby Avenue
-	1 Alliance Raid
-	1 Echoing Roars
-	1 Chocobo Nest
-	12 Seedseer Devotee
-	12 Invested Novice
-	12 Dodo of Paradise
-	12 Qiqirn Merchants
-	12 Hearty Highlander
-	12 Serene Sentinel
-	12 Leyline Seekers
-	12 Raingully Ascetic
-	12 Ehcatl Brightfeather
-	12 Borderlands Billy
-	12 Dravanian Guillotine
-	12 Expedition Hijinks
-	12 Desynthesis
-	12 Gentle Harmony
-	12 Roads Well Traveled
-	6 Orchard Keeper
-	6 Faetouched Vagabond
-	6 Prized Phurble
-	6 Sharlayan Specialist
-	6 Vicious Cock
-	6 Sylphland Guard
-	6 Rugged Commandant
-	6 Choose Your Weapon
-	6 Synergize
-	6 Rekindle
-	2 Hinterland Companon
-	2 Tempestuous Eye
-	2 Senna, Seedseer Matron
-	2 Sylvan Warden
-	2 Voracious Morbol
-	2 Quieting Winds
-	2 Coalesced Grace
-	2 Sanctuary Menagerie
-	1 Fallgourd Float
-	1 Jungle Longstop
-	1 Sylvan Thicket
-	1 Seal Rock
-	12 Return Home
-	12 Offworld Dissonance
-	12 Covering Fire
-	12 Exhibit Power
-	12 Accept Only Perfection
-	6 Godric, Flow Reader
-	6 Selune, Faint Shadow
-	6 Bellona, Cruel Thorn
-	6 Rostnfyr, Wild Axe
-	6 Urara, Heart Keeper
-	6 Hildibrand, Gentleman Heir
-	6 Geser, Rising Star
-	6 Echidna, Ark Remnant
-	6 Nezha, Decorated Cloak
-	6 Arnr, Veteran Adventurer
-	2 Baldesion Students
-	2 Legion Flagship
-	2 Ascian Lahabrea
-	2 Ajani, in a Strange Land
-	2 Seventh Dawn Scion
-	2 Heiress of Haukke
-	2 Dreadwyrm Invocation
-	2 Failed Encounter
-	2 Bonds Unbroken
-	2 Savage Raider
-	12 Wind-Up Flock
-	12 Towering Entity
-	12 Company Airship
-	12 Tonberry Knife
-	6 Faceless Combatant
-	6 Meteor Golem
-	6 Icarus Engine
-	6 Soul Crystals
-	2 Nullstone Refraction
-	2 Lunar Facsimile
-	2 Tupsimati
-	12 Small Mercies
-	12 Inconsistent Connection
-	12 Cast into the Maw
-	12 Alpha Protocol
-	12 Blessings of the Twelve
-	2 Cid Garlond
-	12 Hall of the Novice
-	6 Abalathian Stronghold
-	6 Vylbrand Wharf
-	6 Aldenard Fringes
-	6 Thanalan Exchange
-	6 Twelveswood Haven
-	6 Frontier Outpost
-	2 Peaceful Harbor
-	2 Wretched Facade
-	2 Accursed Catacombs
-	2 Unexplored Wilds
-	2 Hushed Enclave
-	2 The Aethersea
-	6 Battleworn Leader
-[wildcard(1)]
-	6 Hunting Talon
-	6 Stillglade Initiate
-	6 Fortemps Exemplar
-	6 Frolicking Friend
-	6 Sandshore Colibri
-	6 Blessed Acolyte
-	6 Starlit Mystic
-	6 Postmog Deputy
-	6 Shimmer Tuner
-	6 Tailfeather Historian
-	6 Winged Tome
-	6 Welcome Home
-	6 Rampant Light
-	6 Immolating Glare
-	6 Take a Stand
-	15 Jack of All Trades
-	15 Chocobo Covering
-	15 Erstwhile Missionary
-	15 Midland Auspex
-	15 Pursy Pussy
-	15 Gilt Fateweaver
-	15 Benevolent Moglin
-	15 Inspiring Paean
-	15 Clash of Talons
-	15 Afflatus Solace
-	7 Curious Hatchling
-	7 Snowcloak Herald
-	7 Minfilia, Scion Antecedent
-	7 A Hero of Light
-	7 Gysahl Glutton
-	7 Push the Crystal
-	7 For the Homeland
-	7 Group Pose
-	4 Desert Racetrack
-	4 Crystalline Array
-	4 Triple Triad
-	4 Thornmarch
-	6 Illusory Morpho
-	6 Rhotano Scoundrel
-	6 Moonlit Lantern
-	6 Imperfect Gentleman
-	6 Tricorne Spellblade
-	6 Wyrmwing Channeler
-	6 Shining Spellsword
-	6 Armada Scourge
-	6 Bizarre Fantasia
-	6 Othard Ferry
-	6 Gone Fishing
-	6 Among the Stars
-	6 Defensive Exercise
-	6 Adloquium
-	6 Looking for Help
-	15 Elusive Aurelia
-	15 Surecast Manipulator
-	15 Fellowship Arcanist
-	15 Trained Aesthetician
-	15 Crystalline Brigand
-	15 Cerulean Adept
-	15 Adamant Core
-	15 Recruit a Friend
-	15 Whirlwind Denial
-	15 Records from Another World
-	7 Ironworks Engineer
-	7 Bottomless Crags
-	7 Merlwyb, Storm Admiral
-	7 Carnivale Hotshot
-	7 Cancerous Threat
-	7 Marilye, Veiled Deceiver
-	7 Dream in Ice
-	7 Whalaqee Gambit
-	4 Syrcus Tower
-	4 Nymian Remnants
-	4 Sastasha Seagrot
-	4 Relict Tower
-	6 Awaiting Orders
-	6 Silent Diremite
-	6 Dispensible Conscripts
-	6 Corrupted Blade
-	6 Displaced Doman
-	6 Obsidian Puppy
-	6 Mhachi Experiments
-	6 Solo Hunter
-	6 Endless Reinforcements
-	6 False Death
-	6 Garlean Magitek
-	6 Inevitable End
-	6 Duress
-	6 From the Void
-	6 Gelmorran Rite
-	15 Tainted Corsair
-	15 Life for Empire
-	15 Lingering Revenant
-	15 Praefectus Executor
-	15 Ominous Ahriman
-	15 Gaping Maw
-	15 At Any Cost
-	15 Futures Forfeit
-	15 Lost to the Lifestream
-	15 Touch of the Black Rose
-	7 Megalomaniac
-	7 Legionnaire Envoy
-	7 Stygian Visage
-	7 Heart of Sabik
-	7 Gaius, Sable Legatus
-	7 Voidsent Royalty
-	7 Umbral Era
-	7 Manipulation
-	4 Haukke Foyer
-	4 Stone Vigil
-	4 Carteneau Flats
-	4 Dun Scaith
-	6 Miner Problems
-	6 Swift Enrollment
-	6 Promising Ace
-	6 Coliseum Cyclone
-	6 Unstable Effigy
-	6 Mhigan Mercenaries
-	6 New Alliances
-	6 Storied Hunter
-	6 To the Races
-	6 Maverick Officer
-	6 Devastating Blow
-	6 Piercing Note
-	6 Ambitious Assault
-	6 Tempted by Power
-	6 Vivid Pyrotechnics
-	15 Frenzied Marauder
-	15 War Panther
-	15 Steadfast Wanderer
-	15 Feathered Dancer
-	15 Strike Out
-	15 Dravanian Flamewing
-	15 Walking Gaol
-	15 Brazen Prospecting
-	15 Battle High
-	7 Auspice of Rebirth
-	7 Smoldering Bowl
-	7 Raubahn, Mhigan Champion
-	7 Alliance Commander
-	7 New World Tyrant
-	7 Ceruleum Cultivator
-	7 Flames of Rebellion
-	7 Beyond the Source
-	4 Ruby Avenue
-	4 Alliance Raid
-	4 Echoing Roars
-	4 Chocobo Nest
-	6 Seedseer Devotee
-	6 Invested Novice
-	6 Dodo of Paradise
-	6 Qiqirn Merchants
-	6 Hearty Highlander
-	6 Serene Sentinel
-	6 Leyline Seekers
-	6 Raingully Ascetic
-	6 Ehcatl Brightfeather
-	6 Borderlands Billy
-	6 Dravanian Guillotine
-	6 Expedition Hijinks
-	6 Desynthesis
-	6 Gentle Harmony
-	6 Roads Well Traveled
-	15 Orchard Keeper
-	15 Faetouched Vagabond
-	15 Prized Phurble
-	15 Sharlayan Specialist
-	15 Vicious Cock
-	15 Sylphland Guard
-	15 Rugged Commandant
-	15 Choose Your Weapon
-	15 Synergize
-	15 Rekindle
-	7 Hinterland Companon
-	7 Tempestuous Eye
-	7 Senna, Seedseer Matron
-	7 Sylvan Warden
-	7 Voracious Morbol
-	7 Quieting Winds
-	7 Coalesced Grace
-	7 Sanctuary Menagerie
-	4 Fallgourd Float
-	4 Jungle Longstop
-	4 Sylvan Thicket
-	4 Seal Rock
-	6 Return Home
-	6 Offworld Dissonance
-	6 Covering Fire
-	6 Exhibit Power
-	6 Accept Only Perfection
-	15 Godric, Flow Reader
-	15 Selune, Faint Shadow
-	15 Bellona, Cruel Thorn
-	15 Rostnfyr, Wild Axe
-	15 Urara, Heart Keeper
-	15 Hildibrand, Gentleman Heir
-	15 Geser, Rising Star
-	15 Echidna, Ark Remnant
-	15 Nezha, Decorated Cloak
-	15 Arnr, Veteran Adventurer
-	7 Baldesion Students
-	7 Legion Flagship
-	7 Ascian Lahabrea
-	7 Ajani, in a Strange Land
-	7 Seventh Dawn Scion
-	7 Heiress of Haukke
-	7 Dreadwyrm Invocation
-	7 Failed Encounter
-	7 Bonds Unbroken
-	7 Savage Raider
-	6 Wind-Up Flock
-	6 Towering Entity
-	6 Company Airship
-	6 Tonberry Knife
-	15 Faceless Combatant
-	15 Meteor Golem
-	15 Icarus Engine
-	15 Soul Crystals
-	7 Nullstone Refraction
-	7 Lunar Facsimile
-	7 Tupsimati
-	6 Small Mercies
-	6 Inconsistent Connection
-	6 Cast into the Maw
-	6 Alpha Protocol
-	6 Blessings of the Twelve
-	7 Cid Garlond
-	6 Hall of the Novice
-	15 Abalathian Stronghold
-	15 Vylbrand Wharf
-	15 Aldenard Fringes
-	15 Thanalan Exchange
-	15 Twelveswood Haven
-	15 Frontier Outpost
-	7 Peaceful Harbor
-	7 Wretched Facade
-	7 Accursed Catacombs
-	7 Unexplored Wilds
-	7 Hushed Enclave
-	7 The Aethersea
-	15 Battleworn Leader
+	5 Jack of All Trades
+	5 Chocobo Covering
+	5 Erstwhile Missionary
+	5 Midland Auspex
+	5 Pursy Pussy
+	5 Gilt Fateweaver
+	5 Benevolent Moglin
+	5 Inspiring Paean
+	5 Clash of Talons
+	5 Afflatus Solace
+	5 Elusive Aurelia
+	5 Surecast Manipulator
+	5 Calamity Augur
+	5 Trained Aesthetician
+	5 Crystalline Brigand
+	5 Cerulean Adept
+	5 Adamant Core
+	5 Recruit a Friend
+	5 Whirlwind Denial
+	5 Records from Another World
+	5 Tainted Corsair
+	5 Life for Empire
+	5 Lingering Revenant
+	5 Praefectus Executor
+	5 Ominous Ahriman
+	5 Gaping Maw
+	5 At Any Cost
+	5 Futures Forfeit
+	5 Lost to the Lifestream
+	5 Touch of the Black Rose
+	5 Frenzied Marauder
+	5 War Panther
+	5 Steadfast Wanderer
+	5 Feathered Dancer
+	5 Strike Out
+	5 Dravanian Flamewing
+	5 Walking Gaol
+	5 Brazen Prospecting
+	5 Battle High
+	5 Orchard Keeper
+	5 Faetouched Vagabond
+	5 Prized Phurble
+	5 Sharlayan Specialist
+	5 Vicious Cock
+	5 Sylphland Guard
+	5 Rugged Forerunner
+	5 Choose Your Weapon
+	5 Synergize
+	5 Rekindle
+	5 Godric, Flow Reader
+	5 Selune, Faint Shadow
+	5 Bellona, Cruel Thorn
+	5 Rostnfyr, Wild Axe
+	5 Urara, Heart Keeper
+	5 Hildibrand, Gentleman Heir
+	5 Geser, Rising Star
+	5 Echidna, Ark Remnant
+	5 Nezha, Decorated Cloak
+	5 Arnr, Veteran Adventurer
+	5 Faceless Combatant
+	5 Meteor Golem
+	5 Icarus Engine
+	5 Soul Crystals
+	5 Abalathian Stronghold
+	5 Vylbrand Wharf
+	5 Aldenard Fringes
+	5 Thanalan Exchange
+	5 Twelveswood Haven
+	5 Frontier Outpost
+	5 Battleworn Leader
+[common(10)]
+	5 Hunting Talon
+	5 Stillglade Initiate
+	5 Fortemps Exemplar
+	5 Frolicking Friend
+	5 Sandshore Colibri
+	5 Blessed Acolyte
+	5 Starlit Mystic
+	5 Postmog Deputy
+	5 Shimmer Tuner
+	5 Tailfeather Historian
+	5 Winged Tome
+	5 Welcome Home
+	5 Rampant Light
+	5 Immolating Glare
+	5 Take a Stand
+	5 Illusory Morpho
+	5 Rhotano Scoundrel
+	5 Moonlit Lantern
+	5 Imperfect Gentleman
+	5 Tricorne Spellblade
+	5 Wyrmwing Channeler
+	5 Shining Spellsword
+	5 Armada Scourge
+	5 Bizarre Fantasia
+	5 Othard Ferry
+	5 Gone Fishing
+	5 Among the Stars
+	5 Defensive Exercise
+	5 Adloquium
+	5 Looking for Help
+	5 Awaiting Orders
+	5 Silent Diremite
+	5 Dispensible Conscripts
+	5 Corrupted Blade
+	5 Displaced Doman
+	5 Obsidian Puppy
+	5 Mhachi Experiments
+	5 Solo Hunter
+	5 Endless Reinforcements
+	5 False Death
+	5 Garlean Magitek
+	5 Inevitable End
+	5 Duress
+	5 From the Void
+	5 Gelmorran Rite
+	5 Miner Problems
+	5 Swift Enrollment
+	5 Promising Ace
+	5 Coliseum Cyclone
+	5 Unstable Effigy
+	5 Mhigan Mercenaries
+	5 New Alliances
+	5 Storied Hunter
+	5 To the Races
+	5 Maverick Officer
+	5 Devastating Blow
+	5 Piercing Note
+	5 Ambitious Assault
+	5 Supernatural Temptation
+	5 Vivid Pyrotechnics
+	5 Seedseer Devotee
+	5 Invested Novice
+	5 Dodo of Paradise
+	5 Qiqirn Junkmongers
+	5 Hearty Highlander
+	5 Serene Sentinel
+	5 Leyline Seekers
+	5 Raingully Ascetic
+	5 Ehcatl Brightfeather
+	5 Borderlands Billy
+	5 Dravanian Guillotine
+	5 Expedition Hijinks
+	5 Desynthesis
+	5 Gentle Harmony
+	5 Roads Well Traveled
+	5 Return Home
+	5 Offworld Dissonance
+	5 Covering Fire
+	5 Exhibit Power
+	5 Accept Only Perfection
+	5 Wind-Up Flock
+	5 Towering Entity
+	5 Company Airship
+	5 Tonberry Knife
+	5 Small Mercies
+	5 Inconsistent Connection
+	5 Cast into the Maw
+	5 Alpha Protocol
+	5 Blessings of the Twelve
+	5 Hall of the Novice

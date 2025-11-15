@@ -183,7 +183,7 @@
     },
     {
         "card_name": "Cancerous Threat",
-        "number": 45,
+        "number": 46,
         "shape": "normal",
         "set": "EOR",
         "position": "66"
@@ -203,7 +203,7 @@
         "position": "135"
     },
     {
-        "card_name": "Hinterland Companon",
+        "card_name": "Hinterland Companion",
         "number": 161,
         "shape": "normal",
         "set": "EOR",
@@ -218,7 +218,7 @@
     },
     {
         "card_name": "Carnivale Hotshot",
-        "number": 46,
+        "number": 47,
         "shape": "normal",
         "set": "EOR",
         "position": "65"
@@ -253,7 +253,7 @@
     },
     {
         "card_name": "Dream in Ice",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "EOR",
         "position": "68"
@@ -462,11 +462,11 @@
         "position": "21"
     },
     {
-        "card_name": "Cerulean Adept",
-        "number": 47,
+        "card_name": "Calamity Augur",
+        "number": 45,
         "shape": "normal",
         "set": "EOR",
-        "position": "57"
+        "position": "54"
     },
     {
         "card_name": "Futures Forfeit",
@@ -497,11 +497,11 @@
         "position": "16"
     },
     {
-        "card_name": "Crystalline Brigand",
+        "card_name": "Cerulean Adept",
         "number": 48,
         "shape": "normal",
         "set": "EOR",
-        "position": "56"
+        "position": "57"
     },
     {
         "card_name": "Gaping Maw",
@@ -532,11 +532,11 @@
         "position": "23"
     },
     {
-        "card_name": "Elusive Aurelia",
-        "number": 51,
+        "card_name": "Crystalline Brigand",
+        "number": 49,
         "shape": "normal",
         "set": "EOR",
-        "position": "52"
+        "position": "56"
     },
     {
         "card_name": "Life for Empire",
@@ -567,11 +567,11 @@
         "position": "17"
     },
     {
-        "card_name": "Fellowship Arcanist",
+        "card_name": "Elusive Aurelia",
         "number": 52,
         "shape": "normal",
         "set": "EOR",
-        "position": "54"
+        "position": "52"
     },
     {
         "card_name": "Lingering Revenant",
@@ -623,7 +623,7 @@
         "position": "126"
     },
     {
-        "card_name": "Rugged Commandant",
+        "card_name": "Rugged Forerunner",
         "number": 171,
         "shape": "normal",
         "set": "EOR",
@@ -918,7 +918,7 @@
     },
     {
         "card_name": "Defensive Exercise",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "EOR",
         "position": "49"
@@ -1141,14 +1141,14 @@
         "position": "85"
     },
     {
-        "card_name": "Swift Enrollment",
+        "card_name": "Supernatural Temptation",
         "number": 139,
         "shape": "normal",
         "set": "EOR",
-        "position": "112"
+        "position": "124"
     },
     {
-        "card_name": "Qiqirn Merchants",
+        "card_name": "Qiqirn Junkmongers",
         "number": 166,
         "shape": "normal",
         "set": "EOR",
@@ -1176,11 +1176,11 @@
         "position": "80"
     },
     {
-        "card_name": "Tempted by Power",
+        "card_name": "Swift Enrollment",
         "number": 140,
         "shape": "normal",
         "set": "EOR",
-        "position": "124"
+        "position": "112"
     },
     {
         "card_name": "Raingully Ascetic",
@@ -1336,7 +1336,7 @@
         "position": "202"
     },
     {
-        "card_name": "Seventh Dawn Scion",
+        "card_name": "Seventh Dawn Scions",
         "number": 195,
         "shape": "normal",
         "set": "EOR",
