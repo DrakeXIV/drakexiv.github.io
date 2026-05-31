@@ -1,7 +1,7 @@
 ﻿{
     "name": "Defenders of Eorzea",
     "formats": "Revolution",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "jpg",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -5228,5 +5228,6 @@
             "position": "249",
             "notes": "!tokens Army"
         }
-    ]
+    ],
+    "version": 3
 }

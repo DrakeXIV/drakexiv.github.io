@@ -11,13 +11,23 @@
 			}
 		},
 		{
-			"name": "Stillglade Initiate",
+			"name": "Studious Drifter",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Dwarf Cleric",
-			"collector_number": "30",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Ashen Survivor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/2.jpg"
 			}
 		},
 		{
@@ -25,109 +35,79 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/2.jpg"
-			}
-		},
-		{
-			"name": "Frolicking Friend",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Dog",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/3.jpg"
 			}
 		},
 		{
-			"name": "Sandshore Colibri",
+			"name": "Stillglade Initiate",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Bird",
-			"collector_number": "26",
+			"type": "Creature — Dwarf Cleric",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/4.jpg"
 			}
 		},
 		{
-			"name": "Blessed Acolyte",
+			"name": "Feathered Heritage",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "4",
+			"type": "Enchantment — Aether",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/5.jpg"
 			}
 		},
 		{
-			"name": "Starlit Mystic",
+			"name": "Mog Ensemble",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Cat",
-			"collector_number": "29",
+			"type": "Creature — Moogle",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/6.jpg"
 			}
 		},
 		{
-			"name": "Postmog Deputy",
+			"name": "Attuned Acolyte",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Moogle",
-			"collector_number": "22",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/7.jpg"
 			}
 		},
 		{
-			"name": "Shimmer Tuner",
+			"name": "Starlit Mystic",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Azra",
-			"collector_number": "27",
+			"type": "Creature — Cat Hero",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/8.jpg"
 			}
 		},
 		{
-			"name": "Tailfeather Historian",
+			"name": "Pursy Pussy",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Elf Wizard",
-			"collector_number": "31",
+			"type": "Creature — Cat Zombie",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/9.jpg"
 			}
 		},
 		{
-			"name": "Winged Tome",
-			"rarity": "common",
-			"mana_cost": "{4}{W}",
-			"type": "Artifact — Equipment",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/10.jpg"
-			}
-		},
-		{
-			"name": "Welcome Home",
+			"name": "Rampant Light",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/11.jpg"
-			}
-		},
-		{
-			"name": "Rampant Light",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Enchantment — Aether",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/12.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/10.jpg"
 			}
 		},
 		{
@@ -137,15 +117,35 @@
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Valiant Display",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Aetheric Disruption",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/13.jpg"
 			}
 		},
 		{
-			"name": "Take a Stand",
+			"name": "Raise",
 			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "32",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/14.jpg"
 			}
@@ -155,89 +155,99 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Cat",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/15.jpg"
 			}
 		},
 		{
-			"name": "Chocobo Covering",
+			"name": "Sandshore Colibri",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
-			"collector_number": "5",
+			"type": "Creature — Bird",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/16.jpg"
 			}
 		},
 		{
-			"name": "Erstwhile Missionary",
+			"name": "Arcane Companion",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Azra",
-			"collector_number": "8",
+			"type": "Creature — Fox",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/17.jpg"
 			}
 		},
 		{
-			"name": "Midland Auspex",
+			"name": "Scholasticate Tactician",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "20",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/18.jpg"
 			}
 		},
 		{
-			"name": "Pursy Pussy",
+			"name": "Erstwhile Missionary",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Cat Zombie",
-			"collector_number": "23",
+			"type": "Creature — Azra Hero",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/19.jpg"
 			}
 		},
 		{
-			"name": "Gilt Fateweaver",
+			"name": "Memories of Home",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Elf Wizard",
-			"collector_number": "12",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/20.jpg"
 			}
 		},
 		{
-			"name": "Benevolent Moglin",
+			"name": "Heartbound Healer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Moogle",
-			"collector_number": "3",
+			"type": "Creature — Azra Cleric",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/21.jpg"
 			}
 		},
 		{
-			"name": "Inspiring Paean",
+			"name": "Rathefrost Thunder",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aether",
-			"collector_number": "18",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Kirin Horse",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/22.jpg"
 			}
 		},
 		{
-			"name": "Clash of Talons",
+			"name": "Wondrous Tales",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W}",
-			"type": "Instant",
-			"collector_number": "6",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aether",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Push the Crystal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/24.jpg"
 			}
 		},
 		{
@@ -245,29 +255,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/24.jpg"
-			}
-		},
-		{
-			"name": "Curious Hatchling",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "Creature — Bird",
-			"collector_number": "7",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/25.jpg"
 			}
 		},
 		{
-			"name": "Snowcloak Herald",
-			"rarity": "rare",
+			"name": "Retrospection",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Azra Cleric",
+			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Benevolent Moglin",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Moogle Noble",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/27.jpg"
 			}
 		},
 		{
@@ -275,9 +285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/27.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/28.jpg"
 			}
 		},
 		{
@@ -287,7 +297,7 @@
 			"type": "Planeswalker",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/28.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/29.jpg"
 			}
 		},
 		{
@@ -295,19 +305,29 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/29.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/30.jpg"
 			}
 		},
 		{
-			"name": "Push the Crystal",
+			"name": "Shadowlands Refuge",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Enchantment — Aether",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Realm Reborn",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/30.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/32.jpg"
 			}
 		},
 		{
@@ -315,9 +335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/31.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/33.jpg"
 			}
 		},
 		{
@@ -325,27 +345,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/32.jpg"
-			}
-		},
-		{
-			"name": "Desert Racetrack",
-			"rarity": "mythic",
-			"mana_cost": "{4}{W}",
-			"type": "Enchantment Battle — Path",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/33.jpg"
-			}
-		},
-		{
-			"name": "Crystalline Array",
-			"rarity": "mythic",
-			"mana_cost": "{2}{W}",
-			"type": "Enchantment Battle — Path",
-			"collector_number": "35",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/34.jpg"
 			}
@@ -355,15 +355,15 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "38",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/35.jpg"
 			}
 		},
 		{
-			"name": "Thornmarch",
+			"name": "Crystalline Array",
 			"rarity": "mythic",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Enchantment Battle — Path",
 			"collector_number": "37",
 			"image_uris": {
@@ -371,13 +371,23 @@
 			}
 		},
 		{
-			"name": "Illusory Morpho",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Spirit Insect",
-			"collector_number": "54",
+			"name": "Desert Racetrack",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Battle — Path",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Thorny Clearing",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Battle — Path",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/38.jpg"
 			}
 		},
 		{
@@ -385,37 +395,27 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "64",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/38.jpg"
-			}
-		},
-		{
-			"name": "Moonlit Lantern",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Artifact — Equipment",
-			"collector_number": "60",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/39.jpg"
 			}
 		},
 		{
-			"name": "Imperfect Gentleman",
+			"name": "Spectral Morpho",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Shapeshifter",
-			"collector_number": "55",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/40.jpg"
 			}
 		},
 		{
-			"name": "Tricorne Spellblade",
+			"name": "Imperfect Gentleman",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Dwarf",
-			"collector_number": "68",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/41.jpg"
 			}
@@ -423,181 +423,201 @@
 		{
 			"name": "Wyrmwing Channeler",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Dwarf Wizard",
-			"collector_number": "71",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/42.jpg"
 			}
 		},
 		{
-			"name": "Shining Spellsword",
+			"name": "Surecast Manipulator",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Cat",
-			"collector_number": "65",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Hero",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/43.jpg"
 			}
 		},
 		{
-			"name": "Armada Scourge",
+			"name": "Star Calling",
 			"rarity": "common",
-			"mana_cost": "{4}{U}",
-			"type": "Creature — Giant Rogue",
-			"collector_number": "42",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aether",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/44.jpg"
 			}
 		},
 		{
-			"name": "Bizarre Fantasia",
+			"name": "Dragonsbane Dervish",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Sorcery",
-			"collector_number": "43",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/45.jpg"
 			}
 		},
 		{
-			"name": "Othard Ferry",
+			"name": "Faetouched Vagabond",
 			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "61",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/46.jpg"
 			}
 		},
 		{
-			"name": "Gone Fishing",
+			"name": "Adamantoise",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Instant",
-			"collector_number": "53",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/47.jpg"
 			}
 		},
 		{
-			"name": "Among the Stars",
+			"name": "Waterfall Sprites",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aether",
-			"collector_number": "41",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/48.jpg"
 			}
 		},
 		{
-			"name": "Defensive Exercise",
+			"name": "Inconsistent Connection",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "50",
+			"type": "Enchantment — Aether",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Indigo Whorl",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Gone Fishing",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/51.jpg"
 			}
 		},
 		{
 			"name": "Adloquium",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aether",
-			"collector_number": "40",
+			"type": "Instant",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/50.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/52.jpg"
 			}
 		},
 		{
 			"name": "Looking for Help",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Instant",
-			"collector_number": "57",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/51.jpg"
-			}
-		},
-		{
-			"name": "Elusive Aurelia",
-			"rarity": "uncommon",
-			"mana_cost": "{U}",
-			"type": "Creature — Jellyfish",
-			"collector_number": "52",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/52.jpg"
-			}
-		},
-		{
-			"name": "Surecast Manipulator",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Elf",
-			"collector_number": "66",
+			"type": "Sorcery",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/53.jpg"
 			}
 		},
 		{
-			"name": "Calamity Augur",
+			"name": "Trained Aesthetician",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "45",
+			"mana_cost": "{U}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/54.jpg"
 			}
 		},
 		{
-			"name": "Trained Aesthetician",
+			"name": "Cerulean Adept",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Elf Rogue",
-			"collector_number": "67",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Hero",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/55.jpg"
 			}
 		},
 		{
-			"name": "Crystalline Brigand",
+			"name": "Ominous Shoebill",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{U}",
-			"type": "Creature — Giant",
-			"collector_number": "49",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/56.jpg"
 			}
 		},
 		{
-			"name": "Cerulean Adept",
+			"name": "Tideglider",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{U}",
-			"type": "Creature — Giant",
-			"collector_number": "48",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/57.jpg"
 			}
 		},
 		{
-			"name": "Adamant Core",
+			"name": "Crystalline Brigand",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "39",
+			"type": "Creature — Giant",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/58.jpg"
 			}
 		},
 		{
-			"name": "Recruit a Friend",
+			"name": "Calamity Augur",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "63",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Cancerous Threat",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Iridescent Fantasia",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aether",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/61.jpg"
 			}
 		},
 		{
@@ -605,9 +625,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "70",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/60.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Recruit a Friend",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/63.jpg"
 			}
 		},
 		{
@@ -615,29 +645,39 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aether",
-			"collector_number": "62",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/61.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Aetherflow",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/65.jpg"
 			}
 		},
 		{
 			"name": "Ironworks Engineer",
 			"rarity": "rare",
 			"mana_cost": "{U}",
-			"type": "Creature — Cat",
-			"collector_number": "56",
+			"type": "Creature — Cat Hero",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/62.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/66.jpg"
 			}
 		},
 		{
-			"name": "Bottomless Crags",
+			"name": "Matriarch of the Depths",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Primal",
-			"collector_number": "44",
+			"type": "Creature — Merfolk",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/63.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/67.jpg"
 			}
 		},
 		{
@@ -645,29 +685,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Giant Rogue",
-			"collector_number": "59",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/64.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/68.jpg"
 			}
 		},
 		{
-			"name": "Carnivale Hotshot",
+			"name": "Bottomless Crags",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Dwarf Wizard",
-			"collector_number": "47",
+			"type": "Enchantment — Primal",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/65.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/69.jpg"
 			}
 		},
 		{
-			"name": "Cancerous Threat",
+			"name": "Octomammoth",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}",
-			"type": "Creature — Crab",
-			"collector_number": "46",
+			"type": "Creature — Kraken",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/66.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/70.jpg"
 			}
 		},
 		{
@@ -675,9 +715,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Legendary Planeswalker — Marilye",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/67.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/71.jpg"
 			}
 		},
 		{
@@ -685,9 +725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/68.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/72.jpg"
 			}
 		},
 		{
@@ -695,39 +735,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aether",
-			"collector_number": "69",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/69.jpg"
-			}
-		},
-		{
-			"name": "Syrcus Tower",
-			"rarity": "mythic",
-			"mana_cost": "{3}{U}",
-			"type": "Enchantment Battle — Path",
-			"collector_number": "75",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/70.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/73.jpg"
 			}
 		},
 		{
 			"name": "Nymian Remnants",
 			"rarity": "mythic",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "72",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/71.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/74.jpg"
 			}
 		},
 		{
 			"name": "Sastasha Seagrot",
 			"rarity": "mythic",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "74",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/72.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/75.jpg"
 			}
 		},
 		{
@@ -735,9 +765,29 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "73",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/73.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Syrcus Tower",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Battle — Path",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Child",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Imp",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/78.jpg"
 			}
 		},
 		{
@@ -745,109 +795,89 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "77",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/74.jpg"
-			}
-		},
-		{
-			"name": "Silent Diremite",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Insect",
-			"collector_number": "102",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/75.jpg"
-			}
-		},
-		{
-			"name": "Dispensible Conscripts",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Cat Soldier",
-			"collector_number": "79",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/76.jpg"
-			}
-		},
-		{
-			"name": "Corrupted Blade",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Artifact — Equipment",
-			"collector_number": "78",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/77.jpg"
-			}
-		},
-		{
-			"name": "Displaced Doman",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Azra Rogue",
-			"collector_number": "80",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/78.jpg"
-			}
-		},
-		{
-			"name": "Obsidian Puppy",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Salamander",
-			"collector_number": "99",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/79.jpg"
 			}
 		},
 		{
-			"name": "Mhachi Experiments",
+			"name": "Holy See Renegade",
 			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Horror",
-			"collector_number": "98",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/80.jpg"
 			}
 		},
 		{
-			"name": "Solo Hunter",
+			"name": "Conscripted Fodder",
 			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Cat",
-			"collector_number": "103",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Soldier",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/81.jpg"
 			}
 		},
 		{
-			"name": "Endless Reinforcements",
+			"name": "Doman Shadow",
 			"rarity": "common",
-			"mana_cost": "{4}{B}",
-			"type": "Sorcery",
-			"collector_number": "82",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Azra Rogue",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/82.jpg"
 			}
 		},
 		{
-			"name": "False Death",
+			"name": "Carteneau Mercenary",
 			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "83",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/83.jpg"
 			}
 		},
 		{
-			"name": "Garlean Magitek",
+			"name": "Prowling Huntress",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "88",
+			"type": "Creature — Cat Hero",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Garlean Magitek",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Forsaken Soul",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Tainted Experiments",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/87.jpg"
 			}
 		},
 		{
@@ -855,9 +885,19 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "91",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/85.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Lost to the Lifestream",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/89.jpg"
 			}
 		},
 		{
@@ -865,119 +905,119 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "81",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/86.jpg"
-			}
-		},
-		{
-			"name": "From the Void",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Instant",
-			"collector_number": "84",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/87.jpg"
-			}
-		},
-		{
-			"name": "Gelmorran Rite",
-			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Enchantment — Aether",
-			"collector_number": "89",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/88.jpg"
-			}
-		},
-		{
-			"name": "Tainted Corsair",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Zombie Rogue",
-			"collector_number": "105",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/89.jpg"
-			}
-		},
-		{
-			"name": "Life for Empire",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/90.jpg"
 			}
 		},
 		{
-			"name": "Lingering Revenant",
-			"rarity": "uncommon",
+			"name": "Gelmorran Rite",
+			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Spirit",
-			"collector_number": "94",
+			"type": "Enchantment — Aether",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/91.jpg"
 			}
 		},
 		{
-			"name": "Praefectus Executor",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Giant Soldier",
-			"collector_number": "101",
+			"name": "Live in Darkness",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/92.jpg"
 			}
 		},
 		{
-			"name": "Ominous Ahriman",
+			"name": "Silent Diremite",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Eye Horror",
-			"collector_number": "100",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/93.jpg"
 			}
 		},
 		{
-			"name": "Gaping Maw",
+			"name": "Bright Eye Familiar",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
-			"type": "Creature — Horror",
-			"collector_number": "87",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Cat",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/94.jpg"
 			}
 		},
 		{
-			"name": "At Any Cost",
+			"name": "Eastern Decurio",
 			"rarity": "uncommon",
-			"mana_cost": "{X}{B}",
-			"type": "Sorcery",
-			"collector_number": "76",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Azra Soldier",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/95.jpg"
 			}
 		},
 		{
-			"name": "Futures Forfeit",
+			"name": "Life for Empire",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "85",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/96.jpg"
 			}
 		},
 		{
-			"name": "Lost to the Lifestream",
+			"name": "Lost Hope Corsair",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Instant",
-			"collector_number": "95",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Rogue",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Praefectus Executioner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Giant Soldier",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Decorated Adventurer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Futures Forfeit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Hallucinogenic Halitosis",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/101.jpg"
 			}
 		},
 		{
@@ -985,69 +1025,89 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "106",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/98.jpg"
-			}
-		},
-		{
-			"name": "Megalomaniac",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "Creature — Azra Rogue",
-			"collector_number": "97",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/99.jpg"
-			}
-		},
-		{
-			"name": "Legionnaire Envoy",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "92",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/100.jpg"
-			}
-		},
-		{
-			"name": "Stygian Visage",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Spirit",
-			"collector_number": "104",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/101.jpg"
-			}
-		},
-		{
-			"name": "Heart of Sabik",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "90",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/102.jpg"
 			}
 		},
 		{
-			"name": "Gaius, Sable Legatus",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "86",
+			"name": "At Any Cost",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/103.jpg"
 			}
 		},
 		{
-			"name": "Voidsent Royalty",
+			"name": "Megalomaniac",
 			"rarity": "rare",
-			"mana_cost": "{6}{B}{B}",
-			"type": "Creature — Demon Noble",
-			"collector_number": "108",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Azra",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Remastered Chopper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Armored Vigilante",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Hero",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Gaius, Sable Legatus",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Death Blossom",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Azra Rogue",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Heart of Sabik",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Stygian Visage",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/110.jpg"
 			}
 		},
 		{
@@ -1055,39 +1115,29 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/105.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/111.jpg"
 			}
 		},
 		{
-			"name": "Manipulation",
+			"name": "Pureheart Desperation",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
-			"collector_number": "96",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/106.jpg"
-			}
-		},
-		{
-			"name": "Haukke Foyer",
-			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
-			"type": "Enchantment Battle — Path",
-			"collector_number": "111",
+			"type": "Instant",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/107.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/112.jpg"
 			}
 		},
 		{
-			"name": "Stone Vigil",
+			"name": "Heretic Hideout",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "112",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/108.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/113.jpg"
 			}
 		},
 		{
@@ -1095,9 +1145,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "109",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/109.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Haukke Foyer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}",
+			"type": "Enchantment Battle — Path",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/115.jpg"
 			}
 		},
 		{
@@ -1105,9 +1165,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "110",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/110.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/116.jpg"
 			}
 		},
 		{
@@ -1115,29 +1175,19 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Kobold",
-			"collector_number": "129",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/111.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/117.jpg"
 			}
 		},
 		{
-			"name": "Swift Enrollment",
+			"name": "Company Recruitment",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Sorcery",
-			"collector_number": "140",
+			"type": "Enchantment — Aether",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/112.jpg"
-			}
-		},
-		{
-			"name": "Promising Ace",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Bird",
-			"collector_number": "133",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/113.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/118.jpg"
 			}
 		},
 		{
@@ -1145,49 +1195,49 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dwarf Warrior",
-			"collector_number": "121",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/114.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/119.jpg"
 			}
 		},
 		{
-			"name": "Unstable Effigy",
+			"name": "Relay Runners",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Unstable Nucleus",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "142",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/115.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/121.jpg"
 			}
 		},
 		{
-			"name": "Mhigan Mercenaries",
+			"name": "Maverick Officer",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human",
-			"collector_number": "128",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/116.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/122.jpg"
 			}
 		},
 		{
-			"name": "New Alliances",
+			"name": "Brotherhood of Ash",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "130",
+			"type": "Creature — Lizard Soldier",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/117.jpg"
-			}
-		},
-		{
-			"name": "Storied Hunter",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Elf Warrior",
-			"collector_number": "137",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/118.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/123.jpg"
 			}
 		},
 		{
@@ -1195,19 +1245,29 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "141",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/119.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/124.jpg"
 			}
 		},
 		{
-			"name": "Maverick Officer",
+			"name": "Mhigan Sellswords",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Hero",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Frenzied Marauder",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Elf Soldier",
-			"collector_number": "127",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/120.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/126.jpg"
 			}
 		},
 		{
@@ -1215,139 +1275,169 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "122",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/121.jpg"
-			}
-		},
-		{
-			"name": "Piercing Note",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Enchantment — Aether",
-			"collector_number": "132",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/122.jpg"
-			}
-		},
-		{
-			"name": "Ambitious Assault",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Instant",
-			"collector_number": "114",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/123.jpg"
-			}
-		},
-		{
-			"name": "Supernatural Temptation",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Enchantment — Aether",
-			"collector_number": "139",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/124.jpg"
-			}
-		},
-		{
-			"name": "Vivid Pyrotechnics",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "143",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/125.jpg"
-			}
-		},
-		{
-			"name": "Frenzied Marauder",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "126",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/126.jpg"
-			}
-		},
-		{
-			"name": "War Panther",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Creature — Cat",
-			"collector_number": "145",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/127.jpg"
 			}
 		},
 		{
-			"name": "Steadfast Wanderer",
-			"rarity": "uncommon",
+			"name": "Battle High",
+			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Elf",
-			"collector_number": "136",
+			"type": "Enchantment — Aether",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/128.jpg"
 			}
 		},
 		{
-			"name": "Feathered Dancer",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Bird",
-			"collector_number": "124",
+			"name": "Piercing Volley",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/129.jpg"
 			}
 		},
 		{
-			"name": "Strike Out",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "138",
+			"name": "Coordinated Assault",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/130.jpg"
 			}
 		},
 		{
-			"name": "Dravanian Flamewing",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
-			"type": "Creature — Bird",
-			"collector_number": "123",
+			"name": "Strike Out",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/131.jpg"
 			}
 		},
 		{
-			"name": "Walking Gaol",
+			"name": "Dravanian Hunter",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "144",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/132.jpg"
 			}
 		},
 		{
-			"name": "Brazen Prospecting",
+			"name": "Battleworn Skirmisher",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Enchantment — Aether",
-			"collector_number": "119",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/133.jpg"
 			}
 		},
 		{
-			"name": "Battle High",
+			"name": "War Panther",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Dravanian Flamewing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "New Alliances",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Cavalry Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Drake",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Alliance Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Azra Soldier",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Piercing Note",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Supernatural Temptation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aether",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Gathering Power",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "116",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/134.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Pair Up",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Volatile Pyre",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aether",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/143.jpg"
 			}
 		},
 		{
@@ -1355,19 +1445,19 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Bird",
-			"collector_number": "115",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/135.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/144.jpg"
 			}
 		},
 		{
-			"name": "Smoldering Bowl",
+			"name": "Repurposed Cultivator",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment — Primal",
-			"collector_number": "135",
+			"type": "Artifact — Vehicle",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/136.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/145.jpg"
 			}
 		},
 		{
@@ -1375,19 +1465,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "134",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/137.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/146.jpg"
 			}
 		},
 		{
-			"name": "Alliance Commander",
+			"name": "Smoldering Bowl",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}",
-			"type": "Creature — Azra Soldier",
-			"collector_number": "113",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Primal",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/138.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Imperial Allegiant",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Rabbit Soldier",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/148.jpg"
 			}
 		},
 		{
@@ -1395,19 +1495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "131",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/139.jpg"
-			}
-		},
-		{
-			"name": "Ceruleum Cultivator",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "120",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/140.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/149.jpg"
 			}
 		},
 		{
@@ -1415,9 +1505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}",
 			"type": "Sorcery",
-			"collector_number": "125",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/141.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/150.jpg"
 			}
 		},
 		{
@@ -1425,19 +1515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment — Aether",
-			"collector_number": "118",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/142.jpg"
-			}
-		},
-		{
-			"name": "Ruby Avenue",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}",
-			"type": "Enchantment Battle — Path",
-			"collector_number": "149",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/143.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/151.jpg"
 			}
 		},
 		{
@@ -1445,9 +1525,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "146",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/144.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/152.jpg"
 			}
 		},
 		{
@@ -1455,29 +1535,39 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "148",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/145.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Ruby Avenue",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Battle — Path",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/154.jpg"
 			}
 		},
 		{
 			"name": "Chocobo Nest",
 			"rarity": "mythic",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Enchantment Battle — Path",
-			"collector_number": "147",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/146.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/155.jpg"
 			}
 		},
 		{
 			"name": "Seedseer Devotee",
 			"rarity": "common",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Cleric",
-			"collector_number": "173",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/147.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/156.jpg"
 			}
 		},
 		{
@@ -1485,9 +1575,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Cat",
-			"collector_number": "162",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/148.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/157.jpg"
 			}
 		},
 		{
@@ -1495,19 +1585,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird",
-			"collector_number": "154",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/149.jpg"
-			}
-		},
-		{
-			"name": "Qiqirn Junkmongers",
-			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Beast",
-			"collector_number": "166",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/150.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/158.jpg"
 			}
 		},
 		{
@@ -1515,69 +1595,69 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Giant Warrior",
-			"collector_number": "160",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/151.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/159.jpg"
 			}
 		},
 		{
 			"name": "Serene Sentinel",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Azra",
-			"collector_number": "175",
+			"type": "Creature — Azra Hero",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/152.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/160.jpg"
 			}
 		},
 		{
-			"name": "Leyline Seekers",
+			"name": "Invasive Boar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Twelveswood Ascetic",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "163",
+			"type": "Creature — Dryad Cleric",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/153.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/162.jpg"
 			}
 		},
 		{
-			"name": "Raingully Ascetic",
+			"name": "Distant Traveler",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human",
-			"collector_number": "168",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/154.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/163.jpg"
 			}
 		},
 		{
 			"name": "Ehcatl Brightfeather",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Bird",
-			"collector_number": "156",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/155.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/164.jpg"
 			}
 		},
 		{
-			"name": "Borderlands Billy",
-			"rarity": "common",
-			"mana_cost": "{4}{G}",
-			"type": "Creature — Goat",
-			"collector_number": "150",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/156.jpg"
-			}
-		},
-		{
-			"name": "Dravanian Guillotine",
+			"name": "Scion Gathering",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
-			"type": "Artifact — Equipment",
-			"collector_number": "155",
+			"type": "Enchantment — Aether",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/157.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/165.jpg"
 			}
 		},
 		{
@@ -1585,69 +1665,89 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "157",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/158.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/166.jpg"
 			}
 		},
 		{
-			"name": "Desynthesis",
+			"name": "Sudden Inspiration",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Return to Nature",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Unexpected Vistas",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Viridan Blessing",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aether",
-			"collector_number": "153",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/159.jpg"
-			}
-		},
-		{
-			"name": "Gentle Harmony",
-			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Enchantment — Aether",
-			"collector_number": "159",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/160.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/170.jpg"
 			}
 		},
 		{
 			"name": "Roads Well Traveled",
-			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Instant",
-			"collector_number": "170",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/161.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Qiqirn Junkmongers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Idyll Paragon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Hero",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/173.jpg"
 			}
 		},
 		{
 			"name": "Orchard Keeper",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Dwarf Cleric",
-			"collector_number": "164",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/162.jpg"
-			}
-		},
-		{
-			"name": "Faetouched Vagabond",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Elf",
-			"collector_number": "158",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/163.jpg"
-			}
-		},
-		{
-			"name": "Prized Phurble",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Sheep Beast",
-			"collector_number": "165",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/164.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/174.jpg"
 			}
 		},
 		{
@@ -1655,89 +1755,99 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Rabbit",
-			"collector_number": "176",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/165.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/175.jpg"
 			}
 		},
 		{
-			"name": "Vicious Cock",
+			"name": "Weathered Veteran",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Bird Dinosaur",
-			"collector_number": "181",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/166.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/176.jpg"
 			}
 		},
 		{
-			"name": "Sylphland Guard",
+			"name": "Spriggan Hoarder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Rabbit Beast",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Bramble Enforcer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Cat Warrior",
-			"collector_number": "177",
+			"type": "Creature — Cat Hero",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/167.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/178.jpg"
 			}
 		},
 		{
-			"name": "Rugged Forerunner",
+			"name": "Steppe Mistress",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
-			"type": "Creature — Giant",
-			"collector_number": "171",
+			"type": "Creature — Azra",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/168.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/179.jpg"
 			}
 		},
 		{
 			"name": "Choose Your Weapon",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "151",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/169.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/180.jpg"
 			}
 		},
 		{
-			"name": "Synergize",
+			"name": "Come Together",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{G}",
-			"type": "Enchantment — Aether",
-			"collector_number": "179",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/170.jpg"
-			}
-		},
-		{
-			"name": "Rekindle",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "169",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/171.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/181.jpg"
 			}
 		},
 		{
-			"name": "Hinterland Companion",
+			"name": "Stillglade Bloom",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aether",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Sanctuary Companion",
 			"rarity": "rare",
 			"mana_cost": "{G}",
-			"type": "Creature — Bird",
-			"collector_number": "161",
+			"type": "Creature — Bird Hero",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/172.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/183.jpg"
 			}
 		},
 		{
-			"name": "Tempestuous Eye",
+			"name": "Sylvan Warden",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Primal",
-			"collector_number": "180",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/173.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/184.jpg"
 			}
 		},
 		{
@@ -1745,29 +1855,39 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Dryad Cleric",
-			"collector_number": "174",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/174.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/185.jpg"
 			}
 		},
 		{
-			"name": "Sylvan Warden",
+			"name": "Tempestuous Eye",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Elf Warrior",
-			"collector_number": "178",
+			"type": "Enchantment — Primal",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/175.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/186.jpg"
 			}
 		},
 		{
-			"name": "Voracious Morbol",
+			"name": "Limber Forerunner",
 			"rarity": "rare",
-			"mana_cost": "{6}{G}{G}",
-			"type": "Creature — Plant Hydra",
-			"collector_number": "182",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/176.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Overgrown Morbol",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/188.jpg"
 			}
 		},
 		{
@@ -1775,19 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Instant",
-			"collector_number": "167",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/177.jpg"
-			}
-		},
-		{
-			"name": "Coalesced Grace",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aether",
-			"collector_number": "152",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/178.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/189.jpg"
 			}
 		},
 		{
@@ -1795,249 +1905,199 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "172",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/179.jpg"
-			}
-		},
-		{
-			"name": "Fallgourd Float",
-			"rarity": "mythic",
-			"mana_cost": "{6}{G}",
-			"type": "Enchantment Battle — Path",
-			"collector_number": "183",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/180.jpg"
-			}
-		},
-		{
-			"name": "Jungle Longstop",
-			"rarity": "mythic",
-			"mana_cost": "{4}{G}",
-			"type": "Enchantment Battle — Path",
-			"collector_number": "184",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/181.jpg"
-			}
-		},
-		{
-			"name": "Sylvan Thicket",
-			"rarity": "mythic",
-			"mana_cost": "{G}",
-			"type": "Enchantment Battle — Path",
-			"collector_number": "186",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/182.jpg"
-			}
-		},
-		{
-			"name": "Seal Rock",
-			"rarity": "mythic",
-			"mana_cost": "{3}{G}",
-			"type": "Enchantment Battle — Path",
-			"collector_number": "185",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/183.jpg"
-			}
-		},
-		{
-			"name": "Return Home",
-			"rarity": "common",
-			"mana_cost": "{2}{W/U}",
-			"type": "Enchantment — Aether",
-			"collector_number": "207",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/184.jpg"
-			}
-		},
-		{
-			"name": "Offworld Dissonance",
-			"rarity": "common",
-			"mana_cost": "{1}{U/B}",
-			"type": "Enchantment — Aether",
-			"collector_number": "208",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/185.jpg"
-			}
-		},
-		{
-			"name": "Covering Fire",
-			"rarity": "common",
-			"mana_cost": "{1}{B/R}",
-			"type": "Enchantment — Aether",
-			"collector_number": "209",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/186.jpg"
-			}
-		},
-		{
-			"name": "Exhibit Power",
-			"rarity": "common",
-			"mana_cost": "{R/G}",
-			"type": "Enchantment — Aether",
-			"collector_number": "210",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/187.jpg"
-			}
-		},
-		{
-			"name": "Accept Only Perfection",
-			"rarity": "common",
-			"mana_cost": "{1}{G/W}",
-			"type": "Enchantment — Aether",
-			"collector_number": "211",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/188.jpg"
-			}
-		},
-		{
-			"name": "Godric, Flow Reader",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/189.jpg"
-			}
-		},
-		{
-			"name": "Selune, Faint Shadow",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Legendary Creature — Elf Rogue",
-			"collector_number": "190",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/190.jpg"
 			}
 		},
 		{
-			"name": "Bellona, Cruel Thorn",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{R}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "192",
+			"name": "Fallgourd Float",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment Battle — Path",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/191.jpg"
 			}
 		},
 		{
-			"name": "Rostnfyr, Wild Axe",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{G}",
-			"type": "Legendary Creature — Giant Warrior",
-			"collector_number": "194",
+			"name": "Sylvan Thicket",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Battle — Path",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/192.jpg"
 			}
 		},
 		{
-			"name": "Urara, Heart Keeper",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — Dwarf Cleric",
-			"collector_number": "196",
+			"name": "Jungle Longstop",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Battle — Path",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/193.jpg"
 			}
 		},
 		{
-			"name": "Hildibrand, Gentleman Heir",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Noble",
-			"collector_number": "198",
+			"name": "Seal Rock",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Enchantment Battle — Path",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/194.jpg"
 			}
 		},
 		{
-			"name": "Geser, Rising Star",
+			"name": "K'lyhia, Arcane Novice",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Legendary Creature — Azra Soldier",
-			"collector_number": "200",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Cat Wizard",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/195.jpg"
 			}
 		},
 		{
-			"name": "Echidna, Ark Remnant",
+			"name": "Novv, Clutch Father",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{B}{G}",
-			"type": "Legendary Creature — Horror",
-			"collector_number": "201",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Merfolk Rogue",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/196.jpg"
 			}
 		},
 		{
-			"name": "Nezha, Decorated Cloak",
+			"name": "Livia, Scorned Tribunus",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Bird",
-			"collector_number": "204",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/197.jpg"
 			}
 		},
 		{
-			"name": "Arnr, Veteran Adventurer",
+			"name": "Hoary, Tested Mettle",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
-			"type": "Legendary Creature — Human",
-			"collector_number": "205",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Giant Warrior",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/198.jpg"
 			}
 		},
 		{
-			"name": "Baldesion Students",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Elf Wizard",
-			"collector_number": "187",
+			"name": "Coultenet, Tested Mercy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Elf Cleric",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/199.jpg"
 			}
 		},
 		{
-			"name": "Legion Flagship",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "189",
+			"name": "Hildibrand, Extraordinaire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/200.jpg"
 			}
 		},
 		{
-			"name": "Ascian Lahabrea",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Legendary Planeswalker — Lahabrea",
-			"collector_number": "191",
+			"name": "G'raha, Allagan Heir",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Cat Noble",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/201.jpg"
 			}
 		},
 		{
-			"name": "Ajani, in a Strange Land",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}{G}",
-			"type": "Legendary Planeswalker — Ajani",
-			"collector_number": "193",
+			"name": "Arenvald, Scion Recruit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/202.jpg"
 			}
 		},
 		{
-			"name": "Seventh Dawn Scions",
-			"rarity": "rare",
-			"mana_cost": "{G}{W}",
-			"type": "Creature — Cat Cleric",
-			"collector_number": "195",
+			"name": "Sezul, Forsaken Pioneer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Bird",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Yoshida, Wandering Minstrel",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Urianger, Divine Chronicler",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Elf Wizard",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Thancred, Dreaming Blade",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Nero, Scaevan Hammer",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Yda, Masked Pugilist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Y'shtola, Lifestream Healer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Cat Cleric",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/209.jpg"
 			}
 		},
 		{
@@ -2045,19 +2105,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Vampire Elf Noble",
-			"collector_number": "197",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/204.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/210.jpg"
 			}
 		},
 		{
-			"name": "Dreadwyrm Invocation",
+			"name": "Dreadwyrm Essence",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Sorcery",
-			"collector_number": "199",
+			"type": "Enchantment — Aether",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/205.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/211.jpg"
 			}
 		},
 		{
@@ -2065,49 +2125,49 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Instant",
-			"collector_number": "202",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/206.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/212.jpg"
 			}
 		},
 		{
-			"name": "Bonds Unbroken",
+			"name": "Flight of the Dezul Qualan",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{W}",
-			"type": "Instant",
-			"collector_number": "203",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/207.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/213.jpg"
 			}
 		},
 		{
 			"name": "Savage Raider",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
-			"type": "Creature — Giant",
-			"collector_number": "206",
+			"type": "Creature — Giant Hero",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/208.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/214.jpg"
 			}
 		},
 		{
 			"name": "Wind-Up Flock",
 			"rarity": "common",
-			"mana_cost": "{1}",
+			"mana_cost": "{2}",
 			"type": "Artifact Creature — Bird Golem",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/209.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/215.jpg"
 			}
 		},
 		{
-			"name": "Towering Entity",
+			"name": "Basalt Amalgam",
 			"rarity": "common",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "225",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/210.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/216.jpg"
 			}
 		},
 		{
@@ -2117,7 +2177,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/211.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/217.jpg"
 			}
 		},
 		{
@@ -2127,17 +2187,17 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/212.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/218.jpg"
 			}
 		},
 		{
-			"name": "Faceless Combatant",
+			"name": "Crossroads Caravan",
 			"rarity": "uncommon",
-			"mana_cost": "{5}",
-			"type": "Artifact Creature — Golem",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/213.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/219.jpg"
 			}
 		},
 		{
@@ -2147,7 +2207,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/214.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/220.jpg"
 			}
 		},
 		{
@@ -2157,7 +2217,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/215.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/221.jpg"
 			}
 		},
 		{
@@ -2167,7 +2227,7 @@
 			"type": "Artifact",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/216.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/222.jpg"
 			}
 		},
 		{
@@ -2177,75 +2237,15 @@
 			"type": "Artifact Creature — Shapeshifter",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/217.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/223.jpg"
 			}
 		},
 		{
 			"name": "Lunar Facsimile",
 			"rarity": "rare",
 			"mana_cost": "{9}",
-			"type": "Artifact Creature — Golem Soldier",
+			"type": "Artifact Creature — Shapeshifter",
 			"collector_number": "220",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/218.jpg"
-			}
-		},
-		{
-			"name": "Tupsimati",
-			"rarity": "rare",
-			"mana_cost": "{1}",
-			"type": "Legendary Artifact — Equipment",
-			"collector_number": "226",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/219.jpg"
-			}
-		},
-		{
-			"name": "Small Mercies",
-			"rarity": "common",
-			"mana_cost": "{2}{W/B}",
-			"type": "Enchantment — Aether",
-			"collector_number": "212",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/220.jpg"
-			}
-		},
-		{
-			"name": "Inconsistent Connection",
-			"rarity": "common",
-			"mana_cost": "{U/R}",
-			"type": "Enchantment — Aether",
-			"collector_number": "213",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/221.jpg"
-			}
-		},
-		{
-			"name": "Cast into the Maw",
-			"rarity": "common",
-			"mana_cost": "{2}{B/G}",
-			"type": "Enchantment — Aether",
-			"collector_number": "214",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/222.jpg"
-			}
-		},
-		{
-			"name": "Alpha Protocol",
-			"rarity": "common",
-			"mana_cost": "{3}{R/W}",
-			"type": "Enchantment — Aether",
-			"collector_number": "215",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/223.jpg"
-			}
-		},
-		{
-			"name": "Blessings of the Twelve",
-			"rarity": "common",
-			"mana_cost": "{1}{G/U}",
-			"type": "Enchantment — Aether",
-			"collector_number": "216",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/224.jpg"
 			}
@@ -2254,10 +2254,20 @@
 			"name": "Cid Garlond",
 			"rarity": "rare",
 			"mana_cost": "{4}",
-			"type": "Legendary Planeswalker — Cid",
+			"type": "Legendary Planeswalker",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Tupsimati",
+			"rarity": "rare",
+			"mana_cost": "{X}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/226.jpg"
 			}
 		},
 		{
@@ -2265,129 +2275,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "233",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/226.jpg"
-			}
-		},
-		{
-			"name": "Abalathian Stronghold",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land — Town",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/227.jpg"
 			}
 		},
 		{
-			"name": "Vylbrand Wharf",
+			"name": "Ice Path",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Town",
-			"collector_number": "239",
+			"type": "Land",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/228.jpg"
 			}
 		},
 		{
-			"name": "Aldenard Fringes",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land — Town",
-			"collector_number": "231",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/229.jpg"
-			}
-		},
-		{
-			"name": "Thanalan Exchange",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land — Town",
-			"collector_number": "236",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/230.jpg"
-			}
-		},
-		{
-			"name": "Twelveswood Haven",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land — Town",
-			"collector_number": "237",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/231.jpg"
-			}
-		},
-		{
-			"name": "Frontier Outpost",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "232",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/232.jpg"
-			}
-		},
-		{
-			"name": "Peaceful Harbor",
+			"name": "The Mothercrystal",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Island",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/233.jpg"
-			}
-		},
-		{
-			"name": "Wretched Facade",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Island Swamp",
-			"collector_number": "240",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/234.jpg"
-			}
-		},
-		{
-			"name": "Accursed Catacombs",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
+			"type": "Enchantment Land — Aether",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/235.jpg"
-			}
-		},
-		{
-			"name": "Unexplored Wilds",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Forest",
-			"collector_number": "238",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/236.jpg"
-			}
-		},
-		{
-			"name": "Hushed Enclave",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Forest Plains",
-			"collector_number": "234",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/237.jpg"
-			}
-		},
-		{
-			"name": "The Aethersea",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Enchantment Land — Aether",
-			"collector_number": "230",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/238.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/229.jpg"
 			}
 		},
 		{
@@ -2395,9 +2305,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "0",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/239.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/230.jpg"
 			}
 		},
 		{
@@ -2405,9 +2315,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "0",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/240.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/231.jpg"
 			}
 		},
 		{
@@ -2415,9 +2325,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "0",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/241.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/232.jpg"
 			}
 		},
 		{
@@ -2425,9 +2335,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "0",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/242.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/233.jpg"
 			}
 		},
 		{
@@ -2435,9 +2345,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "0",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/243.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/234.jpg"
 			}
 		},
 		{
@@ -2445,9 +2355,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Army",
-			"collector_number": "4",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/244.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/235.jpg"
 			}
 		},
 		{
@@ -2455,9 +2365,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Bird",
-			"collector_number": "5",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/245.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/236.jpg"
 			}
 		},
 		{
@@ -2465,9 +2375,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Hero",
-			"collector_number": "3",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/246.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/237.jpg"
 			}
 		},
 		{
@@ -2475,9 +2385,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Enchantment — Aether",
-			"collector_number": "1",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/247.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/238.jpg"
 			}
 		},
 		{
@@ -2485,263 +2395,786 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token",
-			"collector_number": "2",
+			"collector_number": "0",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/248.jpg"
-			}
-		},
-		{
-			"name": "Battleworn Leader",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "117",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/249.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/239.jpg"
 			}
 		}
 	]
 
 [rare(1)]
-	5 Curious Hatchling
-	5 Snowcloak Herald
-	5 Minfilia, Scion Antecedent
-	5 A Hero of Light
-	5 Gysahl Glutton
-	5 Push the Crystal
-	5 For the Homeland
-	5 Group Pose
-	5 Desert Racetrack
-	5 Crystalline Array
-	5 Triple Triad
-	5 Thornmarch
-	5 Ironworks Engineer
-	5 Bottomless Crags
-	5 Merlwyb, Storm Admiral
-	5 Carnivale Hotshot
-	5 Cancerous Threat
-	5 Marilye, Veiled Deceiver
-	5 Dream in Ice
-	5 Whalaqee Gambit
-	5 Syrcus Tower
-	5 Nymian Remnants
-	5 Sastasha Seagrot
-	5 Relict Tower
-	5 Megalomaniac
-	5 Legionnaire Envoy
-	5 Stygian Visage
-	5 Heart of Sabik
-	5 Gaius, Sable Legatus
-	5 Voidsent Royalty
-	5 Umbral Era
-	5 Manipulation
-	5 Haukke Foyer
-	5 Stone Vigil
-	5 Carteneau Flats
-	5 Dun Scaith
-	5 Auspice of Rebirth
-	5 Smoldering Bowl
-	5 Raubahn, Mhigan Champion
-	5 Alliance Commander
-	5 New World Tyrant
-	5 Ceruleum Cultivator
-	5 Flames of Rebellion
-	5 Beyond the Source
-	5 Ruby Avenue
-	5 Alliance Raid
-	5 Echoing Roars
-	5 Chocobo Nest
-	5 Hinterland Companion
-	5 Tempestuous Eye
-	5 Senna, Seedseer Matron
-	5 Sylvan Warden
-	5 Voracious Morbol
-	5 Quieting Winds
-	5 Coalesced Grace
-	5 Sanctuary Menagerie
-	5 Fallgourd Float
-	5 Jungle Longstop
-	5 Sylvan Thicket
-	5 Seal Rock
-	5 Baldesion Students
-	5 Legion Flagship
-	5 Ascian Lahabrea
-	5 Ajani, in a Strange Land
-	5 Seventh Dawn Scions
-	5 Heiress of Haukke
-	5 Dreadwyrm Invocation
-	5 Failed Encounter
-	5 Bonds Unbroken
-	5 Savage Raider
-	5 Nullstone Refraction
-	5 Lunar Facsimile
-	5 Tupsimati
-	5 Cid Garlond
-	5 Peaceful Harbor
-	5 Wretched Facade
-	5 Accursed Catacombs
-	5 Unexplored Wilds
-	5 Hushed Enclave
-	5 The Aethersea
+	2 Benevolent Moglin
+	2 Minfilia, Scion Antecedent
+	2 A Hero of Light
+	2 Gysahl Glutton
+	2 Shadowlands Refuge
+	2 Realm Reborn
+	2 For the Homeland
+	2 Group Pose
+	1 Triple Triad
+	1 Crystalline Array
+	1 Desert Racetrack
+	1 Thorny Clearing
+	2 Ironworks Engineer
+	2 Matriarch of the Depths
+	2 Merlwyb, Storm Admiral
+	2 Bottomless Crags
+	2 Octomammoth
+	2 Marilye, Veiled Deceiver
+	2 Dream in Ice
+	2 Whalaqee Gambit
+	1 Nymian Remnants
+	1 Sastasha Seagrot
+	1 Relict Tower
+	1 Syrcus Tower
+	2 Megalomaniac
+	2 Armored Vigilante
+	2 Gaius, Sable Legatus
+	2 Death Blossom
+	2 Heart of Sabik
+	2 Stygian Visage
+	2 Umbral Era
+	2 Pureheart Desperation
+	1 Heretic Hideout
+	1 Carteneau Flats
+	1 Haukke Foyer
+	1 Dun Scaith
+	2 Auspice of Rebirth
+	2 Repurposed Cultivator
+	2 Raubahn, Mhigan Champion
+	2 Smoldering Bowl
+	2 Imperial Allegiant
+	2 New World Tyrant
+	2 Flames of Rebellion
+	2 Beyond the Source
+	1 Alliance Raid
+	1 Echoing Roars
+	1 Ruby Avenue
+	1 Chocobo Nest
+	2 Sanctuary Companion
+	2 Sylvan Warden
+	2 Senna, Seedseer Matron
+	2 Tempestuous Eye
+	2 Limber Forerunner
+	2 Overgrown Morbol
+	2 Quieting Winds
+	2 Sanctuary Menagerie
+	1 Fallgourd Float
+	1 Sylvan Thicket
+	1 Jungle Longstop
+	1 Seal Rock
+	2 Urianger, Divine Chronicler
+	2 Thancred, Dreaming Blade
+	2 Nero, Scaevan Hammer
+	2 Yda, Masked Pugilist
+	2 Y'shtola, Lifestream Healer
+	2 Heiress of Haukke
+	2 Dreadwyrm Essence
+	2 Failed Encounter
+	2 Flight of the Dezul Qualan
+	2 Savage Raider
+	2 Nullstone Refraction
+	2 Lunar Facsimile
+	2 Cid Garlond
+	2 Tupsimati
+	2 The Mothercrystal
 [uncommon(3)]
-	5 Jack of All Trades
-	5 Chocobo Covering
-	5 Erstwhile Missionary
-	5 Midland Auspex
-	5 Pursy Pussy
-	5 Gilt Fateweaver
-	5 Benevolent Moglin
-	5 Inspiring Paean
-	5 Clash of Talons
-	5 Afflatus Solace
-	5 Elusive Aurelia
-	5 Surecast Manipulator
-	5 Calamity Augur
-	5 Trained Aesthetician
-	5 Crystalline Brigand
-	5 Cerulean Adept
-	5 Adamant Core
-	5 Recruit a Friend
-	5 Whirlwind Denial
-	5 Records from Another World
-	5 Tainted Corsair
-	5 Life for Empire
-	5 Lingering Revenant
-	5 Praefectus Executor
-	5 Ominous Ahriman
-	5 Gaping Maw
-	5 At Any Cost
-	5 Futures Forfeit
-	5 Lost to the Lifestream
-	5 Touch of the Black Rose
-	5 Frenzied Marauder
-	5 War Panther
-	5 Steadfast Wanderer
-	5 Feathered Dancer
-	5 Strike Out
-	5 Dravanian Flamewing
-	5 Walking Gaol
-	5 Brazen Prospecting
-	5 Battle High
-	5 Orchard Keeper
-	5 Faetouched Vagabond
-	5 Prized Phurble
-	5 Sharlayan Specialist
-	5 Vicious Cock
-	5 Sylphland Guard
-	5 Rugged Forerunner
-	5 Choose Your Weapon
-	5 Synergize
-	5 Rekindle
-	5 Godric, Flow Reader
-	5 Selune, Faint Shadow
-	5 Bellona, Cruel Thorn
-	5 Rostnfyr, Wild Axe
-	5 Urara, Heart Keeper
-	5 Hildibrand, Gentleman Heir
-	5 Geser, Rising Star
-	5 Echidna, Ark Remnant
-	5 Nezha, Decorated Cloak
-	5 Arnr, Veteran Adventurer
-	5 Faceless Combatant
-	5 Meteor Golem
-	5 Icarus Engine
-	5 Soul Crystals
-	5 Abalathian Stronghold
-	5 Vylbrand Wharf
-	5 Aldenard Fringes
-	5 Thanalan Exchange
-	5 Twelveswood Haven
-	5 Frontier Outpost
-	5 Battleworn Leader
-[common(10)]
-	5 Hunting Talon
-	5 Stillglade Initiate
-	5 Fortemps Exemplar
-	5 Frolicking Friend
-	5 Sandshore Colibri
-	5 Blessed Acolyte
-	5 Starlit Mystic
-	5 Postmog Deputy
-	5 Shimmer Tuner
-	5 Tailfeather Historian
-	5 Winged Tome
-	5 Welcome Home
-	5 Rampant Light
-	5 Immolating Glare
-	5 Take a Stand
-	5 Illusory Morpho
-	5 Rhotano Scoundrel
-	5 Moonlit Lantern
-	5 Imperfect Gentleman
-	5 Tricorne Spellblade
-	5 Wyrmwing Channeler
-	5 Shining Spellsword
-	5 Armada Scourge
-	5 Bizarre Fantasia
-	5 Othard Ferry
-	5 Gone Fishing
-	5 Among the Stars
-	5 Defensive Exercise
-	5 Adloquium
-	5 Looking for Help
-	5 Awaiting Orders
-	5 Silent Diremite
-	5 Dispensible Conscripts
-	5 Corrupted Blade
-	5 Displaced Doman
-	5 Obsidian Puppy
-	5 Mhachi Experiments
-	5 Solo Hunter
-	5 Endless Reinforcements
-	5 False Death
-	5 Garlean Magitek
-	5 Inevitable End
-	5 Duress
-	5 From the Void
-	5 Gelmorran Rite
-	5 Miner Problems
-	5 Swift Enrollment
-	5 Promising Ace
-	5 Coliseum Cyclone
-	5 Unstable Effigy
-	5 Mhigan Mercenaries
-	5 New Alliances
-	5 Storied Hunter
-	5 To the Races
-	5 Maverick Officer
-	5 Devastating Blow
-	5 Piercing Note
-	5 Ambitious Assault
-	5 Supernatural Temptation
-	5 Vivid Pyrotechnics
-	5 Seedseer Devotee
-	5 Invested Novice
-	5 Dodo of Paradise
-	5 Qiqirn Junkmongers
-	5 Hearty Highlander
-	5 Serene Sentinel
-	5 Leyline Seekers
-	5 Raingully Ascetic
-	5 Ehcatl Brightfeather
-	5 Borderlands Billy
-	5 Dravanian Guillotine
-	5 Expedition Hijinks
-	5 Desynthesis
-	5 Gentle Harmony
-	5 Roads Well Traveled
-	5 Return Home
-	5 Offworld Dissonance
-	5 Covering Fire
-	5 Exhibit Power
-	5 Accept Only Perfection
-	5 Wind-Up Flock
-	5 Towering Entity
-	5 Company Airship
-	5 Tonberry Knife
-	5 Small Mercies
-	5 Inconsistent Connection
-	5 Cast into the Maw
-	5 Alpha Protocol
-	5 Blessings of the Twelve
-	5 Hall of the Novice
+	4 Jack of All Trades
+	4 Sandshore Colibri
+	4 Arcane Companion
+	4 Scholasticate Tactician
+	4 Erstwhile Missionary
+	4 Memories of Home
+	4 Heartbound Healer
+	4 Rathefrost Thunder
+	4 Wondrous Tales
+	4 Push the Crystal
+	4 Afflatus Solace
+	4 Retrospection
+	4 Trained Aesthetician
+	4 Cerulean Adept
+	4 Ominous Shoebill
+	4 Tideglider
+	4 Crystalline Brigand
+	4 Calamity Augur
+	4 Cancerous Threat
+	4 Iridescent Fantasia
+	4 Whirlwind Denial
+	4 Recruit a Friend
+	4 Records from Another World
+	4 Aetherflow
+	4 Silent Diremite
+	4 Bright Eye Familiar
+	4 Eastern Decurio
+	4 Life for Empire
+	4 Lost Hope Corsair
+	4 Praefectus Executioner
+	4 Decorated Adventurer
+	4 Futures Forfeit
+	4 Hallucinogenic Halitosis
+	4 Touch of the Black Rose
+	4 At Any Cost
+	4 Remastered Chopper
+	4 Dravanian Hunter
+	4 Battleworn Skirmisher
+	4 War Panther
+	4 Dravanian Flamewing
+	4 New Alliances
+	4 Cavalry Drake
+	4 Alliance Commander
+	4 Piercing Note
+	4 Supernatural Temptation
+	4 Gathering Power
+	4 Pair Up
+	4 Volatile Pyre
+	4 Roads Well Traveled
+	4 Qiqirn Junkmongers
+	4 Idyll Paragon
+	4 Orchard Keeper
+	4 Sharlayan Specialist
+	4 Weathered Veteran
+	4 Spriggan Hoarder
+	4 Bramble Enforcer
+	4 Steppe Mistress
+	4 Choose Your Weapon
+	4 Come Together
+	4 Stillglade Bloom
+	4 K'lyhia, Arcane Novice
+	4 Novv, Clutch Father
+	4 Livia, Scorned Tribunus
+	4 Hoary, Tested Mettle
+	4 Coultenet, Tested Mercy
+	4 Hildibrand, Extraordinaire
+	4 G'raha, Allagan Heir
+	4 Arenvald, Scion Recruit
+	4 Sezul, Forsaken Pioneer
+	4 Yoshida, Wandering Minstrel
+	4 Crossroads Caravan
+	4 Meteor Golem
+	4 Icarus Engine
+	4 Soul Crystals
+	4 Ice Path
+[common(6)]
+	8 Hunting Talon
+	8 Studious Drifter
+	8 Ashen Survivor
+	8 Fortemps Exemplar
+	8 Stillglade Initiate
+	8 Feathered Heritage
+	8 Mog Ensemble
+	8 Attuned Acolyte
+	8 Starlit Mystic
+	8 Pursy Pussy
+	8 Rampant Light
+	8 Immolating Glare
+	8 Valiant Display
+	8 Aetheric Disruption
+	8 Raise
+	8 Rhotano Scoundrel
+	8 Spectral Morpho
+	8 Imperfect Gentleman
+	8 Wyrmwing Channeler
+	8 Surecast Manipulator
+	8 Star Calling
+	8 Dragonsbane Dervish
+	8 Faetouched Vagabond
+	8 Adamantoise
+	8 Waterfall Sprites
+	8 Inconsistent Connection
+	8 Indigo Whorl
+	8 Gone Fishing
+	8 Adloquium
+	8 Looking for Help
+	8 Corrupted Child
+	8 Awaiting Orders
+	8 Holy See Renegade
+	8 Conscripted Fodder
+	8 Doman Shadow
+	8 Carteneau Mercenary
+	8 Prowling Huntress
+	8 Garlean Magitek
+	8 Forsaken Soul
+	8 Tainted Experiments
+	8 Inevitable End
+	8 Lost to the Lifestream
+	8 Duress
+	8 Gelmorran Rite
+	8 Live in Darkness
+	8 Miner Problems
+	8 Company Recruitment
+	8 Coliseum Cyclone
+	8 Relay Runners
+	8 Unstable Nucleus
+	8 Maverick Officer
+	8 Brotherhood of Ash
+	8 To the Races
+	8 Mhigan Sellswords
+	8 Frenzied Marauder
+	8 Devastating Blow
+	8 Battle High
+	8 Piercing Volley
+	8 Coordinated Assault
+	8 Strike Out
+	8 Seedseer Devotee
+	8 Invested Novice
+	8 Dodo of Paradise
+	8 Hearty Highlander
+	8 Serene Sentinel
+	8 Invasive Boar
+	8 Twelveswood Ascetic
+	8 Distant Traveler
+	8 Ehcatl Brightfeather
+	8 Scion Gathering
+	8 Expedition Hijinks
+	8 Sudden Inspiration
+	8 Return to Nature
+	8 Unexpected Vistas
+	8 Viridan Blessing
+	8 Wind-Up Flock
+	8 Basalt Amalgam
+	8 Company Airship
+	8 Tonberry Knife
+	8 Hall of the Novice
+[common | masterpiece(1)]
+	8 Hunting Talon
+	8 Studious Drifter
+	8 Ashen Survivor
+	8 Fortemps Exemplar
+	8 Stillglade Initiate
+	8 Feathered Heritage
+	8 Mog Ensemble
+	8 Attuned Acolyte
+	8 Starlit Mystic
+	8 Pursy Pussy
+	8 Rampant Light
+	8 Immolating Glare
+	8 Valiant Display
+	8 Aetheric Disruption
+	8 Raise
+	8 Rhotano Scoundrel
+	8 Spectral Morpho
+	8 Imperfect Gentleman
+	8 Wyrmwing Channeler
+	8 Surecast Manipulator
+	8 Star Calling
+	8 Dragonsbane Dervish
+	8 Faetouched Vagabond
+	8 Adamantoise
+	8 Waterfall Sprites
+	8 Inconsistent Connection
+	8 Indigo Whorl
+	8 Gone Fishing
+	8 Adloquium
+	8 Looking for Help
+	8 Corrupted Child
+	8 Awaiting Orders
+	8 Holy See Renegade
+	8 Conscripted Fodder
+	8 Doman Shadow
+	8 Carteneau Mercenary
+	8 Prowling Huntress
+	8 Garlean Magitek
+	8 Forsaken Soul
+	8 Tainted Experiments
+	8 Inevitable End
+	8 Lost to the Lifestream
+	8 Duress
+	8 Gelmorran Rite
+	8 Live in Darkness
+	8 Miner Problems
+	8 Company Recruitment
+	8 Coliseum Cyclone
+	8 Relay Runners
+	8 Unstable Nucleus
+	8 Maverick Officer
+	8 Brotherhood of Ash
+	8 To the Races
+	8 Mhigan Sellswords
+	8 Frenzied Marauder
+	8 Devastating Blow
+	8 Battle High
+	8 Piercing Volley
+	8 Coordinated Assault
+	8 Strike Out
+	8 Seedseer Devotee
+	8 Invested Novice
+	8 Dodo of Paradise
+	8 Hearty Highlander
+	8 Serene Sentinel
+	8 Invasive Boar
+	8 Twelveswood Ascetic
+	8 Distant Traveler
+	8 Ehcatl Brightfeather
+	8 Scion Gathering
+	8 Expedition Hijinks
+	8 Sudden Inspiration
+	8 Return to Nature
+	8 Unexpected Vistas
+	8 Viridan Blessing
+	8 Wind-Up Flock
+	8 Basalt Amalgam
+	8 Company Airship
+	8 Tonberry Knife
+	8 Hall of the Novice
+[foil(1)]
+	12 Hunting Talon
+	12 Studious Drifter
+	12 Ashen Survivor
+	12 Fortemps Exemplar
+	12 Stillglade Initiate
+	12 Feathered Heritage
+	12 Mog Ensemble
+	12 Attuned Acolyte
+	12 Starlit Mystic
+	12 Pursy Pussy
+	12 Rampant Light
+	12 Immolating Glare
+	12 Valiant Display
+	12 Aetheric Disruption
+	12 Raise
+	6 Jack of All Trades
+	6 Sandshore Colibri
+	6 Arcane Companion
+	6 Scholasticate Tactician
+	6 Erstwhile Missionary
+	6 Memories of Home
+	6 Heartbound Healer
+	6 Rathefrost Thunder
+	6 Wondrous Tales
+	6 Push the Crystal
+	6 Afflatus Solace
+	6 Retrospection
+	2 Benevolent Moglin
+	2 Minfilia, Scion Antecedent
+	2 A Hero of Light
+	2 Gysahl Glutton
+	2 Shadowlands Refuge
+	2 Realm Reborn
+	2 For the Homeland
+	2 Group Pose
+	1 Triple Triad
+	1 Crystalline Array
+	1 Desert Racetrack
+	1 Thorny Clearing
+	12 Rhotano Scoundrel
+	12 Spectral Morpho
+	12 Imperfect Gentleman
+	12 Wyrmwing Channeler
+	12 Surecast Manipulator
+	12 Star Calling
+	12 Dragonsbane Dervish
+	12 Faetouched Vagabond
+	12 Adamantoise
+	12 Waterfall Sprites
+	12 Inconsistent Connection
+	12 Indigo Whorl
+	12 Gone Fishing
+	12 Adloquium
+	12 Looking for Help
+	6 Trained Aesthetician
+	6 Cerulean Adept
+	6 Ominous Shoebill
+	6 Tideglider
+	6 Crystalline Brigand
+	6 Calamity Augur
+	6 Cancerous Threat
+	6 Iridescent Fantasia
+	6 Whirlwind Denial
+	6 Recruit a Friend
+	6 Records from Another World
+	6 Aetherflow
+	2 Ironworks Engineer
+	2 Matriarch of the Depths
+	2 Merlwyb, Storm Admiral
+	2 Bottomless Crags
+	2 Octomammoth
+	2 Marilye, Veiled Deceiver
+	2 Dream in Ice
+	2 Whalaqee Gambit
+	1 Nymian Remnants
+	1 Sastasha Seagrot
+	1 Relict Tower
+	1 Syrcus Tower
+	12 Corrupted Child
+	12 Awaiting Orders
+	12 Holy See Renegade
+	12 Conscripted Fodder
+	12 Doman Shadow
+	12 Carteneau Mercenary
+	12 Prowling Huntress
+	12 Garlean Magitek
+	12 Forsaken Soul
+	12 Tainted Experiments
+	12 Inevitable End
+	12 Lost to the Lifestream
+	12 Duress
+	12 Gelmorran Rite
+	12 Live in Darkness
+	6 Silent Diremite
+	6 Bright Eye Familiar
+	6 Eastern Decurio
+	6 Life for Empire
+	6 Lost Hope Corsair
+	6 Praefectus Executioner
+	6 Decorated Adventurer
+	6 Futures Forfeit
+	6 Hallucinogenic Halitosis
+	6 Touch of the Black Rose
+	6 At Any Cost
+	2 Megalomaniac
+	6 Remastered Chopper
+	2 Armored Vigilante
+	2 Gaius, Sable Legatus
+	2 Death Blossom
+	2 Heart of Sabik
+	2 Stygian Visage
+	2 Umbral Era
+	2 Pureheart Desperation
+	1 Heretic Hideout
+	1 Carteneau Flats
+	1 Haukke Foyer
+	1 Dun Scaith
+	12 Miner Problems
+	12 Company Recruitment
+	12 Coliseum Cyclone
+	12 Relay Runners
+	12 Unstable Nucleus
+	12 Maverick Officer
+	12 Brotherhood of Ash
+	12 To the Races
+	12 Mhigan Sellswords
+	12 Frenzied Marauder
+	12 Devastating Blow
+	12 Battle High
+	12 Piercing Volley
+	12 Coordinated Assault
+	12 Strike Out
+	6 Dravanian Hunter
+	6 Battleworn Skirmisher
+	6 War Panther
+	6 Dravanian Flamewing
+	6 New Alliances
+	6 Cavalry Drake
+	6 Alliance Commander
+	6 Piercing Note
+	6 Supernatural Temptation
+	6 Gathering Power
+	6 Pair Up
+	6 Volatile Pyre
+	2 Auspice of Rebirth
+	2 Repurposed Cultivator
+	2 Raubahn, Mhigan Champion
+	2 Smoldering Bowl
+	2 Imperial Allegiant
+	2 New World Tyrant
+	2 Flames of Rebellion
+	2 Beyond the Source
+	1 Alliance Raid
+	1 Echoing Roars
+	1 Ruby Avenue
+	1 Chocobo Nest
+	12 Seedseer Devotee
+	12 Invested Novice
+	12 Dodo of Paradise
+	12 Hearty Highlander
+	12 Serene Sentinel
+	12 Invasive Boar
+	12 Twelveswood Ascetic
+	12 Distant Traveler
+	12 Ehcatl Brightfeather
+	12 Scion Gathering
+	12 Expedition Hijinks
+	12 Sudden Inspiration
+	12 Return to Nature
+	12 Unexpected Vistas
+	12 Viridan Blessing
+	6 Roads Well Traveled
+	6 Qiqirn Junkmongers
+	6 Idyll Paragon
+	6 Orchard Keeper
+	6 Sharlayan Specialist
+	6 Weathered Veteran
+	6 Spriggan Hoarder
+	6 Bramble Enforcer
+	6 Steppe Mistress
+	6 Choose Your Weapon
+	6 Come Together
+	6 Stillglade Bloom
+	2 Sanctuary Companion
+	2 Sylvan Warden
+	2 Senna, Seedseer Matron
+	2 Tempestuous Eye
+	2 Limber Forerunner
+	2 Overgrown Morbol
+	2 Quieting Winds
+	2 Sanctuary Menagerie
+	1 Fallgourd Float
+	1 Sylvan Thicket
+	1 Jungle Longstop
+	1 Seal Rock
+	6 K'lyhia, Arcane Novice
+	6 Novv, Clutch Father
+	6 Livia, Scorned Tribunus
+	6 Hoary, Tested Mettle
+	6 Coultenet, Tested Mercy
+	6 Hildibrand, Extraordinaire
+	6 G'raha, Allagan Heir
+	6 Arenvald, Scion Recruit
+	6 Sezul, Forsaken Pioneer
+	6 Yoshida, Wandering Minstrel
+	2 Urianger, Divine Chronicler
+	2 Thancred, Dreaming Blade
+	2 Nero, Scaevan Hammer
+	2 Yda, Masked Pugilist
+	2 Y'shtola, Lifestream Healer
+	2 Heiress of Haukke
+	2 Dreadwyrm Essence
+	2 Failed Encounter
+	2 Flight of the Dezul Qualan
+	2 Savage Raider
+	12 Wind-Up Flock
+	12 Basalt Amalgam
+	12 Company Airship
+	12 Tonberry Knife
+	6 Crossroads Caravan
+	6 Meteor Golem
+	6 Icarus Engine
+	6 Soul Crystals
+	2 Nullstone Refraction
+	2 Lunar Facsimile
+	2 Cid Garlond
+	2 Tupsimati
+	12 Hall of the Novice
+	6 Ice Path
+	2 The Mothercrystal
+[wildcard(1)]
+	6 Hunting Talon
+	6 Studious Drifter
+	6 Ashen Survivor
+	6 Fortemps Exemplar
+	6 Stillglade Initiate
+	6 Feathered Heritage
+	6 Mog Ensemble
+	6 Attuned Acolyte
+	6 Starlit Mystic
+	6 Pursy Pussy
+	6 Rampant Light
+	6 Immolating Glare
+	6 Valiant Display
+	6 Aetheric Disruption
+	6 Raise
+	15 Jack of All Trades
+	15 Sandshore Colibri
+	15 Arcane Companion
+	15 Scholasticate Tactician
+	15 Erstwhile Missionary
+	15 Memories of Home
+	15 Heartbound Healer
+	15 Rathefrost Thunder
+	15 Wondrous Tales
+	15 Push the Crystal
+	15 Afflatus Solace
+	15 Retrospection
+	7 Benevolent Moglin
+	7 Minfilia, Scion Antecedent
+	7 A Hero of Light
+	7 Gysahl Glutton
+	7 Shadowlands Refuge
+	7 Realm Reborn
+	7 For the Homeland
+	7 Group Pose
+	4 Triple Triad
+	4 Crystalline Array
+	4 Desert Racetrack
+	4 Thorny Clearing
+	6 Rhotano Scoundrel
+	6 Spectral Morpho
+	6 Imperfect Gentleman
+	6 Wyrmwing Channeler
+	6 Surecast Manipulator
+	6 Star Calling
+	6 Dragonsbane Dervish
+	6 Faetouched Vagabond
+	6 Adamantoise
+	6 Waterfall Sprites
+	6 Inconsistent Connection
+	6 Indigo Whorl
+	6 Gone Fishing
+	6 Adloquium
+	6 Looking for Help
+	15 Trained Aesthetician
+	15 Cerulean Adept
+	15 Ominous Shoebill
+	15 Tideglider
+	15 Crystalline Brigand
+	15 Calamity Augur
+	15 Cancerous Threat
+	15 Iridescent Fantasia
+	15 Whirlwind Denial
+	15 Recruit a Friend
+	15 Records from Another World
+	15 Aetherflow
+	7 Ironworks Engineer
+	7 Matriarch of the Depths
+	7 Merlwyb, Storm Admiral
+	7 Bottomless Crags
+	7 Octomammoth
+	7 Marilye, Veiled Deceiver
+	7 Dream in Ice
+	7 Whalaqee Gambit
+	4 Nymian Remnants
+	4 Sastasha Seagrot
+	4 Relict Tower
+	4 Syrcus Tower
+	6 Corrupted Child
+	6 Awaiting Orders
+	6 Holy See Renegade
+	6 Conscripted Fodder
+	6 Doman Shadow
+	6 Carteneau Mercenary
+	6 Prowling Huntress
+	6 Garlean Magitek
+	6 Forsaken Soul
+	6 Tainted Experiments
+	6 Inevitable End
+	6 Lost to the Lifestream
+	6 Duress
+	6 Gelmorran Rite
+	6 Live in Darkness
+	15 Silent Diremite
+	15 Bright Eye Familiar
+	15 Eastern Decurio
+	15 Life for Empire
+	15 Lost Hope Corsair
+	15 Praefectus Executioner
+	15 Decorated Adventurer
+	15 Futures Forfeit
+	15 Hallucinogenic Halitosis
+	15 Touch of the Black Rose
+	15 At Any Cost
+	7 Megalomaniac
+	15 Remastered Chopper
+	7 Armored Vigilante
+	7 Gaius, Sable Legatus
+	7 Death Blossom
+	7 Heart of Sabik
+	7 Stygian Visage
+	7 Umbral Era
+	7 Pureheart Desperation
+	4 Heretic Hideout
+	4 Carteneau Flats
+	4 Haukke Foyer
+	4 Dun Scaith
+	6 Miner Problems
+	6 Company Recruitment
+	6 Coliseum Cyclone
+	6 Relay Runners
+	6 Unstable Nucleus
+	6 Maverick Officer
+	6 Brotherhood of Ash
+	6 To the Races
+	6 Mhigan Sellswords
+	6 Frenzied Marauder
+	6 Devastating Blow
+	6 Battle High
+	6 Piercing Volley
+	6 Coordinated Assault
+	6 Strike Out
+	15 Dravanian Hunter
+	15 Battleworn Skirmisher
+	15 War Panther
+	15 Dravanian Flamewing
+	15 New Alliances
+	15 Cavalry Drake
+	15 Alliance Commander
+	15 Piercing Note
+	15 Supernatural Temptation
+	15 Gathering Power
+	15 Pair Up
+	15 Volatile Pyre
+	7 Auspice of Rebirth
+	7 Repurposed Cultivator
+	7 Raubahn, Mhigan Champion
+	7 Smoldering Bowl
+	7 Imperial Allegiant
+	7 New World Tyrant
+	7 Flames of Rebellion
+	7 Beyond the Source
+	4 Alliance Raid
+	4 Echoing Roars
+	4 Ruby Avenue
+	4 Chocobo Nest
+	6 Seedseer Devotee
+	6 Invested Novice
+	6 Dodo of Paradise
+	6 Hearty Highlander
+	6 Serene Sentinel
+	6 Invasive Boar
+	6 Twelveswood Ascetic
+	6 Distant Traveler
+	6 Ehcatl Brightfeather
+	6 Scion Gathering
+	6 Expedition Hijinks
+	6 Sudden Inspiration
+	6 Return to Nature
+	6 Unexpected Vistas
+	6 Viridan Blessing
+	15 Roads Well Traveled
+	15 Qiqirn Junkmongers
+	15 Idyll Paragon
+	15 Orchard Keeper
+	15 Sharlayan Specialist
+	15 Weathered Veteran
+	15 Spriggan Hoarder
+	15 Bramble Enforcer
+	15 Steppe Mistress
+	15 Choose Your Weapon
+	15 Come Together
+	15 Stillglade Bloom
+	7 Sanctuary Companion
+	7 Sylvan Warden
+	7 Senna, Seedseer Matron
+	7 Tempestuous Eye
+	7 Limber Forerunner
+	7 Overgrown Morbol
+	7 Quieting Winds
+	7 Sanctuary Menagerie
+	4 Fallgourd Float
+	4 Sylvan Thicket
+	4 Jungle Longstop
+	4 Seal Rock
+	15 K'lyhia, Arcane Novice
+	15 Novv, Clutch Father
+	15 Livia, Scorned Tribunus
+	15 Hoary, Tested Mettle
+	15 Coultenet, Tested Mercy
+	15 Hildibrand, Extraordinaire
+	15 G'raha, Allagan Heir
+	15 Arenvald, Scion Recruit
+	15 Sezul, Forsaken Pioneer
+	15 Yoshida, Wandering Minstrel
+	7 Urianger, Divine Chronicler
+	7 Thancred, Dreaming Blade
+	7 Nero, Scaevan Hammer
+	7 Yda, Masked Pugilist
+	7 Y'shtola, Lifestream Healer
+	7 Heiress of Haukke
+	7 Dreadwyrm Essence
+	7 Failed Encounter
+	7 Flight of the Dezul Qualan
+	7 Savage Raider
+	6 Wind-Up Flock
+	6 Basalt Amalgam
+	6 Company Airship
+	6 Tonberry Knife
+	15 Crossroads Caravan
+	15 Meteor Golem
+	15 Icarus Engine
+	15 Soul Crystals
+	7 Nullstone Refraction
+	7 Lunar Facsimile
+	7 Cid Garlond
+	7 Tupsimati
+	6 Hall of the Novice
+	15 Ice Path
+	7 The Mothercrystal
