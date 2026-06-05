@@ -1,0 +1,2377 @@
+[CustomCards]
+	[    {
+	        "name": "Hunting Talon",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Hunting%20Talon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Studious Drifter",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Cat  Wizard  ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Studious%20Drifter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ashen Survivor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Zombie Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Ashen%20Survivor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fortemps Exemplar",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Fortemps%20Exemplar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stillglade Initiate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Dwarf Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Stillglade%20Initiate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Feathered Heritage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Feathered%20Heritage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mog Ensemble",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Moogle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Mog%20Ensemble.jpg"
+	        }
+	    },
+	    {
+	        "name": "Attuned Acolyte",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Attuned%20Acolyte.jpg"
+	        }
+	    },
+	    {
+	        "name": "Starlit Mystic",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Cat Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Starlit%20Mystic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pursy Pussy",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Cat Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Pursy%20Pussy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rampant Light",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Rampant%20Light.jpg"
+	        }
+	    },
+	    {
+	        "name": "Immolating Glare",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Immolating%20Glare.jpg"
+	        }
+	    },
+	    {
+	        "name": "Valiant Display",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Valiant%20Display.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aetheric Disruption",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Aetheric%20Disruption.jpg"
+	        }
+	    },
+	    {
+	        "name": "Raise",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Raise.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jack of All Trades",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Jack%20of%20All%20Trades.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sandshore Colibri",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sandshore%20Colibri.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcane Companion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Fox ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Arcane%20Companion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scholasticate Tactician",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Elf Wizard  ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Scholasticate%20Tactician.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erstwhile Missionary",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Azra Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Erstwhile%20Missionary.jpg"
+	        }
+	    },
+	    {
+	        "name": "Memories of Home",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Memories%20of%20Home.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heartbound Healer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Azra Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Heartbound%20Healer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rathefrost Thunder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Kirin Horse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Rathefrost%20Thunder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wondrous Tales",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Wondrous%20Tales.jpg"
+	        }
+	    },
+	    {
+	        "name": "Push the Crystal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Push%20the%20Crystal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Afflatus Solace",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Afflatus%20Solace.jpg"
+	        }
+	    },
+	    {
+	        "name": "Retrospection",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Retrospection.jpg"
+	        }
+	    },
+	    {
+	        "name": "Benevolent Moglin",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{W}",
+	        "type": "Creature — Moogle Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Benevolent%20Moglin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Minfilia, Scion Antecedent",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Minfilia%2c%20Scion%20Antecedent.jpg"
+	        }
+	    },
+	    {
+	        "name": "A Hero of Light",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Planeswalker",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/A%20Hero%20of%20Light.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gysahl Glutton",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Gysahl%20Glutton.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shadowlands Refuge",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{W}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Shadowlands%20Refuge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Realm Reborn",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Realm%20Reborn.jpg"
+	        }
+	    },
+	    {
+	        "name": "For the Homeland",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/For%20the%20Homeland.jpg"
+	        }
+	    },
+	    {
+	        "name": "Group Pose",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Group%20Pose.jpg"
+	        }
+	    },
+	    {
+	        "name": "Triple Triad // Jumbo Cactpot",
+	        "mana_cost": "{2}{W} // {3}{W}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Triple%20Triad.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crystalline Array // Decisive Fate",
+	        "mana_cost": "{W} // {6}{W}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Crystalline%20Array.jpg"
+	        }
+	    },
+	    {
+	        "name": "Desert Racetrack // Hairpin Turn",
+	        "mana_cost": "{3}{W} // {3}{W}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Desert%20Racetrack.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thorny Clearing // Mogscourt",
+	        "mana_cost": "{1}{W} // {4}{W}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Thorny%20Clearing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rhotano Scoundrel",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Rhotano%20Scoundrel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spectral Morpho",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Spectral%20Morpho.jpg"
+	        }
+	    },
+	    {
+	        "name": "Imperfect Gentleman",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Imperfect%20Gentleman.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wyrmwing Channeler",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Dwarf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Wyrmwing%20Channeler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Surecast Manipulator",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Surecast%20Manipulator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Star Calling",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Star%20Calling.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dragonsbane Dervish",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Elf Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dragonsbane%20Dervish.jpg"
+	        }
+	    },
+	    {
+	        "name": "Faetouched Vagabond",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Faetouched%20Vagabond.jpg"
+	        }
+	    },
+	    {
+	        "name": "Adamantoise",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Turtle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Adamantoise.jpg"
+	        }
+	    },
+	    {
+	        "name": "Waterfall Sprites",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Waterfall%20Sprites.jpg"
+	        }
+	    },
+	    {
+	        "name": "Inconsistent Connection",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Inconsistent%20Connection.jpg"
+	        }
+	    },
+	    {
+	        "name": "Indigo Whorl",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Indigo%20Whorl.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gone Fishing",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Gone%20Fishing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Adloquium",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Adloquium.jpg"
+	        }
+	    },
+	    {
+	        "name": "Looking for Help",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Looking%20for%20Help.jpg"
+	        }
+	    },
+	    {
+	        "name": "Trained Aesthetician",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Elf Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Trained%20Aesthetician.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cerulean Adept",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Cerulean%20Adept.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ominous Shoebill",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Ominous%20Shoebill.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tideglider",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Fish ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Tideglider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crystalline Brigand",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Giant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Crystalline%20Brigand.jpg"
+	        }
+	    },
+	    {
+	        "name": "Calamity Augur",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Calamity%20Augur.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cancerous Threat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{U}{U}",
+	        "type": "Creature — Crab ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Cancerous%20Threat.jpg"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Fantasia",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Iridescent%20Fantasia.jpg"
+	        }
+	    },
+	    {
+	        "name": "Whirlwind Denial",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Whirlwind%20Denial.jpg"
+	        }
+	    },
+	    {
+	        "name": "Recruit a Friend",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Recruit%20a%20Friend.jpg"
+	        }
+	    },
+	    {
+	        "name": "Records from Another World",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Records%20from%20Another%20World.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aetherflow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Aetherflow.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ironworks Engineer",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Cat Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Ironworks%20Engineer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Matriarch of the Depths",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Merfolk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Matriarch%20of%20the%20Depths.jpg"
+	        }
+	    },
+	    {
+	        "name": "Merlwyb, Storm Admiral",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Giant Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Merlwyb%2c%20Storm%20Admiral.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bottomless Crags",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Primal ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Bottomless%20Crags.jpg"
+	        }
+	    },
+	    {
+	        "name": "Octomammoth",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Kraken ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Octomammoth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Marilye, Veiled Deceiver",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Legendary Planeswalker — Marilye ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Marilye%2c%20Veiled%20Deceiver.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dream in Ice",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dream%20in%20Ice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Whalaqee Gambit",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Whalaqee%20Gambit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nymian Remnants // Floating Isles",
+	        "mana_cost": "{1}{U} // {1}{U}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Nymian%20Remnants.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sastasha Seagrot // Flooded Cove",
+	        "mana_cost": "{2}{U} // {4}{U}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sastasha%20Seagrot.jpg"
+	        }
+	    },
+	    {
+	        "name": "Relict Tower // Pharos Sirius",
+	        "mana_cost": "{U} // {2}{U}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Relict%20Tower.jpg"
+	        }
+	    },
+	    {
+	        "name": "Syrcus Tower // Allagan Records",
+	        "mana_cost": "{3}{U} // {5}{U}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Syrcus%20Tower.jpg"
+	        }
+	    },
+	    {
+	        "name": "Corrupted Child",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Imp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Corrupted%20Child.jpg"
+	        }
+	    },
+	    {
+	        "name": "Awaiting Orders",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Awaiting%20Orders.jpg"
+	        }
+	    },
+	    {
+	        "name": "Holy See Renegade",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Holy%20See%20Renegade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Conscripted Fodder",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Conscripted%20Fodder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Doman Shadow",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Azra Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Doman%20Shadow.jpg"
+	        }
+	    },
+	    {
+	        "name": "Carteneau Mercenary",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Carteneau%20Mercenary.jpg"
+	        }
+	    },
+	    {
+	        "name": "Prowling Huntress",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Cat Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Prowling%20Huntress.jpg"
+	        }
+	    },
+	    {
+	        "name": "Garlean Magitek",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Garlean%20Magitek.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forsaken Soul",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Forsaken%20Soul.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tainted Experiments",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Tainted%20Experiments.jpg"
+	        }
+	    },
+	    {
+	        "name": "Inevitable End",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Inevitable%20End.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lost to the Lifestream",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Lost%20to%20the%20Lifestream.jpg"
+	        }
+	    },
+	    {
+	        "name": "Duress",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Duress.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gelmorran Rite",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Gelmorran%20Rite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Live in Darkness",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Live%20in%20Darkness.jpg"
+	        }
+	    },
+	    {
+	        "name": "Silent Diremite",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Silent%20Diremite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bright Eye Familiar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Bright%20Eye%20Familiar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eastern Decurio",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Azra Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Eastern%20Decurio.jpg"
+	        }
+	    },
+	    {
+	        "name": "Life for Empire",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Life%20for%20Empire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lost Hope Corsair",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Zombie Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Lost%20Hope%20Corsair.jpg"
+	        }
+	    },
+	    {
+	        "name": "Praefectus Executioner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Giant Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Praefectus%20Executioner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Decorated Adventurer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Decorated%20Adventurer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Futures Forfeit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Futures%20Forfeit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hallucinogenic Halitosis",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Hallucinogenic%20Halitosis.jpg"
+	        }
+	    },
+	    {
+	        "name": "Touch of the Black Rose",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Touch%20of%20the%20Black%20Rose.jpg"
+	        }
+	    },
+	    {
+	        "name": "At Any Cost",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/At%20Any%20Cost.jpg"
+	        }
+	    },
+	    {
+	        "name": "Megalomaniac",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Azra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Megalomaniac.jpg"
+	        }
+	    },
+	    {
+	        "name": "Remastered Chopper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Remastered%20Chopper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Armored Vigilante",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Elf Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Armored%20Vigilante.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gaius, Sable Legatus",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Legendary Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Gaius%2c%20Sable%20Legatus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Death Blossom",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Azra Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Death%20Blossom.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heart of Sabik",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{B}",
+	        "type": "Legendary Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Heart%20of%20Sabik.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stygian Visage",
+	        "rarity": "rare",
+	        "mana_cost": "{6}{B}{B}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Stygian%20Visage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Umbral Era",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Umbral%20Era.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pureheart Desperation",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Pureheart%20Desperation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heretic Hideout // Heretic Hideout",
+	        "mana_cost": "{2}{B} // {1}{B}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Heretic%20Hideout.jpg"
+	        }
+	    },
+	    {
+	        "name": "Carteneau Flats // Supply Camp",
+	        "mana_cost": "{B} // {B}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Carteneau%20Flats.jpg"
+	        }
+	    },
+	    {
+	        "name": "Haukke Foyer // Empty Hallways",
+	        "mana_cost": "{4}{B} // {1}{B}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Haukke%20Foyer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dun Scaith // Corrupted Gate",
+	        "mana_cost": "{3}{B} // {8}{B}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dun%20Scaith.jpg"
+	        }
+	    },
+	    {
+	        "name": "Miner Problems",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Kobold ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Miner%20Problems.jpg"
+	        }
+	    },
+	    {
+	        "name": "Company Recruitment",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Company%20Recruitment.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coliseum Cyclone",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Dwarf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Coliseum%20Cyclone.jpg"
+	        }
+	    },
+	    {
+	        "name": "Relay Runners",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Relay%20Runners.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unstable Nucleus",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Unstable%20Nucleus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Maverick Officer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Maverick%20Officer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brotherhood of Ash",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Lizard Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Brotherhood%20of%20Ash.jpg"
+	        }
+	    },
+	    {
+	        "name": "To the Races",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/To%20the%20Races.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mhigan Sellswords",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human  Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Mhigan%20Sellswords.jpg"
+	        }
+	    },
+	    {
+	        "name": "Frenzied Marauder",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Giant Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Frenzied%20Marauder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Devastating Blow",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Devastating%20Blow.jpg"
+	        }
+	    },
+	    {
+	        "name": "Battle High",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Battle%20High.jpg"
+	        }
+	    },
+	    {
+	        "name": "Piercing Volley",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Piercing%20Volley.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coordinated Assault",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Coordinated%20Assault.jpg"
+	        }
+	    },
+	    {
+	        "name": "Strike Out",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Strike%20Out.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dravanian Hunter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dravanian%20Hunter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Battleworn Skirmisher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Battleworn%20Skirmisher.jpg"
+	        }
+	    },
+	    {
+	        "name": "War Panther",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/War%20Panther.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dravanian Flamewing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dravanian%20Flamewing.jpg"
+	        }
+	    },
+	    {
+	        "name": "New Alliances",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/New%20Alliances.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cavalry Drake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Cavalry%20Drake.jpg"
+	        }
+	    },
+	    {
+	        "name": "Alliance Commander",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Azra Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Alliance%20Commander.jpg"
+	        }
+	    },
+	    {
+	        "name": "Piercing Note",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Piercing%20Note.jpg"
+	        }
+	    },
+	    {
+	        "name": "Supernatural Temptation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Supernatural%20Temptation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gathering Power",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Gathering%20Power.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pair Up",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Pair%20Up.jpg"
+	        }
+	    },
+	    {
+	        "name": "Volatile Pyre",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Volatile%20Pyre.jpg"
+	        }
+	    },
+	    {
+	        "name": "Auspice of Rebirth",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Auspice%20of%20Rebirth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Repurposed Cultivator",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Repurposed%20Cultivator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Raubahn, Mhigan Champion",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Raubahn%2c%20Mhigan%20Champion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Smoldering Bowl",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment — Primal ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Smoldering%20Bowl.jpg"
+	        }
+	    },
+	    {
+	        "name": "Imperial Allegiant",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Rabbit Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Imperial%20Allegiant.jpg"
+	        }
+	    },
+	    {
+	        "name": "New World Tyrant",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/New%20World%20Tyrant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Flames of Rebellion",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Flames%20of%20Rebellion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Beyond the Source",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Beyond%20the%20Source.jpg"
+	        }
+	    },
+	    {
+	        "name": "Alliance Raid // Operation Archon",
+	        "mana_cost": "{R} // {R}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Alliance%20Raid.jpg"
+	        }
+	    },
+	    {
+	        "name": "Echoing Roars // Wyrm Memories",
+	        "mana_cost": "{2}{R} // {4}{R}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Echoing%20Roars.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ruby Avenue // Salvage Shop",
+	        "mana_cost": "{2}{R} // {1}{R}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Ruby%20Avenue.jpg"
+	        }
+	    },
+	    {
+	        "name": "Chocobo Nest // Collateral Damage",
+	        "mana_cost": "{3}{R} // {2}{R}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Chocobo%20Nest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seedseer Devotee",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Seedseer%20Devotee.jpg"
+	        }
+	    },
+	    {
+	        "name": "Invested Novice",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Invested%20Novice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dodo of Paradise",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dodo%20of%20Paradise.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hearty Highlander",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Giant Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Hearty%20Highlander.jpg"
+	        }
+	    },
+	    {
+	        "name": "Serene Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Azra Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Serene%20Sentinel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Invasive Boar",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Boar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Invasive%20Boar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Twelveswood Ascetic",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Dryad Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Twelveswood%20Ascetic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Distant Traveler",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Distant%20Traveler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ehcatl Brightfeather",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Bird Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Ehcatl%20Brightfeather.jpg"
+	        }
+	    },
+	    {
+	        "name": "Scion Gathering",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Scion%20Gathering.jpg"
+	        }
+	    },
+	    {
+	        "name": "Expedition Hijinks",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Expedition%20Hijinks.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sudden Inspiration",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sudden%20Inspiration.jpg"
+	        }
+	    },
+	    {
+	        "name": "Return to Nature",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Return%20to%20Nature.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unexpected Vistas",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Unexpected%20Vistas.jpg"
+	        }
+	    },
+	    {
+	        "name": "Viridan Blessing",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Viridan%20Blessing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Roads Well Traveled",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Roads%20Well%20Traveled.jpg"
+	        }
+	    },
+	    {
+	        "name": "Qiqirn Junkmongers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Qiqirn%20Junkmongers.jpg"
+	        }
+	    },
+	    {
+	        "name": "Idyll Paragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Idyll%20Paragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Orchard Keeper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Dwarf Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Orchard%20Keeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sharlayan Specialist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Rabbit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sharlayan%20Specialist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Weathered Veteran",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Giant Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Weathered%20Veteran.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spriggan Hoarder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Rabbit Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Spriggan%20Hoarder.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bramble Enforcer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Cat Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Bramble%20Enforcer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Steppe Mistress",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Azra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Steppe%20Mistress.jpg"
+	        }
+	    },
+	    {
+	        "name": "Choose Your Weapon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Choose%20Your%20Weapon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Come Together",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Come%20Together.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stillglade Bloom",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Stillglade%20Bloom.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sanctuary Companion",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Bird Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sanctuary%20Companion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sylvan Warden",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sylvan%20Warden.jpg"
+	        }
+	    },
+	    {
+	        "name": "Senna, Seedseer Matron",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Legendary Creature — Dryad Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Senna%2c%20Seedseer%20Matron.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tempestuous Eye",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Primal ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Tempestuous%20Eye.jpg"
+	        }
+	    },
+	    {
+	        "name": "Limber Forerunner",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Giant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Limber%20Forerunner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Overgrown Morbol",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Overgrown%20Morbol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Quieting Winds",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Quieting%20Winds.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sanctuary Menagerie",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sanctuary%20Menagerie.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fallgourd Float // Frontier Vista",
+	        "mana_cost": "{5}{G} // {3}{G}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Fallgourd%20Float.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sylvan Thicket // Moonspore Grove",
+	        "mana_cost": "{2}{G} // {1}{G}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sylvan%20Thicket.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jungle Longstop // Vibrant Respite",
+	        "mana_cost": "{3}{G} // {1}{G}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Jungle%20Longstop.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seal Rock // Skirmish Point",
+	        "mana_cost": "{G} // {1}{G}",
+	        "layout": "split",
+	        "rarity": "mythic",
+	        "type": "Enchantment Battle — Path ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Seal%20Rock.jpg"
+	        }
+	    },
+	    {
+	        "name": "K'lyhia, Arcane Novice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}",
+	        "type": "Legendary Creature — Cat Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/K%27lyhia%2c%20Arcane%20Novice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Novv, Clutch Father",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Legendary Creature — Merfolk Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Novv%2c%20Clutch%20Father.jpg"
+	        }
+	    },
+	    {
+	        "name": "Livia, Scorned Tribunus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Legendary Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Livia%2c%20Scorned%20Tribunus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hoary, Tested Mettle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{G}",
+	        "type": "Legendary Creature — Giant Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Hoary%2c%20Tested%20Mettle.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coultenet, Tested Mercy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Legendary Creature — Elf Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Coultenet%2c%20Tested%20Mercy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hildibrand, Extraordinaire",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Legendary Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Hildibrand%2c%20Extraordinaire.jpg"
+	        }
+	    },
+	    {
+	        "name": "G'raha, Allagan Heir",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Legendary Creature — Cat Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/G%27raha%2c%20Allagan%20Heir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arenvald, Scion Recruit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Legendary Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Arenvald%2c%20Scion%20Recruit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sezul, Forsaken Pioneer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Legendary Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sezul%2c%20Forsaken%20Pioneer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Yoshida, Wandering Minstrel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Legendary Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Yoshida%2c%20Wandering%20Minstrel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urianger, Divine Chronicler",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Legendary Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Urianger%2c%20Divine%20Chronicler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thancred, Dreaming Blade",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Legendary Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Thancred%2c%20Dreaming%20Blade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nero, Scaevan Hammer",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Legendary Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Nero%2c%20Scaevan%20Hammer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Yda, Masked Pugilist",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Legendary Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Yda%2c%20Masked%20Pugilist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Y'shtola, Lifestream Healer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Legendary Creature — Cat Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Y%27shtola%2c%20Lifestream%20Healer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heiress of Haukke",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Creature — Vampire Elf Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Heiress%20of%20Haukke.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dreadwyrm Essence",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Enchantment — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dreadwyrm%20Essence.jpg"
+	        }
+	    },
+	    {
+	        "name": "Failed Encounter",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Failed%20Encounter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Flight of the Dezul Qualan",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Flight%20of%20the%20Dezul%20Qualan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Savage Raider",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Creature — Giant Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Savage%20Raider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wind-Up Flock",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Bird Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Wind-Up%20Flock.jpg"
+	        }
+	    },
+	    {
+	        "name": "Basalt Amalgam",
+	        "rarity": "common",
+	        "mana_cost": "{8}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Basalt%20Amalgam.jpg"
+	        }
+	    },
+	    {
+	        "name": "Company Airship",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Company%20Airship.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tonberry Knife",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Tonberry%20Knife.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crossroads Caravan",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Crossroads%20Caravan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Meteor Golem",
+	        "rarity": "uncommon",
+	        "mana_cost": "{7}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Meteor%20Golem.jpg"
+	        }
+	    },
+	    {
+	        "name": "Icarus Engine",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Icarus%20Engine.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soul Crystals",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Soul%20Crystals.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nullstone Refraction",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Nullstone%20Refraction.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lunar Facsimile",
+	        "rarity": "rare",
+	        "mana_cost": "{9}",
+	        "type": "Artifact Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Lunar%20Facsimile.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cid Garlond",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Legendary Planeswalker — Cid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Cid%20Garlond.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tupsimati",
+	        "rarity": "rare",
+	        "mana_cost": "{X}",
+	        "type": "Legendary Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Tupsimati.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hall of the Novice",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Hall%20of%20the%20Novice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ice Path",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Ice%20Path.jpg"
+	        }
+	    },
+	    {
+	        "name": "The Mothercrystal",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Enchantment Land — Aether ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/The%20Mothercrystal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains_EOR",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Plains_EOR.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island_EOR",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Island_EOR.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp_EOR",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Swamp_EOR.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain_EOR",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Mountain_EOR.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest_EOR",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Forest_EOR.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		1 Benevolent Moglin
+		1 Minfilia, Scion Antecedent
+		1 A Hero of Light
+		1 Gysahl Glutton
+		1 Shadowlands Refuge
+		1 Realm Reborn
+		1 For the Homeland
+		1 Group Pose
+		1 Ironworks Engineer
+		1 Matriarch of the Depths
+		1 Merlwyb, Storm Admiral
+		1 Bottomless Crags
+		1 Octomammoth
+		1 Marilye, Veiled Deceiver
+		1 Dream in Ice
+		1 Whalaqee Gambit
+		1 Megalomaniac
+		1 Armored Vigilante
+		1 Gaius, Sable Legatus
+		1 Death Blossom
+		1 Heart of Sabik
+		1 Stygian Visage
+		1 Umbral Era
+		1 Pureheart Desperation
+		1 Auspice of Rebirth
+		1 Repurposed Cultivator
+		1 Raubahn, Mhigan Champion
+		1 Smoldering Bowl
+		1 Imperial Allegiant
+		1 New World Tyrant
+		1 Flames of Rebellion
+		1 Beyond the Source
+		1 Sanctuary Companion
+		1 Sylvan Warden
+		1 Senna, Seedseer Matron
+		1 Tempestuous Eye
+		1 Limber Forerunner
+		1 Overgrown Morbol
+		1 Quieting Winds
+		1 Sanctuary Menagerie
+		1 Urianger, Divine Chronicler
+		1 Thancred, Dreaming Blade
+		1 Nero, Scaevan Hammer
+		1 Yda, Masked Pugilist
+		1 Y'shtola, Lifestream Healer
+		1 Heiress of Haukke
+		1 Dreadwyrm Essence
+		1 Failed Encounter
+		1 Flight of the Dezul Qualan
+		1 Savage Raider
+		1 Nullstone Refraction
+		1 Lunar Facsimile
+		1 Cid Garlond
+		1 Tupsimati
+		1 The Mothercrystal
+		1 Triple Triad
+		1 Crystalline Array
+		1 Desert Racetrack
+		1 Thorny Clearing
+		1 Nymian Remnants
+		1 Sastasha Seagrot
+		1 Relict Tower
+		1 Syrcus Tower
+		1 Heretic Hideout
+		1 Carteneau Flats
+		1 Haukke Foyer
+		1 Dun Scaith
+		1 Alliance Raid
+		1 Echoing Roars
+		1 Ruby Avenue
+		1 Chocobo Nest
+		1 Fallgourd Float
+		1 Sylvan Thicket
+		1 Jungle Longstop
+		1 Seal Rock
+	[UncommonSlot(3)]
+		2 Jack of All Trades
+		2 Sandshore Colibri
+		2 Arcane Companion
+		2 Scholasticate Tactician
+		2 Erstwhile Missionary
+		2 Memories of Home
+		2 Heartbound Healer
+		2 Rathefrost Thunder
+		2 Wondrous Tales
+		2 Push the Crystal
+		2 Afflatus Solace
+		2 Retrospection
+		2 Trained Aesthetician
+		2 Cerulean Adept
+		2 Ominous Shoebill
+		2 Tideglider
+		2 Crystalline Brigand
+		2 Calamity Augur
+		2 Cancerous Threat
+		2 Iridescent Fantasia
+		2 Whirlwind Denial
+		2 Recruit a Friend
+		2 Records from Another World
+		2 Aetherflow
+		2 Silent Diremite
+		2 Bright Eye Familiar
+		2 Eastern Decurio
+		2 Life for Empire
+		2 Lost Hope Corsair
+		2 Praefectus Executioner
+		2 Decorated Adventurer
+		2 Futures Forfeit
+		2 Hallucinogenic Halitosis
+		2 Touch of the Black Rose
+		2 At Any Cost
+		2 Remastered Chopper
+		2 Dravanian Hunter
+		2 Battleworn Skirmisher
+		2 War Panther
+		2 Dravanian Flamewing
+		2 New Alliances
+		2 Cavalry Drake
+		2 Alliance Commander
+		2 Piercing Note
+		2 Supernatural Temptation
+		2 Gathering Power
+		2 Pair Up
+		2 Volatile Pyre
+		2 Roads Well Traveled
+		2 Qiqirn Junkmongers
+		2 Idyll Paragon
+		2 Orchard Keeper
+		2 Sharlayan Specialist
+		2 Weathered Veteran
+		2 Spriggan Hoarder
+		2 Bramble Enforcer
+		2 Steppe Mistress
+		2 Choose Your Weapon
+		2 Come Together
+		2 Stillglade Bloom
+		2 K'lyhia, Arcane Novice
+		2 Novv, Clutch Father
+		2 Livia, Scorned Tribunus
+		2 Hoary, Tested Mettle
+		2 Coultenet, Tested Mercy
+		2 Hildibrand, Extraordinaire
+		2 G'raha, Allagan Heir
+		2 Arenvald, Scion Recruit
+		2 Sezul, Forsaken Pioneer
+		2 Yoshida, Wandering Minstrel
+		2 Crossroads Caravan
+		2 Meteor Golem
+		2 Icarus Engine
+		2 Soul Crystals
+		2 Ice Path
+	[CommonSlot(10)]
+		4 Hunting Talon
+		4 Studious Drifter
+		4 Ashen Survivor
+		4 Fortemps Exemplar
+		4 Stillglade Initiate
+		4 Feathered Heritage
+		4 Mog Ensemble
+		4 Attuned Acolyte
+		4 Starlit Mystic
+		4 Pursy Pussy
+		4 Rampant Light
+		4 Immolating Glare
+		4 Valiant Display
+		4 Aetheric Disruption
+		4 Raise
+		4 Rhotano Scoundrel
+		4 Spectral Morpho
+		4 Imperfect Gentleman
+		4 Wyrmwing Channeler
+		4 Surecast Manipulator
+		4 Star Calling
+		4 Dragonsbane Dervish
+		4 Faetouched Vagabond
+		4 Adamantoise
+		4 Waterfall Sprites
+		4 Inconsistent Connection
+		4 Indigo Whorl
+		4 Gone Fishing
+		4 Adloquium
+		4 Looking for Help
+		4 Corrupted Child
+		4 Awaiting Orders
+		4 Holy See Renegade
+		4 Conscripted Fodder
+		4 Doman Shadow
+		4 Carteneau Mercenary
+		4 Prowling Huntress
+		4 Garlean Magitek
+		4 Forsaken Soul
+		4 Tainted Experiments
+		4 Inevitable End
+		4 Lost to the Lifestream
+		4 Duress
+		4 Gelmorran Rite
+		4 Live in Darkness
+		4 Miner Problems
+		4 Company Recruitment
+		4 Coliseum Cyclone
+		4 Relay Runners
+		4 Unstable Nucleus
+		4 Maverick Officer
+		4 Brotherhood of Ash
+		4 To the Races
+		4 Mhigan Sellswords
+		4 Frenzied Marauder
+		4 Devastating Blow
+		4 Battle High
+		4 Piercing Volley
+		4 Coordinated Assault
+		4 Strike Out
+		4 Seedseer Devotee
+		4 Invested Novice
+		4 Dodo of Paradise
+		4 Hearty Highlander
+		4 Serene Sentinel
+		4 Invasive Boar
+		4 Twelveswood Ascetic
+		4 Distant Traveler
+		4 Ehcatl Brightfeather
+		4 Scion Gathering
+		4 Expedition Hijinks
+		4 Sudden Inspiration
+		4 Return to Nature
+		4 Unexpected Vistas
+		4 Viridan Blessing
+		4 Wind-Up Flock
+		4 Basalt Amalgam
+		4 Company Airship
+		4 Tonberry Knife
+		4 Hall of the Novice
+	[BasicSlot(1)]
+		20 Plains_EOR
+		20 Island_EOR
+		20 Swamp_EOR
+		20 Mountain_EOR
+		20 Forest_EOR
+	

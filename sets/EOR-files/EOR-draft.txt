@@ -1575,7 +1575,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Cat",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/157.jpg"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird",
-			"collector_number": "162",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/158.jpg"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Giant Warrior",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/159.jpg"
 			}
@@ -1615,7 +1615,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Boar",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/161.jpg"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human",
-			"collector_number": "161",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/163.jpg"
 			}
@@ -1645,7 +1645,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Bird Soldier",
-			"collector_number": "163",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/164.jpg"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/166.jpg"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/168.jpg"
 			}
@@ -1711,11 +1711,11 @@
 			}
 		},
 		{
-			"name": "Roads Well Traveled",
+			"name": "Adventurous Chocobo",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Sorcery",
-			"collector_number": "175",
+			"type": "Creature — Bird",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/171.jpg"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/172.jpg"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Hero",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/173.jpg"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dwarf Cleric",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/174.jpg"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Cat Hero",
-			"collector_number": "158",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/178.jpg"
 			}
@@ -1803,9 +1803,9 @@
 		{
 			"name": "Choose Your Weapon",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/180.jpg"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/181.jpg"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Giant",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/187.jpg"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/188.jpg"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Instant",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/189.jpg"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/204.jpg"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Giant Hero",
-			"collector_number": "0",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/214.jpg"
 			}
@@ -2155,7 +2155,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Bird Golem",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/215.jpg"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "common",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/216.jpg"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/217.jpg"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/218.jpg"
 			}
@@ -2195,7 +2195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/219.jpg"
 			}
@@ -2205,7 +2205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/220.jpg"
 			}
@@ -2215,7 +2215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/221.jpg"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/222.jpg"
 			}
@@ -2235,7 +2235,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Shapeshifter",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/223.jpg"
 			}
@@ -2245,7 +2245,7 @@
 			"rarity": "rare",
 			"mana_cost": "{9}",
 			"type": "Artifact Creature — Shapeshifter",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/224.jpg"
 			}
@@ -2254,7 +2254,7 @@
 			"name": "Cid Garlond",
 			"rarity": "rare",
 			"mana_cost": "{4}",
-			"type": "Legendary Planeswalker",
+			"type": "Legendary Planeswalker — Cid",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/225.jpg"
@@ -2265,7 +2265,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/226.jpg"
 			}
@@ -2275,7 +2275,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/227.jpg"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/228.jpg"
 			}
@@ -2295,7 +2295,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment Land — Aether",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/229.jpg"
 			}
@@ -2305,7 +2305,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/230.jpg"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/231.jpg"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/232.jpg"
 			}
@@ -2335,7 +2335,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/233.jpg"
 			}
@@ -2345,7 +2345,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/234.jpg"
 			}
@@ -2398,6 +2398,16 @@
 			"collector_number": "0",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Marilye, Veiled Deceiver",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem — Marilye",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/240.jpg"
 			}
 		}
 	]
@@ -2527,7 +2537,7 @@
 	4 Gathering Power
 	4 Pair Up
 	4 Volatile Pyre
-	4 Roads Well Traveled
+	4 Adventurous Chocobo
 	4 Qiqirn Junkmongers
 	4 Idyll Paragon
 	4 Orchard Keeper
@@ -2888,7 +2898,7 @@
 	12 Return to Nature
 	12 Unexpected Vistas
 	12 Viridan Blessing
-	6 Roads Well Traveled
+	6 Adventurous Chocobo
 	6 Qiqirn Junkmongers
 	6 Idyll Paragon
 	6 Orchard Keeper
@@ -3119,7 +3129,7 @@
 	6 Return to Nature
 	6 Unexpected Vistas
 	6 Viridan Blessing
-	15 Roads Well Traveled
+	15 Adventurous Chocobo
 	15 Qiqirn Junkmongers
 	15 Idyll Paragon
 	15 Orchard Keeper

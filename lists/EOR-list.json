@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Limber Forerunner",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Overgrown Morbol",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Quieting Winds",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -512,12 +512,12 @@
         "position": "138"
     },
     {
-        "card_name": "Bramble Enforcer",
+        "card_name": "Adventurous Chocobo",
         "number": 158,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "178"
+        "position": "171"
     },
     {
         "card_name": "Arcane Companion",
@@ -552,12 +552,12 @@
         "position": "133"
     },
     {
-        "card_name": "Choose Your Weapon",
+        "card_name": "Bramble Enforcer",
         "number": 159,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "180"
+        "position": "178"
     },
     {
         "card_name": "Erstwhile Missionary",
@@ -592,12 +592,12 @@
         "position": "137"
     },
     {
-        "card_name": "Come Together",
+        "card_name": "Choose Your Weapon",
         "number": 160,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "181"
+        "position": "180"
     },
     {
         "card_name": "Heartbound Healer",
@@ -632,12 +632,12 @@
         "position": "135"
     },
     {
-        "card_name": "Idyll Paragon",
-        "number": 166,
+        "card_name": "Come Together",
+        "number": 161,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "173"
+        "position": "181"
     },
     {
         "card_name": "Jack of All Trades",
@@ -672,12 +672,12 @@
         "position": "132"
     },
     {
-        "card_name": "Orchard Keeper",
-        "number": 170,
+        "card_name": "Idyll Paragon",
+        "number": 167,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "174"
+        "position": "173"
     },
     {
         "card_name": "Memories of Home",
@@ -712,12 +712,12 @@
         "position": "141"
     },
     {
-        "card_name": "Qiqirn Junkmongers",
-        "number": 172,
+        "card_name": "Orchard Keeper",
+        "number": 171,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "172"
+        "position": "174"
     },
     {
         "card_name": "Push the Crystal",
@@ -752,12 +752,12 @@
         "position": "136"
     },
     {
-        "card_name": "Roads Well Traveled",
-        "number": 175,
+        "card_name": "Qiqirn Junkmongers",
+        "number": 173,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "171"
+        "position": "172"
     },
     {
         "card_name": "Rathefrost Thunder",
@@ -993,7 +993,7 @@
     },
     {
         "card_name": "Distant Traveler",
-        "number": 161,
+        "number": 162,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1033,7 +1033,7 @@
     },
     {
         "card_name": "Dodo of Paradise",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1073,7 +1073,7 @@
     },
     {
         "card_name": "Ehcatl Brightfeather",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1113,7 +1113,7 @@
     },
     {
         "card_name": "Expedition Hijinks",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1153,7 +1153,7 @@
     },
     {
         "card_name": "Hearty Highlander",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1193,7 +1193,7 @@
     },
     {
         "card_name": "Invasive Boar",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1233,7 +1233,7 @@
     },
     {
         "card_name": "Invested Novice",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1273,7 +1273,7 @@
     },
     {
         "card_name": "Return to Nature",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1701,7 +1701,7 @@
     },
     {
         "card_name": "Savage Raider",
-        "number": 0,
+        "number": 215,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1741,7 +1741,7 @@
     },
     {
         "card_name": "Yoshida, Wandering Minstrel",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1770,7 +1770,7 @@
     },
     {
         "card_name": "Lunar Facsimile",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1778,7 +1778,7 @@
     },
     {
         "card_name": "Nullstone Refraction",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1786,7 +1786,7 @@
     },
     {
         "card_name": "Tupsimati",
-        "number": 225,
+        "number": 226,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1794,7 +1794,7 @@
     },
     {
         "card_name": "Crossroads Caravan",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1802,7 +1802,7 @@
     },
     {
         "card_name": "Icarus Engine",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1810,7 +1810,7 @@
     },
     {
         "card_name": "Meteor Golem",
-        "number": 221,
+        "number": 222,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1818,7 +1818,7 @@
     },
     {
         "card_name": "Soul Crystals",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1826,7 +1826,7 @@
     },
     {
         "card_name": "Basalt Amalgam",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1834,7 +1834,7 @@
     },
     {
         "card_name": "Company Airship",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1842,7 +1842,7 @@
     },
     {
         "card_name": "Tonberry Knife",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1850,7 +1850,7 @@
     },
     {
         "card_name": "Wind-Up Flock",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1882,7 +1882,7 @@
     },
     {
         "card_name": "The Mothercrystal",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1890,7 +1890,7 @@
     },
     {
         "card_name": "Ice Path",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1898,7 +1898,7 @@
     },
     {
         "card_name": "Hall of the Novice",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1927,7 +1927,7 @@
     },
     {
         "card_name": "Plains_EOR",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1935,7 +1935,7 @@
     },
     {
         "card_name": "Island_EOR",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1943,7 +1943,7 @@
     },
     {
         "card_name": "Swamp_EOR",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1951,7 +1951,7 @@
     },
     {
         "card_name": "Mountain_EOR",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1959,7 +1959,7 @@
     },
     {
         "card_name": "Forest_EOR",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1978,6 +1978,14 @@
         "card_name": "er"
     },
     "a->token",
+    {
+        "card_name": "Marilye, Veiled Deceiver",
+        "number": 0,
+        "shape": "token",
+        "set": "EOR",
+        "rotated": false,
+        "position": "240"
+    },
     {
         "card_name": "Hero",
         "number": 0,
@@ -2017,6 +2025,18 @@
         "set": "EOR",
         "rotated": false,
         "position": "236"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
