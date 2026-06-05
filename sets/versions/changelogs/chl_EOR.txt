@@ -1,4 +1,12 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Heretic Hideout
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Adventurous Chocobo added.
