@@ -1144,7 +1144,7 @@ Gain control of target permanent.</text>
 		<card>
 			<name>Records from Another World</name>
 			<text>When this Aether enters, draw a card.
-When this Aether dies, you may pay return this card from your graveyard to your hand.
+When this Aether dies, you may return it from your graveyard to your hand.
 Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/64.jpg" num="64">EOR</set>
 			<prop>
@@ -2543,7 +2543,7 @@ Draw a card.</text>
 		<card>
 			<name>Chain Reactions</name>
 			<text>When this Aether enters, it deals 2 damage to each opponent.
-When this Aether dies, you may return this card from your graveyard to your hand.
+When this Aether dies, you may return it from your graveyard to your hand.
 Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/143.jpg" num="126">EOR</set>
 			<prop>
@@ -4406,7 +4406,7 @@ When this creature enters, target permanent loses all abilities until end of tur
 		<card>
 			<name>Gilded Envoy</name>
 			<text>Flying
-You may play lands from your graveyard. Lands that enter this way enter with a finality counter on it.
+When this creature enters, return up to one target permanent card with mana value 1 or less from your graveyard to the battlefield tapped.
 Whenever a permanent you control with mana value 1 or less enters, this creature deals 1 damage to each opponent.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/249.jpg" num="231">EOR</set>
 			<prop>
