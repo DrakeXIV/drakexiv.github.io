@@ -1,4 +1,69 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Coldlight Influence added.
+Magician's Strategy added.
+Acrobat's Strategy added.
+Fighter's Strategy added.
+Healer's Strategy added.
+
+Tapped Potentials removed.
+Magician's Expertise removed.
+Acrobat's Expertise removed.
+Fighter's Expertise removed.
+Healer's Expertise removed.
+
+Retrospection
+rules_text: You may cast this spell without paying its mana cost if a battle you control was defeated this turn.
+Return target permanent card from your graveyard to your hand. => You may cast this spell without paying its mana cost if a battle you controlled was defeated this turn.
+Return target permanent card from your graveyard to your hand.
+
+Records from Another World
+rules_text: When this Aether enters, draw a card.
+When this Aether dies, you may return it from your graveyard to your hand.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery. => When this Aether enters, draw a card.
+When this Aether dies, you may put it on top of your library.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.
+
+Haukke Foyer
+
+Miner Problems
+rules_text: Haste
+When this creature enters, put a +1/+1 counter on it if you activated a nonmana ability this turn. => When this creature enters, put a +1/+1 counter on it if you activated a nonmana ability this turn.
+{1}, Sacrifice this creature: Destroy target artifact.
+
+Cavalry Drake
+rules_text: Creatures you control have haste while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+{R}: Damage can't be prevented this turn. This creature gets +1/+0 until end of turn. => Creatures you control have haste while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+When this creature enters, you may destroy up to one target artifact.
+pt: 3/4 => 3/3
+
+Chain Reactions
+rules_text: When this Aether enters, it deals 2 damage to each opponent.
+When this Aether dies, you may return it from your graveyard to your hand.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery. => When this Aether enters, it deals 2 damage to each opponent.
+When this Aether dies, you may put it on top of your library.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.
+
+Ruby Avenue
+rules_text: You don't lose unspent {C} as steps and phases end.
+At the beginning of your main phase each turn, add {C}. => You don't lose unspent {C} as steps and phases end.
+At the beginning of your precombat main phase, you may add {C}.
+
+Sylvan Warden
+rules_text: This creature gets +2/+2 as long as you defeated a battle this game.
+Whenever you tap a permanent for mana while your enmity is twelve or greater, add {C}. [i](Enmity is the total mana value of your permanents.)[/i] => This creature gets +2/+2 as long as a battle you controlled was defeated this game.
+Whenever you tap a permanent for mana while your enmity is twelve or greater, add {C}. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Fallgourd Float
+cost: {5}{G} => {3}{G}
+
+Disruptive Jolt
+cost: {1}{U}{B} => {U}{B}
+rules_text: Return target spell or nonland permanent to its owner's hand. Then if you defeated a battle this game, that player shuffles a card from their hand into their library. => Return target spell or nonland permanent to its owner's hand. Then if a battle you controlled was defeated this game, that player shuffles a card from their hand into their library.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 

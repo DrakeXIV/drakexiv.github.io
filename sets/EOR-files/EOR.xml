@@ -467,7 +467,7 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 		</card>
 		<card>
 			<name>Retrospection</name>
-			<text>You may cast this spell without paying its mana cost if a battle you control was defeated this turn.
+			<text>You may cast this spell without paying its mana cost if a battle you controlled was defeated this turn.
 Return target permanent card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/26.jpg" num="29">EOR</set>
 			<prop>
@@ -1144,7 +1144,7 @@ Gain control of target permanent.</text>
 		<card>
 			<name>Records from Another World</name>
 			<text>When this Aether enters, draw a card.
-When this Aether dies, you may return it from your graveyard to your hand.
+When this Aether dies, you may put it on top of your library.
 Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/64.jpg" num="64">EOR</set>
 			<prop>
@@ -2055,15 +2055,15 @@ If you would amass any amount, instead amass that much plus 1.</text>
 
 ---
 
-Your opponent&apos;s hand size is reduced by one while your enmity is twelve or greater. (Enmity is the total mana value of your permanents.)</text>
+Each opponent&apos;s hand size is reduced by two while your enmity is twelve or greater. (Enmity is the total mana value of your permanents.)</text>
 			<set rarity="mythic" picurl="https://drakexiv.github.io/sets/EOR-files/img/115.jpg" num="117">EOR</set>
 			<prop>
 				<layout>split</layout>
 				<side>front</side>
 				<type>Enchantment Battle — Path</type>
 				<maintype>Battle</maintype>
-				<manacost>4B // 1B</manacost>
-				<cmc>7</cmc>
+				<manacost>4B // B</manacost>
+				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2091,8 +2091,8 @@ When this side is cleared, search your library for a card and put it into your h
 		</card>
 		<card>
 			<name>Miner Problems</name>
-			<text>Haste
-When this creature enters, put a +1/+1 counter on it if you activated a nonmana ability this turn.</text>
+			<text>When this creature enters, put a +1/+1 counter on it if you activated a nonmana ability this turn.
+{1}, Sacrifice this creature: Destroy target artifact.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/117.jpg" num="139">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2440,7 +2440,7 @@ Exile the top two cards of your library. You may play them until the end of your
 		<card>
 			<name>Cavalry Drake</name>
 			<text>Creatures you control have haste while your enmity is twelve or greater. (Enmity is the total mana value of your permanents.)
-{R}: Damage can&apos;t be prevented this turn. This creature gets +1/+0 until end of turn.</text>
+When this creature enters, you may destroy up to one target artifact.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/137.jpg" num="125">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2451,7 +2451,7 @@ Exile the top two cards of your library. You may play them until the end of your
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2543,7 +2543,7 @@ Draw a card.</text>
 		<card>
 			<name>Chain Reactions</name>
 			<text>When this Aether enters, it deals 2 damage to each opponent.
-When this Aether dies, you may return it from your graveyard to your hand.
+When this Aether dies, you may put it on top of your library.
 Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/143.jpg" num="126">EOR</set>
 			<prop>
@@ -2744,7 +2744,7 @@ When this side is cleared, untap all creatures you control. If it&apos;s your co
 		<card>
 			<name>Ruby Avenue // Salvage Shop</name>
 			<text>You don&apos;t lose unspent {C} as steps and phases end.
-At the beginning of your main phase each turn, add {C}.
+At the beginning of your precombat main phase, you may add {C}.
 
 ---
 
@@ -3284,7 +3284,7 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 		</card>
 		<card>
 			<name>Sylvan Warden</name>
-			<text>This creature gets +2/+2 as long as you defeated a battle this game.
+			<text>This creature gets +2/+2 as long as a battle you controlled was defeated this game.
 Whenever you tap a permanent for mana while your enmity is twelve or greater, add {C}. (Enmity is the total mana value of your permanents.)</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/184.jpg" num="187">EOR</set>
 			<prop>
@@ -3419,8 +3419,8 @@ When this side is cleared, search your library for up to two basic land cards an
 				<side>front</side>
 				<type>Enchantment Battle — Path</type>
 				<maintype>Battle</maintype>
-				<manacost>5G // 3G</manacost>
-				<cmc>10</cmc>
+				<manacost>3G // 3G</manacost>
+				<cmc>8</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -3490,7 +3490,7 @@ Whenever you put one or more counters on a creature you control, you may draw a 
 			<name>K&apos;lyhia, Arcane Novice</name>
 			<text>Untap this creature during each opponent&apos;s untap step.
 Flow — {2}{W}{U}: Copy the next nonmana ability you activate this turn. You may choose new targets for the copy. (Each creature you tap while activating this pays for {1}.)</text>
-			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/195.jpg" num="197">EOR</set>
+			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/195.jpg" num="198">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4265,9 +4265,10 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 			<token>1</token>
 		</card>
 		<card>
-			<name>Tapped Potentials</name>
-			<text>Untap all creatures you control. Until end of turn, they have &quot;This creature gets +1/+1 for each noncreature spell you cast and nonmana ability you activated this turn.&quot;</text>
-			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/241.jpg" num="199">EOR</set>
+			<name>Coldlight Influence</name>
+			<text>Your opponents can&apos;t cast spells or activate nonmana abilities this turn.
+Untap all creatures you control. Put a +1/+1 counter on them.</text>
+			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/241.jpg" num="197">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4282,15 +4283,15 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 		</card>
 		<card>
 			<name>Disruptive Jolt</name>
-			<text>Return target spell or nonland permanent to its owner&apos;s hand. Then if you defeated a battle this game, that player shuffles a card from their hand into their library.</text>
+			<text>Return target spell or nonland permanent to its owner&apos;s hand. Then if a battle you controlled was defeated this game, that player shuffles a card from their hand into their library.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/242.jpg" num="202">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1UB</manacost>
-				<cmc>3</cmc>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 			</prop>
@@ -4440,11 +4441,11 @@ Until your next turn, creature spells you cast cost {X} less to cast, where X is
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Magician&apos;s Expertise</name>
+			<name>Magician&apos;s Strategy</name>
 			<text>Choose one. If you control a Wizard, you may choose both instead.
 • Target player draws three cards. They put a card from their hand on top of their library.
 • Tap up to two target nonland permanents. They don&apos;t untap during their controller&apos;s next untap step.</text>
-			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/251.jpg" num="198">EOR</set>
+			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/251.jpg" num="199">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4458,18 +4459,18 @@ Until your next turn, creature spells you cast cost {X} less to cast, where X is
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Acrobat&apos;s Expertise</name>
+			<name>Acrobat&apos;s Strategy</name>
 			<text>Choose one. If you control a Rogue, you may choose both instead.
 • Target creature gets -4/-4 until end of turn. If that creature dies this turn, you gain 4 life.
-• Untap up to two target creatures. They get +1/+1 this turn. They can&apos;t be blocked this turn.</text>
+• Untap up to two target creatures. They get +1/+1 until end of turn. They can&apos;t be blocked this turn.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/252.jpg" num="201">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>UB</manacost>
-				<cmc>2</cmc>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 			</prop>
@@ -4494,36 +4495,36 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Fighter&apos;s Expertise</name>
+			<name>Fighter&apos;s Strategy</name>
 			<text>Choose one. If you control a Warrior, you may choose both instead.
 • Destroy target noncreature permanent.
-• Target player puts a creature card from their hand onto the battlefield. It gains haste until end of turn. Return it to its owner&apos;s hand at the beginning of the next end step.</text>
+• Target player may put a creature card from their hand onto the battlefield. It gains haste until end of turn. Return that creature to its owner&apos;s hand at the beginning of the next end step.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/254.jpg" num="210">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2RG</manacost>
-				<cmc>4</cmc>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Healer&apos;s Expertise</name>
+			<name>Healer&apos;s Strategy</name>
 			<text>Choose one. If you control a Cleric, you may choose both instead.
 • Target player gains 1 life for each permanent they control.
-• Put a shield counter on each creature target player controls. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+• Put a shield counter on up to two target creatures. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/255.jpg" num="214">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3GW</manacost>
-				<cmc>5</cmc>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
 			</prop>

@@ -1913,7 +1913,7 @@
 		{
 			"name": "Fallgourd Float",
 			"rarity": "mythic",
-			"mana_cost": "{5}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Enchantment Battle — Path",
 			"collector_number": "193",
 			"image_uris": {
@@ -1955,7 +1955,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Cat Wizard",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/195.jpg"
 			}
@@ -2411,11 +2411,11 @@
 			}
 		},
 		{
-			"name": "Tapped Potentials",
+			"name": "Coldlight Influence",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "199",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/241.jpg"
 			}
@@ -2423,7 +2423,7 @@
 		{
 			"name": "Disruptive Jolt",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{U}{B}",
 			"type": "Instant",
 			"collector_number": "202",
 			"image_uris": {
@@ -2511,19 +2511,19 @@
 			}
 		},
 		{
-			"name": "Magician's Expertise",
+			"name": "Magician's Strategy",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/251.jpg"
 			}
 		},
 		{
-			"name": "Acrobat's Expertise",
+			"name": "Acrobat's Strategy",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{B}",
+			"mana_cost": "{2}{U}{B}",
 			"type": "Sorcery",
 			"collector_number": "201",
 			"image_uris": {
@@ -2541,9 +2541,9 @@
 			}
 		},
 		{
-			"name": "Fighter's Expertise",
+			"name": "Fighter's Strategy",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{G}",
+			"mana_cost": "{3}{R}{G}",
 			"type": "Sorcery",
 			"collector_number": "210",
 			"image_uris": {
@@ -2551,9 +2551,9 @@
 			}
 		},
 		{
-			"name": "Healer's Expertise",
+			"name": "Healer's Strategy",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{W}",
+			"mana_cost": "{1}{G}{W}",
 			"type": "Sorcery",
 			"collector_number": "214",
 			"image_uris": {
@@ -2698,7 +2698,7 @@
 	2 Cid Garlond
 	2 Tupsimati
 	2 The Mothercrystal
-	2 Tapped Potentials
+	2 Coldlight Influence
 	2 Disruptive Jolt
 	2 Ascian Lahabrea
 	2 Ajani, in a Strange Land
@@ -2784,11 +2784,11 @@
 	4 Icarus Engine
 	4 Soul Crystals
 	4 Ice Path
-	4 Magician's Expertise
-	4 Acrobat's Expertise
+	4 Magician's Strategy
+	4 Acrobat's Strategy
 	4 Iron Claw
-	4 Fighter's Expertise
-	4 Healer's Expertise
+	4 Fighter's Strategy
+	4 Healer's Strategy
 	4 Indecipherable Thoughts
 	4 Labyrinthan Secrets
 	4 Appointed Strength
@@ -3187,7 +3187,7 @@
 	12 Hall of the Novice
 	6 Ice Path
 	2 The Mothercrystal
-	2 Tapped Potentials
+	2 Coldlight Influence
 	2 Disruptive Jolt
 	2 Ascian Lahabrea
 	2 Ajani, in a Strange Land
@@ -3197,11 +3197,11 @@
 	2 Calamity Veteran
 	2 Gilded Envoy
 	2 Party Finder
-	6 Magician's Expertise
-	6 Acrobat's Expertise
+	6 Magician's Strategy
+	6 Acrobat's Strategy
 	6 Iron Claw
-	6 Fighter's Expertise
-	6 Healer's Expertise
+	6 Fighter's Strategy
+	6 Healer's Strategy
 	6 Indecipherable Thoughts
 	6 Labyrinthan Secrets
 	6 Appointed Strength
@@ -3438,7 +3438,7 @@
 	6 Hall of the Novice
 	15 Ice Path
 	7 The Mothercrystal
-	7 Tapped Potentials
+	7 Coldlight Influence
 	7 Disruptive Jolt
 	7 Ascian Lahabrea
 	7 Ajani, in a Strange Land
@@ -3448,11 +3448,11 @@
 	7 Calamity Veteran
 	7 Gilded Envoy
 	7 Party Finder
-	15 Magician's Expertise
-	15 Acrobat's Expertise
+	15 Magician's Strategy
+	15 Acrobat's Strategy
 	15 Iron Claw
-	15 Fighter's Expertise
-	15 Healer's Expertise
+	15 Fighter's Strategy
+	15 Healer's Strategy
 	15 Indecipherable Thoughts
 	15 Labyrinthan Secrets
 	15 Appointed Strength

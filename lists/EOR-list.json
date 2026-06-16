@@ -1573,8 +1573,8 @@
     },
     "a->gold",
     {
-        "card_name": "Tapped Potentials",
-        "number": 199,
+        "card_name": "Coldlight Influence",
+        "number": 197,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1654,14 +1654,14 @@
     },
     {
         "card_name": "K'lyhia, Arcane Novice",
-        "number": 197,
+        "number": 198,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
         "position": "195"
     },
     {
-        "card_name": "Acrobat's Expertise",
+        "card_name": "Acrobat's Strategy",
         "number": 201,
         "shape": "normal",
         "set": "EOR",
@@ -1677,7 +1677,7 @@
         "position": "253"
     },
     {
-        "card_name": "Fighter's Expertise",
+        "card_name": "Fighter's Strategy",
         "number": 210,
         "shape": "normal",
         "set": "EOR",
@@ -1693,8 +1693,8 @@
         "position": "199"
     },
     {
-        "card_name": "Magician's Expertise",
-        "number": 198,
+        "card_name": "Magician's Strategy",
+        "number": 199,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -1725,7 +1725,7 @@
         "position": "198"
     },
     {
-        "card_name": "Healer's Expertise",
+        "card_name": "Healer's Strategy",
         "number": 214,
         "shape": "normal",
         "set": "EOR",
