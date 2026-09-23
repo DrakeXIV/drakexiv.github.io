@@ -1,4 +1,1022 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Village Prodigy added.
+Heartbound Herald added.
+Calamity at Carteneau added.
+Mogscourt added.
+Comrades in Arms added.
+Aetherflux added.
+Titan, Bottomless Crags added.
+Traveled Tricksters added.
+Ultima Project, Devastator added.
+Empty Hallways added.
+Earthen Roar added.
+Regal Replica added.
+Improvised Finisher added.
+Ifrit, Smoldering Bowl added.
+Everbloom Sprite added.
+Garuda, Tempestuous Eye added.
+Wipe Recovery added.
+Revenant's Toll added.
+Wolves' Den added.
+Scattered Energy added.
+Unending Journey added.
+Aetheryte Ticket added.
+Ceruleum Battlements added.
+Canyon Railway added.
+Northern Expanse added.
+Hunting Outpost added.
+Wilderness Respite added.
+Seaside Retreat added.
+Sagolii Oasis added.
+Bentbranch Meadows added.
+Forgotten Village added.
+Vineyard Homestead added.
+Ifrit, Smoldering Bowl added.
+Treasure added.
+
+Starlit Mystic removed.
+Heartbound Healer removed.
+Realm Reborn removed.
+Thorny Clearing removed.
+Imperfect Gentleman removed.
+Aetherflow removed.
+Bottomless Crags removed.
+Holy See Renegade removed.
+Heart of Sabik removed.
+Haukke Foyer removed.
+Piercing Volley removed.
+Gathering Power removed.
+Pair Up removed.
+Smoldering Bowl removed.
+Invasive Boar removed.
+Tempestuous Eye removed.
+Failed Encounter removed.
+Ice Path removed.
+The Mothercrystal removed.
+Disruptive Jolt removed.
+Party Finder removed.
+
+Hunting Talon
+
+Studious Drifter
+
+Ashen Survivor
+rules_text: Vigilance
+This creature gets +2/+2 if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => Vigilance
+When this creature enters, if your enmity is twelve or greater, put two +1/+1 counters on up to one target creature. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Fortemps Exemplar
+
+Stillglade Initiate
+
+Feathered Heritage
+
+Mog Ensemble
+rules_text: Flying
+When this creature enters, put your choice of a +1/+1 counter or shield counter on another target creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => Flying
+When this creature enters, put your choice of a +1/+1 counter or shield counter on target creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+pt: 2/2 => 1/2
+
+Attuned Acolyte
+
+Pursy Pussy
+rules_text: This creature has flying while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+When this creature enters, put a +1/+1 counter on target creature you control. => This creature has flying while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+When this creature enters, put a +1/+1 counter on each creature you control with a counter on it.
+
+Rampant Light
+
+Immolating Glare
+
+Valiant Display
+
+Aetheric Disruption
+cost: {2}{W} => {W}
+rules_text: Until your next turn, target permanent loses all types and abilities and can't gain types or abilities. [i](It is still a permanent.)[/i]
+Create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i] => Each player sacrifices a nontoken artifact, battle, or enchantment. Then if you sacrificed a permanent this way, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+
+Raise
+
+Jack of All Trades
+rules_text: This creature is also a Cleric, Rogue, Warrior, and Wizard.
+Flow — {2}{W}, Exile this card from your graveyard: Draw a card. [i](Each creature you tap while activating this pays for {1}.)[/i] => As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
+This creature is also the chosen type.
+Flow — {2}{W}, Exile this card from your graveyard: Draw a card. [i](Each creature you tap while activating this pays for {1}.)[/i]
+
+Sandshore Colibri
+
+Arcane Companion
+
+Scholasticate Tactician
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Flow — {X}{U}: This creature's base power and toughness become X/X until end of turn. X can't be 0. [i](Each creature you tap while activating this pays for {1}.)[/i] => Whenever you activate a nonmana ability put a +1/+1 counter on this creature. Do this only once each turn.
+Flow — {2}{U}: Counter target activated ability. [i](Mana abilities can't be targeted. Each creature you tap while activating this pays for {1}.)[/i]
+
+Erstwhile Missionary
+rules_text: Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Cleric[/b] | Whenever this creature becomes tapped, you may untap it. It gets +1/+1 until end of turn. Do this only once each turn.
+[b]Wizard[/b] | {T}: Each player draws a card. => Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Cleric[/b] | Each token creature you control enters with an additional +1/+1 counter on it.
+[b]Wizard[/b] | {4}{W}{W}: Create two tapped 1/1 colorless Hero creature tokens. Activate only as a sorcery.
+
+Memories of Home
+
+Rathefrost Thunder
+
+Wondrous Tales
+
+Push the Crystal
+
+Purging Brilliance
+
+Retrospection
+
+Benevolent Moglin
+rules_text: During each of your turns, you may cast a permanent spell from your graveyard while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => {W}: Exile target card in a graveyard.
+During each of your turns while your enmity is twelve or greater, you may cast a permanent card you own that was exiled with this creature. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Minfilia, Scion Antecedent
+rules_text: Each Hero you control enters with an additional shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Flow — {6}{W}: Each creature you control with a counter on it gets +4/+4 and gains vigilance until end of turn. [i](Each creature you tap while activating this pays for {1}.)[/i] => At the beginning of your end step, you may untap this creature.
+Flow — {5}{W}: Until end of turn, target creature becomes a Hero in addition to its other types. Put a +1/+1 counter on each Hero creature you control. [i](Each creature you tap while activating this pays for {1}.)[/i]
+
+Gysahl Glutton
+
+Free Trial
+
+For the Homeland
+rules_text: Exile target creature or planeswalker. Its controller may amass X, where X is that permanent's mana value. [i](To amass X, where X, create X +1/+1 counters on an Army you control. It's also a X, where. If you don't control an Army, create a 0/0 black X, where Army creature token first.)[/i] => Exile target creature or planeswalker. Its controller may amass X, where X is that permanent's mana value. [i](To amass X, where X, put X +1/+1 counters on an Army you control. It's also a X, where. If you don't control an Army, create a 0/0 black X, where Army creature token first.)[/i]
+
+Group Pose
+
+Triple Triad
+rules_text: When this side is cleared, create three colorless 1/1 colorless Hero creature tokens. You gain 3 life. => When this side is cleared, create three 1/1 colorless Hero creature tokens. Each player gains 3 life.
+
+Crystalline Array
+rules_text: You may spend mana as though it were mana of any type to activate nonmana abilities. => Creatures you control have “{3}, {T}: Remove two defense counters from target battle. Activate only as a sorcery.”
+
+Desert Racetrack
+rules_text: At the beginning of your end step, create a 2/2 green Bird creature token with “Whenever a land you control enters, this token gets +1/+0 until end of turn.” => At the beginning of your end step, untap all creatures you control. Then if four or more creatures are untapped this way, draw a card.
+
+Rhotano Scoundrel
+rules_text: Flash
+When this creature enters, you may remove a counter from target artifact, battle, creature, or planeswalker. If a counter is removed from a permanent you control this way, draw a card. => Flash
+When this creature enters, you may remove a counter from target battle, creature, or planeswalker. If a counter is removed from a permanent you control this way, draw a card.
+
+Spectral Morpho
+rules_text: This creature can't be blocked if you activated a nonmana ability this turn.
+{U}, Exile this card from your graveyard: Create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i] => This creature can't be blocked if you activated a nonmana ability this turn.
+{U}, Exile this card from your graveyard: Create an Aether token. Activate only as a sorcery. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+
+Wyrmwing Channeler
+rules_text: Whenever this creature becomes tapped, draw a card.
+Flow — {3}{W}: This creature gets +2/+2 and gains flying until end of turn. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i] => This creature has flying as long as you activated a nonmana ability this turn.
+Flow — {3}{W}: Another target creature you control gets +2/+2 and gains flying until end of turn. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i]
+
+Surecast Manipulator
+rules_text: Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Rogue[/b] | Whenever this creature attacks, tap target creature you don't control.
+[b]Wizard[/b] | Whenever this creature attacks, untap target creature you control. => Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Rogue[/b] | Whenever this creature attacks, look at the top two cards of your library. Put one into your hand and the other into your graveyard.
+[b]Wizard[/b] | {2}: Put target card in your graveyard on the bottom of your library.
+pt: 2/3 => 2/2
+
+Star Calling
+rules_text: When this Aether enters, create a 1/1 colorless Hero creature token. Surveil 4. [i](Look at the top four cards of your library, then put any number of them into your graveyard and the rest back on top in any order.)[/i]
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery. => When this Aether enters, create a 1/1 colorless Hero creature token. Surveil 4. [i](Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.
+
+Dragonsbane Dervish
+rules_text: Whenever this creature attacks, you may remove a counter from target artifact, battle, creature, or planeswalker you control. If you do, put a shield counter on this creature if it doesn't already have one. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever this creature attacks, you may remove a counter from a battle, creature, or planeswalker you control. If you do, untap this creature.
+
+Faetouched Vagabond
+rules_text: This creature is also a Cleric, Rogue, Warrior, and Wizard.
+Whenever this creature attacks, up to one target creature gets -1/-0 for each creature in your party until end of turn. => As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+Whenever this creature attacks, up to one target creature gets -1/-0 for each creature in your party until end of turn.
+
+Adamantoise
+
+Waterfall Sprites
+cost: {3}{U} => {U}
+rules_text: Defender
+Whenever a land you control enters, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i] => {1}: Add one mana of any color. Activate only once each turn.
+When this creature blocks, sacrifice it. If you do, draw a card and create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+
+Inconsistent Connection
+
+Indigo Whorl
+
+Gone Fishing
+
+Adloquium
+
+Looking for Help
+
+Trained Aesthetician
+rules_text: Whenever this creature attacks, you may remove a counter from target artifact, battle, creature, or planeswalker you control. If you do, this creature can't be blocked this turn.
+{1}: Target creature you control gets your choice of +1/-1 or -1/+1 until end of turn. => Whenever this creature attacks, you may remove a counter from a battle, creature, or planeswalker you control. If you do, this creature can't be blocked this turn.
+{1}: Target creature you control gets your choice of +1/-1 or -1/+1 until end of turn.
+
+Cerulean Adept
+rules_text: Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Rogue[/b] | The first artifact or enchantment spell you cast each turn costs {2} less to cast.
+[b]Wizard[/b] | The first instant or sorcery spell you cast each turn costs {2} less to cast. => Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Rogue[/b] | {2}: Target creature can't be blocked as long as it attacks a permanent this turn.
+[b]Wizard[/b] | Whenever you activate a nonmana ability, you may switch this creature's power and toughness until end of turn.
+pt: 2/2 => 1/4
+
+Ominous Shoebill
+rules_text: Whenever one or more creatures you control attack and aren't blocked, look at the top four cards of your library. Put them back in any order.
+{2}{U}: Target creature you control gains flying until end of turn. => Flying
+Whenever this creature attacks a permanent, mill three cards. Put a card milled this way into your hand. This creature gains that card's activated abilities until end of turn. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+
+Tideglider
+rules_text: Flying
+When you activate a nonmana ability, you may create an Aether token. Do this only once each turn. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i] => Whenever you activate a nonmana ability, up to one target creature gains flying until end of turn.
+Discard a card: Create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+pt: 2/3 => 3/1
+
+Crystalline Brigand
+rules_text: This creature is also a Cleric, Rogue, Warrior, and Wizard.
+When this creature enters, tap up to one target creature for each creature in your party. They don't untap on their controller's next untap step. => As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, tap up to one target creature for each creature in your party. They don't untap on their controller's next untap step.
+pt: 2/2 => 2/3
+
+Calamity Augur
+rules_text: This creature can block as though it were untapped.
+Flow — {3}{W}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i] => At the beginning of your end step, you may untap this creature.
+Flow — {4}{W}: Put a shield counter on another target creature you control. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}. If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+pt: 3/3 => 4/4
+
+Cancerous Threat
+type: Creature — Crab => Creature — Giant Crab
+
+Iridescent Fantasia
+
+Whirlwind Denial
+
+Recruit a Friend
+
+Records from Another World
+rules_text: When this Aether enters, draw a card.
+When this Aether dies, you may put it on top of your library.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery. => When this Aether enters, draw a card.
+When this Aether dies, you may shuffle it into your library.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.
+
+Ironworks Engineer
+rules_text: Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Rogue[/b] | Nonmana abilities you activate cost {2} less to activate. This can't reduce the mana in those costs to less than one mana.
+[b]Wizard[/b] | {9}: Draw three cards. => Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Rogue[/b] | Nonmana abilities you activate cost {2} less to activate. This can't reduce the mana in those costs to less than one mana.
+[b]Wizard[/b] | {9}: Draw three cards. You have no maximum hand size for the rest of the game.
+
+Matriarch of the Depths
+
+Merlwyb, Storm Admiral
+rules_text: When this creature enters, put a shield counter on target creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever an attacking creature you control deal combat damage to a permanent, draw a card. => When this creature enters, put a shield counter on target creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever an attacking creature you control deals damage to a noncreature permanent, draw a card.
+pt: 2/2 => 3/2
+
+Octomammoth
+type: Creature — Kraken => Creature — Octopus Kraken
+rules_text: Whenever this creature attacks, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i]
+{U}, Sacrifice an Aether token: Exile target creature. Return that creature to the battlefield under its owner's control at the beginning of the next end step. => At the beginning of your combat, tap this creature unless you activated a nonmana ability this turn. If it is tapped this way, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+{8}: Tap eight target permanents you don't control. Activate only as a sorcery.
+pt: 6/6 => 8/8
+
+Dream in Ice
+
+Whalaqee Gambit
+
+Nymian Remnants
+cost: {1}{U} => {U}
+rules_text: Whenever you activate a nonmana ability, you may pay {1}. If you do, draw a card. => {2}: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Sastasha Seagrot
+
+Relict Tower
+cost: {U} => {1}{U}
+rules_text: {2}: Create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i] => When this side is cleared, return target noncreature card from your graveyard to your hand.
+
+Syrcus Tower
+
+Corrupted Child
+rules_text: Flying
+This creature gets +1/+1 while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => Flying
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Awaiting Orders
+cost: {B} => {1}{B}
+rules_text: As an additional cost to cast this spell, remove a counter from an artifact, battle, creature, or planeswalker you control or pay {1}.
+Each opponent loses 2 life. Amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+Each opponent loses 2 life. Amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+
+Conscripted Fodder
+
+Doman Shadow
+rules_text: Flash
+Whenever this creature deals damage to a permanent, remove all counters from that permanent. => When this creature enters, you may remove a counter from target battle, creature, or planeswalker. If a counter is removed from a permanent you control this way, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Carteneau Mercenary
+rules_text: When this creature enters, you may remove a counter from target artifact, battle, creature, or planeswalker.
+Whenever one or more counters are removed from a permanent you control, you lose 1 life and draw a card. Do this only once each turn. => When this creature enters, you may remove a counter from target battle, creature, or planeswalker.
+Whenever a counter is removed from a permanent you control, you lose 1 life and draw a card. Do this only once each turn.
+
+Prowling Huntress
+
+Garlean Magitek
+
+Forsaken Soul
+rules_text: Flying
+When this creature enters, each opponent discards a card. Repeat this process once if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => This creature has flying as long as your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+When this creature enters, target player mills three cards. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+
+Tainted Experiments
+rules_text: Menace
+Creatures blocking this creature get -1/-1 while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => Menace
+{2}{B}, Exile this card from your graveyard. Create a token that's a copy of it. It enters tapped. Activate only if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Inevitable End
+
+Lost to the Lifestream
+
+Cost of Consciousness
+
+Gelmorran Rite
+
+Live in Darkness
+
+Silent Diremite
+type: Creature — Insect => Creature — Spider Scorpion
+rules_text: Deathtouch
+When this creature dies, each player discards a card. For each opponent that didn't discard a card this way, draw a card. => Deathtouch
+{T}: Destroy target token. Its controller mills three cards. [i](They put the top three cards of their library into their graveyard.)[/i]
+
+Bright Eye Familiar
+rules_text: This creature gets +1/+1 for each card in your graveyard and has menace while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => This creature enters tapped.
+Whenever this card is put into your graveyard from your library, put it into your hand. If your enmity is twelve or greater, you may instead put it onto the battlefield. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Eastern Decurio
+rules_text: When this creature enters, you may remove a counter from target artifact battle, creature, or planeswalker you control. If you do, amass 1. [i](Put a +1/+1 counter on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => Whenever a counter is removed from a permanent you control, amass 2. Do this only once each turn. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+{2}{B}, Exile this card from your graveyard: Remove all counters from target permanent. Activate only as a sorcery.
+pt: 2/1 => 3/1
+
+Life for Empire
+rules_text: Each player sacrifices a creature. Amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => Amass 2, then each player sacrifices a creature. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+
+Lost Hope Corsair
+cost: {2}{B} => {3}{B}
+rules_text: This creature can't block.
+Whenever this creature attacks a permanent, put a shield counter on this creature. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => When this creature enters, target player mills three cards. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+Whenever this creature attacks a permanent, put a shield counter on this creature. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+pt: 4/2 => 5/2
+
+Praefectus Executioner
+cost: {3}{B} => {4}{B}
+rules_text: Army creatures you control get +2/+2.
+When this creature enters, remove a counter from any number of artifacts, battles, creatures, and planeswalkers you control. For each counter removed this way, amass 1. [i](Put a +1/+1 counter on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+When this creature enters, amass 3. [i](Put three +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+pt: 3/4 => 3/3
+
+Decorated Adventurer
+rules_text: This creature is also a Cleric, Rogue, Warrior, and Wizard.
+When this creature enters, draw a card for each creature in your party. You lose that much life. => As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, draw a card for each creature in your party. You gain that much life.
+
+Futures Forfeit
+type: Instant => Sorcery
+cost: {2}{B} => {B}
+rules_text: Exile target battle, creature, or planeswalker. Until end of turn, you may play a battle card exiled this way, and mana of any type can be spent to cast it. => Exile target battle, creature, or planeswalker if its mana value is less than the greatest mana value among permanents you control.
+
+Hallucinogenic Halitosis
+type: Sorcery => Instant
+cost: {B} => {2}{B}
+rules_text: Remove all counters from target creature or planeswalker. For each different kind of counter removed this way, each opponent discards a card. => Choose one or both —
+• Target creature loses all abilities and can't gain abilities until end of turn.
+• Destroy target creature.
+
+Touch of the Black Rose
+
+At Any Cost
+rules_text: As an additional cost to cast this spell, you may remove a counter from any number of artifacts, battles, creatures, and planeswalkers you control. This spell costs {1} less for each counter removed this way.
+Return target creature card with mana value X or less from your graveyard to the battlefield. => As an additional cost to cast this spell, remove a counter from any number of battles, creatures, and planeswalkers you control. This spell costs {1} less for each counter removed this way.
+Return target creature card with mana value X or less from your graveyard to the battlefield.
+
+Megalomaniac
+rules_text: This creature is also a Cleric, Rogue, Warrior, and Wizard.
+When this creature enters, up to one target creature gets -1/-1 until end of turn for each creature in your party. => As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, target creature you don't control gets -1/-1 for each creature in your party until end of turn.
+
+Remastered Chopper
+rules_text: Whenever one or more counters are removed from permanents you control, you may return this Vehicle from your graveyard to the battlefield tapped.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, mill three cards. Put a card milled this way into your hand. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 4/1 => 4/3
+
+Armored Vigilante
+
+Gaius, Sable Legatus
+rules_text: If a nontoken creature an opponent controls would die, instead exile it. Amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+{2}{B}, Remove a counter from an artifact, battle, creature, or planeswalker you control: Target creature gets -2/-2 until end of turn. You may remove a counter from that creature. => If a creature an opponent controls would die, instead exile it. If it was a nontoken, amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+{1}{B}: Remove a counter from target battle, creature, or planeswalker. You gain 2 life. Activate only as a sorcery.
+
+Death Blossom
+rules_text: This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever one or more counters are removed from an artifact, battle, creature, or planeswalker you control, exile up to one target creature you don't control until this creature leaves the battlefield. Do this only once each turn. => This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever a counter is removed from a permanent you control, exile up to one target creature you don't control until this creature leaves the battlefield. Do this only once each turn.
+
+Stygian Visage
+rules_text: When you cast this spell while your enmity is twelve or greater, return all creatures from your graveyard to the battlefield tapped. [i](Enmity is the total mana value of your permanents.)[/i]
+Flying => {X}{B}{B}, Discard this card: This card deals X damage to target permanent. X can't be 0.
+You may cast this spell from your graveyard as long as your enmity is twelve or greater. If you do, pay life equal to its mana value rather than pay its mana cost. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Umbral Era
+rules_text: All creatures get -3/-3 until end of turn. Whenever a nontoken creature you control dies this turn, create a 1/1 colorless Hero creature token. => All creatures get -3/-3 until end of turn. Whenever a creature you control dies this turn, each opponent mills three cards. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+
+Pureheart Desperation
+
+Ruined Brattice
+
+Carteneau Flats
+
+Dun Scaith
+
+Miner Problems
+rules_text: When this creature enters, put a +1/+1 counter on it if you activated a nonmana ability this turn.
+{1}, Sacrifice this creature: Destroy target artifact. => When this creature enters, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+pt: 1/1 => 1/2
+
+Company Recruitment
+
+Coliseum Cyclone
+rules_text: Whenever a battle you control enters or is defeated, untap this creature.
+{T}: Add {C}. If your enmity is twelve or greater, instead add {C}{C}{C}. [i](Enmity is the total mana value of your permanents.)[/i] => {T}: Add {C}.
+Whenever a battle you control is defeated, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+pt: 1/2 => 2/1
+
+Relay Runners
+
+Unstable Nucleus
+rules_text: Reach
+When this creature enters or dies, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i] => Whenever this creature attacks, if you activated a nonmana ability this turn, target creature can't block this turn.
+{R}, Exile this card from your graveyard: Create an Aether token. Activate only as a sorcery. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+
+Maverick Officer
+rules_text: When this creature enters, it deals 3 damage to each opponent if one or more counters were removed from permanents you control this turn. => As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+This creature has first strike as long as it is your turn.
+
+Brotherhood of Ash
+rules_text: When this creature enters, target creature can't block this turn.
+Whenever you attack a permanent, you may discard a card. If you do, discard a card. => Reach
+Whenever you attack a permanent, you may discard a card. If you do, draw a card and untap this creature.
+
+To the Races
+
+Mhigan Sellswords
+
+Frenzied Marauder
+rules_text: Trample
+Other creatures you control have trample if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => This creature has trample as long as your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+When this creature enters, it deals damage equal to its power to up to one target noncreature permanent.
+
+Devastating Blow
+type: Instant => Sorcery
+cost: {4}{R} => {2}{R}
+rules_text: This spell deals 5 damage to target permanent. Create a number of Aether tokens equal to the amount of excess damage dealt this way. [i](Enchantments with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i] => This spell deals 4 damage to target permanent. Then if excess damage is dealt this way, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+
+Battle High
+
+Piercing Note
+type: Sorcery => Instant
+cost: {2}{R} => {R}
+rules_text: This spell costs {2} less to cast if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+This spell deals 4 damage to target permanent. => This spell deals 2 damage to any target. If your enmity is twelve or greater, instead this spell deals 3 damage to that target. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Coordinated Assault
+
+Strike Out
+rules_text: Discard two cards. Draw two cards. Add {C}{C}. You may spend this mana as though it were mana of any type. => Discard a card. Draw two cards. Create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Dravanian Hunter
+rules_text: This creature has double strike while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+{2}{R}: This creature gets +2/+0 and gains reach until end of turn. => This creature has double strike while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+Whenever a battle you control enters or is defeated, put a +1/+1 counter on this creature.
+
+Battleworn Skirmisher
+rules_text: Whenever a creature you control attacks alone, you may remove a counter from target artifact, battle, creature, or planeswalker you control. If you do, that creature gains double strike until end of turn. => Each creature you control may attack permanents as though the have haste.
+Whenever this creature or another creature you control enters, you may remove a counter from a battle, creature, or planeswalker you control. If you do, this creature gets +2/+0 until end of turn.
+
+War Panther
+rules_text: Menace
+When this creature enters, sacrifice an Aether. If you can't, return this creature to its owner's hand and create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i] => Menace
+When this creature enters, sacrifice an Aether. If you can't, return this creature to its owner's hand and create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+
+Dravanian Flamewing
+
+New Alliances
+
+Cavalry Drake
+rules_text: Creatures you control have haste while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+When this creature enters, you may destroy up to one target artifact. => This creature enters with an additional three +1/+1 counters on it if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+When this creature enters, destroy up to one target artifact or battle.
+
+Alliance Commander
+rules_text: You may spend mana as though it were mana of any type to cast battle spells.
+When this creature enters, search your library for a battle card, reveal it, and put it into your hand. Shuffle. => As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+{5}{R}: Amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+pt: 6/4 => 5/5
+
+Supernatural Temptation
+
+Chain Reactions
+rules_text: When this Aether enters, it deals 2 damage to each opponent.
+When this Aether dies, you may put it on top of your library.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery. => When this Aether enters, it deals 2 damage to each opponent.
+When this Aether dies, you may shuffle it into your library.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.
+
+Auspice of Rebirth
+rules_text: Whenever a Phoenix you control dies, create a 2/2 green Bird creature token with “Whenever a land you control enters, this token gets +1/+0 until end of turn.”
+{2}{R}: Target Bird becomes a Phoenix in addition to its other types until end of turn. => Whenever a Phoenix you control dies, create a 2/2 green Bird creature token with “Whenever a land you control enters, this token gets +1/+0 until end of turn.”
+{2}{R}: Target Bird you control becomes a Phoenix in addition to its other types until end of turn.
+
+Repurposed Cultivator
+
+Raubahn, Mhigan Champion
+rules_text: Each creature you control can attack permanents as though they had haste.
+This creature gets +X/+X while your enmity is twelve or greater, where X is the total mana value of permanents you control. [i](Enmity is the total mana value of your permanents.)[/i] => Each creature you control can attack permanents as though that creature has haste.
+Whenever you attack while your enmity is twelve or greater, you may choose target attacking creature. Until end of turn, that creature's base power is equal to your enmity until end of turn. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Imperial Allegiant
+rules_text: Whenever this creature enters, amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+{2}{R}, Remove a counter from an artifact, battle, creature, or planeswalker you control: Put two +1/+1 counters on this creature. Activate only as a sorcery. => This creature enters with a +1/+1 counter on it.
+When this creature enters, remove a counter from any number of battles, creatures, or planeswalkers you control. Amass X, where X is twice the number of counters removed this way. [i](Put X +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+pt: 1/1 => 1/2
+
+New World Tyrant
+rules_text: Flying, trample
+Whenever a battle you control is defeated, this creature deals damage equal to its power to each opponent. => Flying, double strike, trample
+Whenever a battle you control is defeated, put +1/+1 counter on this creature. It deals damage equal to its power to each opponent.
+pt: 5/5 => 3/5
+
+Flames of Rebellion
+rules_text: As an additional cost to cast this spell, remove a counter from any number of artifacts, battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+This spell deals X damage to any target. => As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+This spell deals X damage to any target.
+
+Beyond the Source
+rules_text: Whenever this Aether or another enchantment enters, you may have that enchantment become a copy of target creature you control until end of turn, except it isn't legendary and has haste.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery. => Whenever this Aether or another enchantment you control enters, you may have that enchantment become a copy of target creature you control until end of turn, except it isn't legendary and has haste.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.
+
+Alliance Raid
+
+Draconic Engine
+
+Ruby Avenue
+cost: {2}{R} => {3}{R}
+rules_text: You don't lose unspent {C} as steps and phases end.
+At the beginning of your precombat main phase, you may add {C}. => At the beginning of your upkeep, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Chocobo Nest
+
+Seedseer Devotee
+rules_text: When this creature enters, put a +1/+1 counter on target creature you control.
+Flow — {7}{W}: Put a +1/+1 counter on each creature you control. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i] => When this creature enters, put a +1/+1 counter on target creature you control.
+Flow — {1}{W}: Until end of turn, this creature can't be blocked by creatures with power 3 or greater. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i]
+
+Invested Novice
+
+Dodo of Paradise
+rules_text: When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest back on top in any order.)[/i]
+{T}: Add one mana of any color. => When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{T}: Add one mana of any color.
+
+Hearty Highlander
+
+Serene Sentinel
+
+Twelveswood Ascetic
+rules_text: When this creature enters, put a shield counter on target creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Flow — {2}{W}: This creature gets +1/+1 for each permanent you control with a counter on it. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i] => When this creature enters, create a 1/1 colorless Hero creature token.
+Flow — {7}{W}: Put a +1/+1 counter on each creature you control. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i]
+pt: 3/4 => 3/3
+
+Distant Traveler
+rules_text: This creature is also a Cleric, Rogue, Warrior, and Wizard.
+When this creature enters, put a +1/+1 counter on it for each creature in your party. => As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, put a +1/+1 counter on it for each creature in your party.
+
+Ehcatl Brightfeather
+rules_text: Reach
+When this creature enters, return a permanent card from your graveyard to your hand. Repeat this process once if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => When this creature enters, you gain 3 life. 
+{1}{G}: Return this card from your graveyard to your hand. Activate only if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+pt: 5/5 => 4/4
+
+Scion Gathering
+
+Expedition Hijinks
+
+Sudden Inspiration
+
+Return to Nature
+
+Unexpected Vistas
+
+Viridan Blessing
+
+Adventurous Chocobo
+rules_text: Whenever a land you control enters, this creature gets +1/+0 until end of turn.
+{2}{G}: Reveal the top three cards of your library. You may put a permanent card revealed this way into your hand. Put the on the bottom of your library in a random order. => Whenever a land you control enters, this creature gets +1/+0 until end of turn.
+{2}{G}: Reveal the top three cards of your library. Put any number of land cards revealed this way into your hand. Put the rest on top of your library in any order. Activate only as a sorcery.
+
+Qiqirn Junkmongers
+rules_text: Reach
+When this creature enters, put a land card from your hand or graveyard onto the battlefield tapped. => Reach
+When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+pt: 1/3 => 2/2
+
+Idyll Paragon
+rules_text: Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Cleric[/b] | This creature gets +0/+1 for each other creature you control.
+[b]Warrior[/b] | This creature deals combat damage equal to its toughness rather than its power. => Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Cleric[/b] | Whenever a creature you control attacks alone, that creature gets +1/+1 for each other creature you control until end of turn.
+[b]Warrior[/b] | This creature can't be blocked by more than one creature.
+pt: 1/2 => 2/3
+
+Orchard Keeper
+rules_text: Flow — {2}{W}: Return target permanent card in your graveyard to your hand if it was put there from the battlefield this turn. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i] => When this creature enters, draw a card.
+Flow — {2}{W}: Until end of turn, each creature assigns combat damage equal to its toughness rather than its power. [i](Each creature you tap while activating this pays for {1}.)[/i]
+pt: 3/2 => 1/4
+
+Sharlayan Specialist
+rules_text: This creature is also a Cleric, Rogue, Warrior, and Wizard.
+When this creature enters, create a 1/1 colorless Hero creature token for each creature in your party. => As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, create a 1/1 colorless Hero creature token for each creature in your party.
+
+Weathered Veteran
+rules_text: Prevent all combat damage that would be done to this creature if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => You may cast this spell without paying its mana cost if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+Trample
+When this creature enters, target creature gets +2/+2 until end of turn.
+
+Spriggan Hoarder
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+When this creature enters, exile target artifact or enchantment you don't control until this creature leaves the battlefield. You may cast that card as long as it remains exiled, and mana of any type can be spent to cast that spell. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+When this creature enters, gain control of target artifact or enchantment until this creature leaves the battlefield. That permanent loses all abilities and is a colorless Golem artifact creature with base power and toughness 3/3 until this creature leaves the battlefield.
+pt: 2/3 => 2/1
+
+Bramble Enforcer
+rules_text: Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Cleric[/b] | This creature gets +1/+1 for each permanent you control with a counter on it.
+[b]Warrior[/b] | This creature gets +1/+1 for each permanent you control with a counter on it. => Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Cleric[/b] | This first permanent spell you cast each turn costs {2} less to cast.
+[b]Warrior[/b] | This creature gets +X/+X, where X is the greatest mana value among other permanents you control.
+
+Steppe Mistress
+rules_text: When you cast this spell while your enmity is twelve or greater, search your library for a permanent card, reveal it, and put it into your hand. Shuffle. [i](Enmity is the total mana value of your permanents.)[/i]
+The first creature spell you cast on each of your turns costs {2} less to cast. => This creature enters with X +1/+1 counters on it, where X is the greatest mana value among permanents you control and permanent cards in your graveyard.
+Vigilance, reach, trample
+pt: 4/6 => 2/2
+
+Choose Your Weapon
+
+Come Together
+
+Stillglade Bloom
+
+Sanctuary Courier
+
+Sylvan Warden
+
+Senna, Seedseer Matron
+rules_text: Whenever a land you control enters, you may pay {1}. If you do, create a 1/1 colorless Hero creature token.
+Flow — {1}{G}: You may play an additional land this turn. [i](Each creature you tap while activating this pays for {1}.)[/i] => Whenever a Town or basic land you control enters, create a tapped 1/1 colorless Hero creature token.
+Flow — {4}{G}: Search your library for a land card, reveal it, and put it into your hand. Shuffle. [i](Each creature you tap while activating this pays for {1}.)[/i]
+
+Limber Forerunner
+rules_text: This creature is also a Cleric, Rogue, Warrior, and Wizard.
+When this creature enters, creatures you control get +1/+1 for each creature in your party and gain haste until end of turn. => As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, untap each creature you control. They get +1/+1 for each creature in your party and gain haste until end of turn.
+
+Overgrown Morbol
+cost: {5}{G}{G} => {6}{G}{G}
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Other creatures lose all abilities and can't gain abilities.
+Cards in graveyards lose all abilities and can't gain abilities. => Ward {4} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}.)[/i]
+Other creatures lose all abilities and can't have or gain abilities.
+Cards in graveyards lose all abilities and can't have or gain abilities.
+pt: 8/8 => 10/10
+
+Quieting Winds
+
+Sanctuary Menagerie
+
+Fallgourd Float
+
+Sylvan Thicket
+cost: {2}{G} => {1}{G}
+rules_text: When this side is cleared, return target card in your graveyard to your hand. => When this side is cleared, draw a card.
+You may spend mana of any type to activate abilities.
+
+Jungle Longstop
+
+Seal Rock
+
+K'lyhia, Arcane Novice
+cost: {W}{U} => {1}{W}{U}
+rules_text: Untap this creature during each opponent's untap step.
+Flow — {2}{W}{U}: Copy the next nonmana ability you activate this turn. You may choose new targets for the copy. [i](Each creature you tap while activating this pays for {1}.)[/i] => Other Wizards you control get +1/+1.
+Whenever you activate a flow ability, draw a card. Do this only once each turn.
+Flow — {3}{W}{U}: You gain life equal to the number of cards in your hand. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i]
+pt: 1/4 => 2/3
+
+Novv, Clutch Father
+cost: {1}{U}{B} => {2}{U}{B}
+rules_text: Whenever this creature deals combat damage to a permanent, each opponent exiles a card from their hand.
+You may play cards exiled by this creature, and you may spend mana as though it were mana of any type to cast spells this way. => Other Rogues you control get +1/+1.
+Whenever this creature attacks, you may remove a counter from target battle, creature, or planeswalker.
+Whenever one or more counter are removed from a permanent you control, each opponent discards a card.
+pt: 3/2 => 4/2
+
+Livia, Scorned Tribunus
+cost: {2}{B}{R} => {1}{B}{R}
+rules_text: When this creature enters, amass 3. [i](Put three +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+{3}, Remove a counter from a permanent you control: This creature gets +3/+3 until end of turn. Activate only as a sorcery. => Menace
+This creature can't be blocked while an attacking Army isn't blocked.
+Whenever this creature attacks, amass 1. [i](Put a +1/+1 counter on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+
+Hoary, Tested Mettle
+cost: {3}{R}{G} => {2}{R}{G}
+rules_text: When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+Creatures you control have haste while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => Other Warriors you control get +1/+1.
+Whenever this creature becomes tapped, exile the top card of your library.
+You may play cards exiled with this creature while your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+pt: 5/5 => 3/4
+
+Coultenet, Tested Mercy
+cost: {2}{G}{W} => {G}{W}
+rules_text: Token creatures you control may attack as though they were untapped.
+Flow — {X}{G}{W}: Create a tapped 1/1 colorless Hero creature token. It enters with X +1/+1 counters on it. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i] => Other Clerics you control get +1/+1.
+At the beginning of your end step, untap target creature you control.
+Flow — {3}{G}{W}: Create a 1/1 colorless Hero creature token. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i]
+pt: 4/4 => 1/4
+
+Hildibrand, Extraordinaire
+rules_text: Whenever one or more cards leave your graveyard, you may create a 1/1 colorless Hero creature token. Do this only once each turn unless your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i]
+{W}{B}: Put target card in a graveyard on the bottom of its owner's library. => Whenever one or more permanent cards are put into your graveyard from anywhere, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+As long as your enmity is twelve or greater, each permanent you control has “{2}, Sacrifice this permanent: Draw a card.” [i](Enmity is the total mana value of your permanents.)[/i]
+pt: 2/4 => 3/3
+
+G'raha, Allagan Heir
+rules_text: Whenever this creature attacks, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i]
+{X}: Until end of turn, target artifact or enchantment you control loses its types and becomes a Hero creature with base power and toughness X/X. X can't be 0. => Whenever you attack, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{X}: Until end of your next turn, target artifact or enchantment you control becomes a Hero creature with base power and toughness X/X in addition to its other types. X can't be 0.
+
+Arenvald, Scion Recruit
+rules_text: This creature is also a Cleric, Rogue, Warrior, and Wizard.
+Whenever a battle you control enters, this creature deals 1 damage to that battle for each creature in your party. => This creature is also a Cleric, Rogue, Warrior, and Wizard.
+When this creature enters, each opponent loses 1 life for each creature in your party. You gain 1 life for each creature in your party.
+
+Sezul, Forsaken Pioneer
+cost: {2}{R}{W} => {3}{R}{W}
+pt: 3/3 => 5/3
+
+Yoshida, Wandering Minstrel
+
+Urianger, Divine Chronicler
+cost: {1}{W}{U} => {5}{W}{U}
+rules_text: Heroes you control are also Wizards.
+Whenever you cast a noncreature spell, untap up to two target Wizards.
+Flow — {3}: Add two mana in any combination of colors. This mana can't be spent to cast creature spells. [i](Each creature you tap while activating this pays for {1}.)[/i] => This spell costs {1} less to cast for each Wizard and/or Hero you control.
+Spells and nonmana abilities can't be countered during their controller's turn.
+Flow — {7}: Exile target instant or sorcery card from your graveyard. Cast a copy of it without paying its mana cost. [i](Each creature you tap while activating this pays for {1}.)[/i]
+pt: 2/3 => 4/7
+
+Thancred, Dreaming Blade
+cost: {U}{B} => {3}{U}{B}
+rules_text: Heroes you control are also Rogues.
+This creature gets +1/+0 for each other attacking Rogue you control.
+Whenever you cast a noncreature spell, prevent all combat damage that would be dealt to this creature this turn. This ability trigger only once each turn. => This spell costs {1} less to cast for each Rogue and/or Hero you control.
+Whenever you attack, remove a counter from any target. If a counter is removed from a permanent you control this way, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Discard a card: Untap target creature.
+pt: 3/1 => 5/5
+
+Nero, Scaevan Hammer
+
+Yda, Masked Pugilist
+rules_text: Heroes you control are also Warriors.
+Damage can't be prevented.
+{R}{G}: Target Warrior you control must be blocked this turn if able. Activate only if your enmity is twelve or greater. [i](Enmity is the total mana value of your permanents.)[/i] => This spell costs {1} less to cast for each Warrior and/or Hero you control.
+Double strike
+If a source you control would deal less than 4 damage to a player or permanent while your enmity is twelve or greater, it deals 4 damage to that player or permanent instead. [i](Enmity is the total mana value of your permanents.)[/i]
+pt: 4/5 => 2/4
+
+Y'shtola, Lifestream Healer
+cost: {1}{G}{W} => {4}{G}{W}
+rules_text: Heroes you control are also Clerics.
+Whenever you gain life, put a +1/+1 counter on target Cleric you control.
+Flow — {3}: This creature gains lifelink until end of turn. Activate only as a sorcery. [i](Each creature you tap while activating this pays for {1}.)[/i] => This spell costs {1} less to cast for each Cleric and/or Hero you control.
+Whenever you activate a nonmana ability, you may create a tapped 1/1 colorless Hero creature token. Do this only once each turn.
+Flow — {X}: You gain X life. X can't be 0. Activate only once. [i](Each creature you tap while activating this pays for {1}.)[/i]
+pt: 1/4 => 4/4
+
+Heiress of Haukke
+rules_text: Flying
+At the beginning of your upkeep, you may reveal the top card of your library if your enmity is twelve or greater. If you do, you gain life equal to that card's mana value and put it into your hand. [i](Enmity is the total mana value of your permanents.)[/i] => Flash
+Flying
+At the beginning of your upkeep, you may reveal the top card of your library if your enmity is twelve or greater. If you do, you gain life equal to that card's mana value and put it into your hand. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Dreadwyrm Essence
+
+Flight of the Dezul Qualan
+
+Savage Raider
+
+Wind-Up Flock
+rules_text: Flow — {4}: Surveil 2. [i](Each creature you tap while activating this pays for {1}. To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest back on top in any order.)[/i] => Flow — {4}: Surveil 2. [i](Each creature you tap while activating this pays for {1}. To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Basalt Amalgam
+rules_text: This spell costs {2} less to cast if you activated a nonmana ability this turn.
+When this creature enters, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i]
+{T}: Add {C}{C}{C}. => This spell costs {2} less to cast if you activated a nonmana ability this turn.
+When this creature enters, create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+{T}: Add {C}{C}{C}.
+
+Company Airship
+cost: {3} => {2}
+rules_text: Flying
+{T}: Add one mana of any color.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+When this Vehicle enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Tonberry Knife
+
+Crossroads Caravan
+
+Meteor Golem
+
+Icarus Engine
+
+Soul Crystals
+
+Nullstone Refraction
+rules_text: If a player would create a token, they instead create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.”)[/i]
+Sacrifice an Aether: Draw a card. Activate only once each turn. => If a player would create a token, they instead create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+Sacrifice an Aether: Draw a card. Activate only once each turn.
+
+Lunar Facsimile
+rules_text: Heroes can't block.
+If your life total would change any amount, instead amass that amount. [i](Put that many +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => Ward—Sacrifice a creature [i](Whenever this becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a creature.)[/i]
+If your life total would change any amount, instead amass that amount. [i](Put that many +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+
+Tupsimati
+
+Hall of the Novice
+type: Land => Land — Town
+rules_text: Whenever you cast a creature spell with discipline, you may pay {1}. If you do, that creature enters with an additional +1/+1 counter on it.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. => {T}: Add {C}.
+Flow — {1}, {T}: Add one mana of any color. [i](Each creature you tap while activating this pays for {1}.)[/i]
+
+Coldlight Influence
+type: Sorcery => Instant
+cost: {W}{U} => {1}{W}{U}
+rules_text: Your opponents can't cast spells or activate nonmana abilities this turn.
+Untap all creatures you control. Put a +1/+1 counter on them. => This spell can't be countered.
+Counter target spell. Untap any number of permanents you control equal to that spell's mana value.
+
+Techne Makre
+
+Unholy Matrimony
+
+Fate Reprisal
+rules_text: Until end of turn, whenever a nonmana ability you control is activated or triggered, copy that ability. You may choose new targets for the copy. => Untap all nonland permanents you control. Until end of turn, whenever a nonmana ability you control is activated or triggered, copy that ability. You may choose new targets for the copy.
+
+Calamity Veteran
+rules_text: This spell costs {1} less to cast for each creature in your party.
+This creature is also a Cleric, Rogue, Warrior, and Wizard.
+When this creature enters, target permanent loses all abilities until end of turn. Destroy that permanent. => This spell costs {1} less to cast for each creature in your party.
+This creature is also a Cleric, Rogue, Warrior, and Wizard.
+When this creature enters, destroy target permanent.
+
+Gilded Envoy
+
+Magician's Strategy
+cost: {1}{W}{U} => {W}{U}
+rules_text: Choose one. If you control a Wizard, you may choose both instead.
+• Target player draws three cards. They put a card from their hand on top of their library.
+• Tap up to two target nonland permanents. They don't untap during their controller's next untap step. => Choose one. If you control a Wizard, you may choose both instead.
+• Copy the next nonmana ability you activate this turn. You may choose new targets for the copy.
+• Untap all creatures you control. They gain vigilance until end of turn.
+
+Acrobat's Strategy
+cost: {2}{U}{B} => {1}{U}{B}
+rules_text: Choose one. If you control a Rogue, you may choose both instead.
+• Target creature gets -4/-4 until end of turn. If that creature dies this turn, you gain 4 life.
+• Untap up to two target creatures. They get +1/+1 until end of turn. They can't be blocked this turn. => Choose one. If you control a Rogue, you may choose both instead.
+• Whenever a creature attacks alone this turn, put a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+• Draw three cards, discard a card.
+
+Iron Claw
+
+Fighter's Strategy
+rules_text: Choose one. If you control a Warrior, you may choose both instead.
+• Destroy target noncreature permanent.
+• Target player may put a creature card from their hand onto the battlefield. It gains haste until end of turn. Return that creature to its owner's hand at the beginning of the next end step. => Choose one. If you control a Warrior, you may choose both instead.
+• This spell deals 4 damage to each opponent and each battle you control.
+• Until end of turn, each creature you control can't be blocked by creatures with less power than it.
+
+Healer's Strategy
+rules_text: Choose one. If you control a Cleric, you may choose both instead.
+• Target player gains 1 life for each permanent they control.
+• Put a shield counter on up to two target creatures. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => Choose one. If you control a Cleric, you may choose both instead.
+• Search your library for a card with an activated ability, reveal it, and put it into your hand. Shuffle.
+• For each creature you control, you gain 1 life and put a +1/+1 counter on it.
+
+Indecipherable Thoughts
+cost: {W}{B} => {2}{W}{B}
+rules_text: Whenever an opponent casts a spell or activates an ability that targets you or a permanent you control, each opponent loses 1 life and you gain 1 life.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery. => When this Aether enters, mill two cards. Put a card milled this way into your hand. Each opponent loses X life and you gain X life, where X is the total mana value of the other cards milled this way.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.
+
+Labyrinthan Secrets
+
+Appointed Strength
+rules_text: Whenever one or more counters are put on a permanent you control, put a +1/+1 counter on up to one target creature you control. Do this only once each turn.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery. => Whenever one or more counters are put on a permanent you control, you may put a +1/+1 counter on target creature you control. Do this only once each turn.
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.
+
+Feeding Frenzy
+
+Mixed Existence
+
+A Hero of Light
+rules_text: Heroes you control can be in your party. [i](They replace a Cleric, Rogue, Warrior, or Wizard.)[/i]
+[+1]: Until end of turn, this planeswalker becomes a 5/5 white Hero creature with indestructible.
+[0]: Create a 1/1 colorless Hero creature token.
+[-2]: Reveal the top four cards of your library. Put all creature and planeswalker cards revealed this way into your hand and the rest on the bottom of your library in a random order. => Heroes you control can be in your party. They replace a Cleric, Rogue, Warrior, or Wizard.
+[+1]: Until end of turn, this planeswalker becomes a 5/5 white Hero creature with indestructible.
+[0]: Create a 1/1 colorless Hero creature token.
+[-2]: Reveal the top four cards of your library. Put all creature and planeswalker cards revealed this way into your hand and the rest on the bottom of your library in a random order.
+special_text: Heroes you control can be in your party. [i](They replace a Cleric, Rogue, Warrior, or Wizard.)[/i]
+[+1]: Until end of turn, this planeswalker becomes a 5/5 white Hero creature with indestructible.
+[0]: Create a 1/1 colorless Hero creature token.
+[-2]: Reveal the top four cards of your library. Put all creature and planeswalker cards revealed this way into your hand and the rest on the bottom of your library in a random order. => Heroes you control can be in your party. They replace a Cleric, Rogue, Warrior, or Wizard.
+[+1]: Until end of turn, this planeswalker becomes a 5/5 white Hero creature with indestructible.
+[0]: Create a 1/1 colorless Hero creature token.
+[-2]: Reveal the top four cards of your library. Put all creature and planeswalker cards revealed this way into your hand and the rest on the bottom of your library in a random order.
+
+Marilye, Veiled Deceiver
+rules_text: When Marilye enters, if you cast her, create a token that's a copy of target permanent.
+[0]: Whenever a creature attacks and isn't blocked this turn, draw a card and put a loyalty counters on each planeswalker you control.
+[-4]: Exchange control of two target nonland permanents with different controllers.
+[-6]: You get an emblem with “Whenever you activate a nonmana ability, copy that ability. You may choose new targets for the copy.” => When Marilye enters, if you cast her, create a token that's a copy of another target permanent.
+[0]: Whenever a creature attacks and isn't blocked this turn, draw a card and put a loyalty counters on each planeswalker you control.
+[-4]: Exchange control of two target nonland permanents with different controllers.
+[-6]: You get an emblem with “Whenever you activate a nonmana ability, copy that ability. You may choose new targets for the copy.”
+special_text: When Marilye enters, if you cast her, create a token that's a copy of target permanent.
+[0]: Whenever a creature attacks and isn't blocked this turn, draw a card and put a loyalty counters on each planeswalker you control.
+[-4]: Exchange control of two target nonland permanents with different controllers.
+[-6]: You get an emblem with “Whenever you activate a nonmana ability, copy that ability. You may choose new targets for the copy.” => When Marilye enters, if you cast her, create a token that's a copy of another target permanent.
+[0]: Whenever a creature attacks and isn't blocked this turn, draw a card and put a loyalty counters on each planeswalker you control.
+[-4]: Exchange control of two target nonland permanents with different controllers.
+[-6]: You get an emblem with “Whenever you activate a nonmana ability, copy that ability. You may choose new targets for the copy.”
+
+Cid Garlond
+
+Army
+
+Bird
+
+Hero
+
+Aether
+
+Copy
+
+Marilye, Veiled Deceiver
+
+Ascian Lahabrea
+
+Ajani, in a Strange Land
+
+Ajani, in a Strange Land
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Coldlight Influence added.
