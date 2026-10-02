@@ -5,7 +5,7 @@
 			<name>EOR</name>
 			<longname>Defenders of Eorzea</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-22</releasedate>
+			<releasedate>2026-10-01</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -310,7 +310,7 @@ Whenever one or more Birds you control attacks, tap up to one target creature.</
 		<card>
 			<name>Arcane Companion</name>
 			<text>When this creature enters, put a shield counter on target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-Activated abilities of permanents you control are flow abilities. (Each creature you tap while activating them pays for {1}.)</text>
+Activated abilities of nonland permanents you control are flow abilities. (Each creature you tap while activating them pays for {1}.)</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/17.jpg" num="3">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -485,7 +485,7 @@ Return target permanent card from your graveyard to your hand.</text>
 		</card>
 		<card>
 			<name>Benevolent Moglin</name>
-			<text>{W}: Exile target card in a graveyard.
+			<text>{W}: Exile target card from a graveyard.
 During each of your turns while your enmity is twelve or greater, you may cast a permanent card you own that was exiled with this creature. (Enmity is the total mana value of your permanents.)</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/27.jpg" num="6">EOR</set>
 			<prop>
@@ -695,7 +695,7 @@ When this side is cleared, exile another target artifact, battle, or enchantment
 		<card>
 			<name>Rhotano Scoundrel</name>
 			<text>Flash
-When this creature enters, you may remove a counter from target battle, creature, or planeswalker. If a counter is removed from a permanent you control this way, draw a card.</text>
+When this creature enters, you may remove a counter from target permanent. If a counter is removed from a permanent you control this way, draw a card.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/38.jpg" num="65">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -767,7 +767,7 @@ Flow — {3}{W}: Another target creature you control gets +2/+2 and gains flying
 			<name>Surecast Manipulator</name>
 			<text>Discipline (This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)
 [b]Rogue[/b] | Whenever this creature attacks, look at the top two cards of your library. Put one into your hand and the other into your graveyard.
-[b]Wizard[/b] | {2}: Put target card in your graveyard on the bottom of your library.</text>
+[b]Wizard[/b] | {2}: Put target card from your graveyard on the bottom of your library.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/42.jpg" num="68">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -784,7 +784,7 @@ Flow — {3}{W}: Another target creature you control gets +2/+2 and gains flying
 		</card>
 		<card>
 			<name>Star Calling</name>
-			<text>When this Aether enters, create a 1/1 colorless Hero creature token. Surveil 4. (Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+			<text>When this Aether enters, create a 1/1 colorless Hero creature token. Surveil 4. (Look at the top four cards of your library, then put any number of them into your graveyard and the rest back on top in any order.)
 Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/43.jpg" num="67">EOR</set>
 			<prop>
@@ -802,7 +802,7 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 		<card>
 			<name>Dragonsbane Dervish</name>
 			<text>This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-Whenever this creature attacks, you may remove a counter from a battle, creature, or planeswalker you control. If you do, untap this creature.</text>
+Whenever this creature attacks, you may remove a counter from target permanent you control. If you do, untap this creature.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/44.jpg" num="49">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -819,7 +819,7 @@ Whenever this creature attacks, you may remove a counter from a battle, creature
 		</card>
 		<card>
 			<name>Faetouched Vagabond</name>
-			<text>As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+			<text>As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
 This creature is also the chosen type.
 Whenever this creature attacks, up to one target creature gets -1/-0 for each creature in your party until end of turn.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/45.jpg" num="51">EOR</set>
@@ -857,7 +857,7 @@ Flow — {2}{U}, Discard this card: Draw a card. (Each creature you tap while ac
 		<card>
 			<name>Waterfall Sprites</name>
 			<text>{1}: Add one mana of any color. Activate only once each turn.
-When this creature blocks, sacrifice it. If you do, draw a card and create an Aether token. (An enchantment with &quot;Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.&quot;)</text>
+When this creature blocks, you may sacrifice it. If you do, draw a card and create an Aether token. (An enchantment with &quot;Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/47.jpg" num="72">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -892,7 +892,7 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 		</card>
 		<card>
 			<name>Indigo Whorl</name>
-			<text>This spell costs {1} less for each creature that is attacking you or a permanent your are defending.
+			<text>This spell costs {1} less for each creature that is attacking you or a permanent you are defending.
 Creatures get -6/-0 until end of turn.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/49.jpg" num="54">EOR</set>
 			<prop>
@@ -958,7 +958,7 @@ Draw three cards.</text>
 		</card>
 		<card>
 			<name>Trained Aesthetician</name>
-			<text>Whenever this creature attacks, you may remove a counter from a battle, creature, or planeswalker you control. If you do, this creature can&apos;t be blocked this turn.
+			<text>Whenever this creature attacks, you may remove a counter from a target permanent you control. If you do, this creature can&apos;t be blocked this turn.
 {1}: Target creature you control gets your choice of +1/-1 or -1/+1 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/53.jpg" num="71">EOR</set>
 			<prop>
@@ -1031,7 +1031,7 @@ Discard a card: Create an Aether token. (An enchantment with &quot;Sacrifice two
 		</card>
 		<card>
 			<name>Crystalline Brigand</name>
-			<text>As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+			<text>As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
 This creature is also the chosen type.
 When this creature enters, tap up to one target creature for each creature in your party. They don&apos;t untap on their controller&apos;s next untap step.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/57.jpg" num="48">EOR</set>
@@ -1228,7 +1228,7 @@ Whenever an attacking creature you control deals damage to a noncreature permane
 			<name>Titan, Bottomless Crags</name>
 			<text>As long as there isn&apos;t a counter on this God, it isn&apos;t legendary and can&apos;t attack or block.
 When this God enters and whenever you attack with one or more Gods, each opponent turns a face up nontoken creature they control face down. They are artifacts with &quot;{4}, {T}: Turn this artifact face up.&quot;
-{U}{U}{U}: Put an indestructible counter on this God. Activate only as a sorcery.</text>
+{4}{U}{U}: Put an indestructible counter on this God. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/68.jpg" num="70">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -1239,7 +1239,7 @@ When this God enters and whenever you attack with one or more Gods, each opponen
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>6/6</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1263,15 +1263,15 @@ When this God enters and whenever you attack with one or more Gods, each opponen
 		</card>
 		<card>
 			<name>Dream in Ice</name>
-			<text>Each player chooses a party from among creatures they control, then returns the rest to their owner&apos;s hands. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
+			<text>Each player chooses a party from among creatures they control. Tap those creature. They don&apos;t untap during their controller&apos;s next untap step. Return the rest to their owner&apos;s hands. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/70.jpg" num="50">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -1318,13 +1318,13 @@ Whenever you activate a nonmana ability, you may pay {2}. If you do, draw a card
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Sastasha Seagrot // Flooded Cove</name>
+			<name>Sastasha Seagrot // Hidden Grotto</name>
 			<text>Whenever a creature you control attacks and isn&apos;t blocked, put a +1/+1 counter on that creature.
 [b](As this enters, clear the half you cast and choose an opponent to protect this. Defeat it to clear uncleared halves and have it stop being a battle.)[/b]
 
 ---
 
-When this side is cleared, exile up to two target creatures, then return them to the battlefield under their owner&apos;s control tapped.
+When this side is cleared, you may put a +1/+1 counter on target creature. That creature can&apos;t be blocked for as long as you control this Path.
 [b](As this enters, clear the half you cast and choose an opponent to protect this. Defeat it to clear uncleared halves and have it stop being a battle.)[/b]</text>
 			<set rarity="mythic" picurl="https://drakexiv.github.io/sets/EOR-files/img/73.jpg" num="78">EOR</set>
 			<prop>
@@ -1403,7 +1403,7 @@ When this creature dies, create a Treasure token. (It&apos;s an artifact with &q
 		</card>
 		<card>
 			<name>Awaiting Orders</name>
-			<text>As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+			<text>As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
 Each opponent loses 2 life. Amass 2. (Put two +1/+1 counters on an Army you control. If you don&apos;t have one, create a 0/0 black Army creature token first.)</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/77.jpg" num="82">EOR</set>
 			<prop>
@@ -1420,7 +1420,7 @@ Each opponent loses 2 life. Amass 2. (Put two +1/+1 counters on an Army you cont
 		</card>
 		<card>
 			<name>Traveled Tricksters</name>
-			<text>As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+			<text>As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
 This creature is also the chosen type.
 When this creature enters, target player mills two cards for each creature in your party. (To mill, put that many cards from the top of your library into your graveyard.)</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/78.jpg" num="112">EOR</set>
@@ -1457,7 +1457,7 @@ Whenever one or more counters are removed from this creature, put a +1/+1 counte
 		</card>
 		<card>
 			<name>Doman Shadow</name>
-			<text>When this creature enters, you may remove a counter from target battle, creature, or planeswalker. If a counter is removed from a permanent you control this way, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<text>When this creature enters, you may remove a counter from target permanent. If a counter is removed from a permanent you control this way, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/80.jpg" num="90">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -1474,7 +1474,7 @@ Whenever one or more counters are removed from this creature, put a +1/+1 counte
 		</card>
 		<card>
 			<name>Carteneau Mercenary</name>
-			<text>When this creature enters, you may remove a counter from target battle, creature, or planeswalker.
+			<text>When this creature enters, you may remove a counter from target permanent.
 Whenever a counter is removed from a permanent you control, you lose 1 life and draw a card. Do this only once each turn.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/81.jpg" num="84">EOR</set>
 			<prop>
@@ -1718,7 +1718,8 @@ Whenever this card is put into your graveyard from your library, put it into you
 		</card>
 		<card>
 			<name>Lost Hope Corsair</name>
-			<text>When this creature enters, target player mills three cards. (To mill, put that many cards from the top of your library into your graveyard.)
+			<text>When this creature enters, you mill three cards. (To mill, put that many cards from the top of your library into your graveyard.)
+Players can&apos;t gain life.
 Whenever this creature attacks a permanent, put a shield counter on this creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/95.jpg" num="101">EOR</set>
 			<prop>
@@ -1736,7 +1737,7 @@ Whenever this creature attacks a permanent, put a shield counter on this creatur
 		</card>
 		<card>
 			<name>Praefectus Executioner</name>
-			<text>As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+			<text>As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
 When this creature enters, amass 3. (Put three +1/+1 counters on an Army you control. If you don&apos;t have one, create a 0/0 black Army creature token first.)</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/96.jpg" num="104">EOR</set>
 			<prop>
@@ -1754,7 +1755,7 @@ When this creature enters, amass 3. (Put three +1/+1 counters on an Army you con
 		</card>
 		<card>
 			<name>Decorated Adventurer</name>
-			<text>As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+			<text>As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
 This creature is also the chosen type.
 When this creature enters, draw a card for each creature in your party. You gain that much life.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/97.jpg" num="89">EOR</set>
@@ -1823,7 +1824,7 @@ When this creature enters, draw a card for each creature in your party. You gain
 		</card>
 		<card>
 			<name>At Any Cost</name>
-			<text>As an additional cost to cast this spell, remove a counter from any number of battles, creatures, and planeswalkers you control. This spell costs {1} less for each counter removed this way.
+			<text>As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
 Return target creature card with mana value X or less from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/101.jpg" num="81">EOR</set>
 			<prop>
@@ -1840,7 +1841,7 @@ Return target creature card with mana value X or less from your graveyard to the
 		</card>
 		<card>
 			<name>Megalomaniac</name>
-			<text>As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+			<text>As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
 This creature is also the chosen type.
 When this creature enters, target creature you don&apos;t control gets -1/-1 for each creature in your party until end of turn.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/102.jpg" num="103">EOR</set>
@@ -1860,7 +1861,7 @@ When this creature enters, target creature you don&apos;t control gets -1/-1 for
 		<card>
 			<name>Remastered Chopper</name>
 			<text>When this Vehicle enters, mill three cards. Put a card milled this way into your hand. (To mill, put that many cards from the top of your library into your graveyard.)
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 2 (Tap creatures you control with total power 2 or more: This becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/103.jpg" num="107">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -1896,8 +1897,8 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		</card>
 		<card>
 			<name>Gaius, Sable Legatus</name>
-			<text>If a creature an opponent controls would die, instead exile it. If it was a nontoken, amass 2. (Put two +1/+1 counters on an Army you control. If you don&apos;t have one, create a 0/0 black Army creature token first.)
-{1}{B}: Remove a counter from target battle, creature, or planeswalker. You gain 2 life. Activate only as a sorcery.</text>
+			<text>If a creature an opponent controls would die, instead exile it. If it wasn&apos;t a token, amass 2. (Put two +1/+1 counters on an Army you control. If you don&apos;t have one, create a 0/0 black Army creature token first.)
+{1}{B}: Remove a counter from target permanent you control. If you do, you gain 2 life. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/105.jpg" num="94">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -1984,13 +1985,13 @@ You may cast this spell from your graveyard as long as your enmity is twelve or 
 		</card>
 		<card>
 			<name>Pureheart Desperation</name>
-			<text>You lose 3 life and draw three cards. Then if your enmity is twelve or greater, each opponent loses 3 life and discards three cards. (Enmity is the total mana value of your permanents.)</text>
+			<text>You lose 3 life and draw three cards. Then if your enmity is twelve or greater, you may cast a spell from your hand without paying its mana cost. If you do, you lose life equal to that spell&apos;s mana value. (Enmity is the total mana value of your permanents.)</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/110.jpg" num="106">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
@@ -2107,7 +2108,7 @@ When this side is cleared, search your library for a card and put it into your h
 			<name>Company Recruitment</name>
 			<text>When this Aether enters, amass 1. (Put a +1/+1 counter on an Army you control. If you don&apos;t have one, create a 0/0 black Army creature token first.)
 Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/116.jpg" num="128">EOR</set>
+			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/116.jpg" num="129">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2124,7 +2125,7 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 			<name>Coliseum Cyclone</name>
 			<text>{T}: Add {C}.
 Whenever a battle you control is defeated, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/117.jpg" num="127">EOR</set>
+			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/117.jpg" num="128">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2176,7 +2177,7 @@ Whenever a battle you control is defeated, create a Treasure token. (It&apos;s a
 		</card>
 		<card>
 			<name>Maverick Officer</name>
-			<text>As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+			<text>As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
 This creature has first strike as long as it is your turn.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/120.jpg" num="139">EOR</set>
 			<prop>
@@ -2196,7 +2197,7 @@ This creature has first strike as long as it is your turn.</text>
 			<name>Brotherhood of Ash</name>
 			<text>Reach
 Whenever you attack a permanent, you may discard a card. If you do, draw a card and untap this creature.</text>
-			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/121.jpg" num="124">EOR</set>
+			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/121.jpg" num="125">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2284,7 +2285,7 @@ When this creature enters, it deals damage equal to its power to up to one targe
 			<text>Flash
 When this Aether enters, up to one target creature gets +2/+0 and gains first strike until end of turn.
 Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/126.jpg" num="121">EOR</set>
+			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/126.jpg" num="122">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2314,10 +2315,10 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Coordinated Assault</name>
+			<name>All Out Assault</name>
 			<text>Creatures you control get +2/+0 until end of turn.
 Flow — {2}{R}, Discard this card: Draw a card. (Each creature you tap while activating this pays for {1}.)</text>
-			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/128.jpg" num="129">EOR</set>
+			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/128.jpg" num="119">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2366,9 +2367,9 @@ Whenever a battle you control enters or is defeated, put a +1/+1 counter on this
 		</card>
 		<card>
 			<name>Battleworn Skirmisher</name>
-			<text>Each creature you control may attack permanents as though the have haste.
-Whenever this creature or another creature you control enters, you may remove a counter from a battle, creature, or planeswalker you control. If you do, this creature gets +2/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/131.jpg" num="122">EOR</set>
+			<text>Each creature you control may attack permanents as though they have haste.
+Whenever this creature or another creature you control enters, you may remove a counter from a permanent you control. If you do, this creature gets +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/131.jpg" num="123">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2439,7 +2440,7 @@ Exile the top two cards of your library. You may play them until the end of your
 			<name>Cavalry Drake</name>
 			<text>This creature enters with an additional three +1/+1 counters on it if your enmity is twelve or greater. (Enmity is the total mana value of your permanents.)
 When this creature enters, destroy up to one target artifact or battle.</text>
-			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/135.jpg" num="125">EOR</set>
+			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/135.jpg" num="126">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2455,9 +2456,9 @@ When this creature enters, destroy up to one target artifact or battle.</text>
 		</card>
 		<card>
 			<name>Alliance Commander</name>
-			<text>As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+			<text>As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
 {5}{R}: Amass 2. (Put two +1/+1 counters on an Army you control. If you don&apos;t have one, create a 0/0 black Army creature token first.)</text>
-			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/136.jpg" num="119">EOR</set>
+			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/136.jpg" num="120">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2508,7 +2509,7 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 		<card>
 			<name>Regal Replica</name>
 			<text>You may have this Vehicle enter as a copy of a permanent you control until end of turn, except it has haste.
-Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 3 (Tap creatures you control with total power 3 or more: This becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/139.jpg" num="146">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2544,7 +2545,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<text>When this Aether enters, it deals 2 damage to each opponent.
 When this Aether dies, you may shuffle it into your library.
 Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/141.jpg" num="126">EOR</set>
+			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/141.jpg" num="127">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2561,7 +2562,7 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 			<name>Auspice of Rebirth</name>
 			<text>Whenever a Phoenix you control dies, create a 2/2 green Bird creature token with &quot;Whenever a land you control enters, this token gets +1/+0 until end of turn.&quot;
 {2}{R}: Target Bird you control becomes a Phoenix in addition to its other types until end of turn.</text>
-			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/142.jpg" num="120">EOR</set>
+			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/142.jpg" num="121">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2613,10 +2614,10 @@ Whenever you attack while your enmity is twelve or greater, you may choose targe
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Ifrit, Smoldering Bowl</name>
+			<name>Ifrit, Smoldering Chaos</name>
 			<text>As long as there isn&apos;t a counter on this God, it isn&apos;t legendary and can&apos;t attack or block.
-When this God enters and whenever you attack with one or more Gods, each opponent gets an emblem with &quot;At the beginning of your upkeep, this emblem deals 1 damage to you.&quot;
-{R}{R}{R}: Put an indestructible counter on this God. Activate only as a sorcery.</text>
+When this God enters and whenever you attack with one or more Gods, exile the top card of each player&apos;s library. Until end of turn, you may play a card exiled by this God. (You still pay its costs.)
+{4}{R}{R}: Put an indestructible counter on this God. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/145.jpg" num="136">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2627,14 +2628,14 @@ When this God enters and whenever you attack with one or more Gods, each opponen
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>6/6</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Imperial Allegiant</name>
 			<text>This creature enters with a +1/+1 counter on it.
-When this creature enters, remove a counter from any number of battles, creatures, or planeswalkers you control. Amass X, where X is twice the number of counters removed this way. (Put X +1/+1 counters on an Army you control. If you don&apos;t have one, create a 0/0 black Army creature token first.)</text>
+When this creature enters, remove a counter from any number of permanents you control. Then amass X, where X is twice the number of counters removed this way. (Put X +1/+1 counters on an Army you control. If you don&apos;t have one, create a 0/0 black Army creature token first.)</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/146.jpg" num="137">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -2669,7 +2670,7 @@ Whenever a battle you control is defeated, put +1/+1 counter on this creature. I
 		</card>
 		<card>
 			<name>Flames of Rebellion</name>
-			<text>As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+			<text>As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
 This spell deals X damage to any target.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/148.jpg" num="134">EOR</set>
 			<prop>
@@ -2688,7 +2689,7 @@ This spell deals X damage to any target.</text>
 			<name>Beyond the Source</name>
 			<text>Whenever this Aether or another enchantment you control enters, you may have that enchantment become a copy of target creature you control until end of turn, except it isn&apos;t legendary and has haste.
 Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/149.jpg" num="123">EOR</set>
+			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/149.jpg" num="124">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2747,12 +2748,12 @@ When this side is cleared, untap all creatures you control. If it&apos;s your co
 		</card>
 		<card>
 			<name>Ruby Avenue // Salvage Shop</name>
-			<text>At the beginning of your upkeep, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+			<text>When this side is cleared, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 [b](As this enters, clear the half you cast and choose an opponent to protect this. Defeat it to clear uncleared halves and have it stop being a battle.)[/b]
 
 ---
 
-When this side is cleared, you may sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
+During each of your turns, you may cast a noncreature spell from your graveyard by sacrificing a token in addition to paying its other costs.
 [b](As this enters, clear the half you cast and choose an opponent to protect this. Defeat it to clear uncleared halves and have it stop being a battle.)[/b]</text>
 			<set rarity="mythic" picurl="https://drakexiv.github.io/sets/EOR-files/img/152.jpg" num="157">EOR</set>
 			<prop>
@@ -2760,8 +2761,8 @@ When this side is cleared, you may sacrifice an artifact. If you do, return targ
 				<side>front</side>
 				<type>Enchantment Battle — Path</type>
 				<maintype>Battle</maintype>
-				<manacost>3R // 2R</manacost>
-				<cmc>7</cmc>
+				<manacost>1R // 2R</manacost>
+				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -2828,7 +2829,7 @@ Flow — {2}{G}, Discard this card: Draw a card. (Each creature you tap while ac
 		</card>
 		<card>
 			<name>Dodo of Paradise</name>
-			<text>When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+			<text>When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest back on top in any order.)
 {T}: Add one mana of any color.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/156.jpg" num="163">EOR</set>
 			<prop>
@@ -2919,7 +2920,7 @@ Flow — {7}{W}: Put a +1/+1 counter on each creature you control. Activate only
 		</card>
 		<card>
 			<name>Distant Traveler</name>
-			<text>As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+			<text>As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
 This creature is also the chosen type.
 When this creature enters, put a +1/+1 counter on it for each creature in your party.</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/161.jpg" num="162">EOR</set>
@@ -3131,7 +3132,7 @@ Flow — {2}{W}: Until end of turn, each creature assigns combat damage equal to
 		</card>
 		<card>
 			<name>Sharlayan Specialist</name>
-			<text>As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+			<text>As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
 This creature is also the chosen type.
 When this creature enters, create a 1/1 colorless Hero creature token for each creature in your party.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/173.jpg" num="183">EOR</set>
@@ -3332,8 +3333,8 @@ Flow — {4}{G}: Search your library for a land card, reveal it, and put it into
 		<card>
 			<name>Garuda, Tempestuous Eye</name>
 			<text>As long as there isn&apos;t a counter on this God, it isn&apos;t legendary and can&apos;t attack or block.
-When this God enters and whenever you attack with one or more Gods, create two 2/2 green Bird creature tokens with &quot;Whenever a land you control enters, this token gets +1/+0 until end of turn.&quot;
-{G}{G}{G}: Put an indestructible counter on this God. Activate only as a sorcery.</text>
+When this God enters and whenever you attack with one or more Gods, create a 2/2 green Bird creature token with &quot;Whenever a land you control enters, this token gets +1/+0 until end of turn.&quot;
+{4}{G}{G}: Put an indestructible counter on this God. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/184.jpg" num="167">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3344,13 +3345,13 @@ When this God enters and whenever you attack with one or more Gods, create two 2
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>6/6</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Limber Forerunner</name>
-			<text>As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+			<text>As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
 This creature is also the chosen type.
 When this creature enters, untap each creature you control. They get +1/+1 for each creature in your party and gain haste until end of turn.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/185.jpg" num="171">EOR</set>
@@ -3405,7 +3406,7 @@ Cards in graveyards lose all abilities and can&apos;t have or gain abilities.</t
 		<card>
 			<name>Sanctuary Menagerie</name>
 			<text>As an additional cost to cast this spell, sacrifice a nonland permanent.
-Search your library for any number of nonland permanent cards with total mana value equal to or less than the mana value of the sacrificed permanent minus {1}, put them onto the battlefield, then shuffle.</text>
+Search your library for any number of nonland permanent cards with total mana value equal to or less than the mana value of the sacrificed permanent minus 1, put them onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/188.jpg" num="178">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3444,7 +3445,7 @@ When this side is cleared, search your library for up to two basic land cards an
 		<card>
 			<name>Sylvan Thicket // Moonspore Grove</name>
 			<text>When this side is cleared, draw a card.
-You may spend mana of any type to activate abilities.
+You may spend mana as though it were mana of any type to activate abilities.
 [b](As this enters, clear the half you cast and choose an opponent to protect this. Defeat it to clear uncleared halves and have it stop being a battle.)[/b]
 
 ---
@@ -3466,7 +3467,7 @@ You may spend mana of any type to activate abilities.
 		</card>
 		<card>
 			<name>Jungle Longstop // Vibrant Respite</name>
-			<text>If you would put a +1/+1 counter on a creature you control, instead put twice that many counters on it.
+			<text>If an effect would put one or more +1/+1 counters on a creature you control, it puts twice that many +1/+1 counters instead.
 [b](As this enters, clear the half you cast and choose an opponent to protect this. Defeat it to clear uncleared halves and have it stop being a battle.)[/b]
 
 ---
@@ -3530,8 +3531,8 @@ Flow — {3}{W}{U}: You gain life equal to the number of cards in your hand. Act
 		<card>
 			<name>Novv, Clutch Father</name>
 			<text>Other Rogues you control get +1/+1.
-Whenever this creature attacks, you may remove a counter from target battle, creature, or planeswalker.
-Whenever one or more counter are removed from a permanent you control, each opponent discards a card.</text>
+Whenever this creature attacks, you may remove a counter from target permanent.
+Whenever one or more counters are removed from a permanent you control during your turn, each opponent discards a card.</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/194.jpg" num="202">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3716,8 +3717,8 @@ Flow — {7}: Exile target instant or sorcery card from your graveyard. Cast a c
 		<card>
 			<name>Thancred, Dreaming Blade</name>
 			<text>This spell costs {1} less to cast for each Rogue and/or Hero you control.
-Whenever you attack, remove a counter from any target. If a counter is removed from a permanent you control this way, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
-Discard a card: Untap target creature.</text>
+When this creature enters, remove a counter from target permanent. If you do, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+{4}: Exile this creature, then return it to the battlefield tapped.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/204.jpg" num="204">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3728,7 +3729,7 @@ Discard a card: Untap target creature.</text>
 				<cmc>5</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>5/5</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3880,7 +3881,7 @@ Mill six cards, then put up to two creature cards milled this way onto the battl
 		</card>
 		<card>
 			<name>Wind-Up Flock</name>
-			<text>Flow — {4}: Surveil 2. (Each creature you tap while activating this pays for {1}. To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<text>Flow — {4}: Surveil 2. (Each creature you tap while activating this pays for {1}. To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest back on top in any order.)</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/213.jpg" num="247">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3914,7 +3915,7 @@ When this creature enters, create an Aether token. (An enchantment with &quot;Sa
 			<name>Company Airship</name>
 			<text>Flying
 When this Vehicle enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
-Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 1 (Tap creatures you control with total power 1 or more: This becomes an artifact creature until end of turn.)</text>
 			<set rarity="common" picurl="https://drakexiv.github.io/sets/EOR-files/img/215.jpg" num="238">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -3946,7 +3947,7 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 		<card>
 			<name>Crossroads Caravan</name>
 			<text>When this Vehicle enters, create two 2/2 green Bird creature tokens with &quot;Whenever a land you control enters, this token gets +1/+0 until end of turn.&quot;
-Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 4 (Tap creatures you control with total power 4 or more: This becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/217.jpg" num="239">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4023,7 +4024,7 @@ Sacrifice an Aether: Draw a card. Activate only once each turn.</text>
 		</card>
 		<card>
 			<name>Lunar Facsimile</name>
-			<text>Ward—Sacrifice a creature (Whenever this becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a creature.)
+			<text>Ward—Sacrifice a creature. (Whenever this becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a creature.)
 If your life total would change any amount, instead amass that amount. (Put that many +1/+1 counters on an Army you control. If you don&apos;t have one, create a 0/0 black Army creature token first.)</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/222.jpg" num="241">EOR</set>
 			<prop>
@@ -4178,16 +4179,16 @@ You may spend {C} as though it were mana of the chosen color.
 		</card>
 		<card>
 			<name>Coldlight Influence</name>
-			<text>This spell can&apos;t be countered.
-Counter target spell. Untap any number of permanents you control equal to that spell&apos;s mana value.</text>
+			<text>This spell costs {2} less to cast if you control two or more tapped creatures.
+Counter target spell. Then create two 1/1 colorless Hero creature tokens if you don&apos;t control any creatures.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/232.jpg" num="197">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1WU</manacost>
-				<cmc>3</cmc>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 			</prop>
@@ -4352,7 +4353,7 @@ Take an extra turn after this one if this turn isn&apos;t an extra turn. Shuffle
 		<card>
 			<name>Iron Claw</name>
 			<text>When this Vehicle enters, target opponent reveals their hand. You may exile a nonland card from it until this Vehicle leaves the battlefield.
-Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 3 (Tap creatures you control with total power 3 or more: This becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://drakexiv.github.io/sets/EOR-files/img/242.jpg" num="206">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4532,9 +4533,9 @@ Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activat
 		<card>
 			<name>Cid Garlond</name>
 			<text>The &quot;legend rule&quot; doesn&apos;t apply to permanents you control.
-[+2]: Add {C} for each legendary permanent you control. This mana can&apos;t be spent to cast nonlegendary spells from your hand.
-[+2]: Discard a card. Draw a card.
-[-3]: You may play a permanent card from your graveyard this turn. Legendary spells cast this way can&apos;t be countered.</text>
+[+2]: Discard a card. Draw a card. If a legendary card is discarded, draw two cards instead.
+[+2]: Create an Aether token. (An enchantment with &quot;Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.&quot;)
+[-3]: You may play a permanent card from your graveyard this turn. Noncreature spells cast this way cost {2} less to cast.</text>
 			<set rarity="rare" picurl="https://drakexiv.github.io/sets/EOR-files/img/252.jpg" num="1">EOR</set>
 			<prop>
 				<layout>normal</layout>
@@ -4885,24 +4886,9 @@ When this land enters untapped, create an Aether token. (An enchantment with &qu
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Ifrit, Smoldering Bowl EOR</name>
-			<text>At the beginning of your upkeep, this emblem deals 1 damage to you.</text>
-			<set rarity="special" picurl="https://drakexiv.github.io/sets/EOR-files/img/273.jpg" num="0">EOR</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Emblem</type>
-				<maintype>Emblem</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-			</prop>
-			<tablerow>1</tablerow>
-			<token>1</token>
-		</card>
-		<card>
 			<name>Treasure EOR</name>
 			<text>{T}, Sacrifice this Treasure: Add one mana of any color.</text>
-			<set rarity="special" picurl="https://drakexiv.github.io/sets/EOR-files/img/274.jpg" num="0">EOR</set>
+			<set rarity="special" picurl="https://drakexiv.github.io/sets/EOR-files/img/273.jpg" num="0">EOR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

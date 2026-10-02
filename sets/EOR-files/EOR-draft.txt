@@ -703,7 +703,7 @@
 		{
 			"name": "Dream in Ice",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
 			"collector_number": "50",
 			"image_uris": {
@@ -1104,7 +1104,7 @@
 			"name": "Pureheart Desperation",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "106",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/110.jpg"
@@ -1165,7 +1165,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aether",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/116.jpg"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dwarf Warrior",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/117.jpg"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Lizard Soldier",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/121.jpg"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aether",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/126.jpg"
 			}
@@ -1281,11 +1281,11 @@
 			}
 		},
 		{
-			"name": "Coordinated Assault",
+			"name": "All Out Assault",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/128.jpg"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/131.jpg"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Drake",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/135.jpg"
 			}
@@ -1365,7 +1365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Azra Soldier",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/136.jpg"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aether",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/141.jpg"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Bird",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/142.jpg"
 			}
@@ -1451,7 +1451,7 @@
 			}
 		},
 		{
-			"name": "Ifrit, Smoldering Bowl",
+			"name": "Ifrit, Smoldering Chaos",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Enchantment Creature — God",
@@ -1495,7 +1495,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment — Aether",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://drakexiv.github.io/sets/EOR-files/img/149.jpg"
 			}
@@ -1523,7 +1523,7 @@
 		{
 			"name": "Ruby Avenue",
 			"rarity": "mythic",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Enchantment Battle — Path",
 			"collector_number": "157",
 			"image_uris": {
@@ -2323,7 +2323,7 @@
 		{
 			"name": "Coldlight Influence",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
+			"mana_cost": "{2}{W}{U}",
 			"type": "Instant",
 			"collector_number": "197",
 			"image_uris": {
@@ -2731,23 +2731,13 @@
 			}
 		},
 		{
-			"name": "Ifrit, Smoldering Bowl",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Emblem",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/273.jpg"
-			}
-		},
-		{
 			"name": "Treasure",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
 			"collector_number": "0",
 			"image_uris": {
-				"en": "https://drakexiv.github.io/sets/EOR-files/img/274.jpg"
+				"en": "https://drakexiv.github.io/sets/EOR-files/img/273.jpg"
 			}
 		}
 	]
@@ -2790,7 +2780,7 @@
 	2 Auspice of Rebirth
 	2 Repurposed Cultivator
 	2 Raubahn, Mhigan Champion
-	2 Ifrit, Smoldering Bowl
+	2 Ifrit, Smoldering Chaos
 	2 Imperial Allegiant
 	2 New World Tyrant
 	2 Flames of Rebellion
@@ -2983,7 +2973,7 @@
 	8 Devastating Blow
 	8 Battle High
 	8 Piercing Note
-	8 Coordinated Assault
+	8 All Out Assault
 	8 Strike Out
 	8 Seedseer Devotee
 	8 Invested Novice
@@ -3064,7 +3054,7 @@
 	8 Devastating Blow
 	8 Battle High
 	8 Piercing Note
-	8 Coordinated Assault
+	8 All Out Assault
 	8 Strike Out
 	8 Seedseer Devotee
 	8 Invested Novice
@@ -3215,7 +3205,7 @@
 	12 Devastating Blow
 	12 Battle High
 	12 Piercing Note
-	12 Coordinated Assault
+	12 All Out Assault
 	12 Strike Out
 	6 Dravanian Hunter
 	6 Battleworn Skirmisher
@@ -3232,7 +3222,7 @@
 	2 Auspice of Rebirth
 	2 Repurposed Cultivator
 	2 Raubahn, Mhigan Champion
-	2 Ifrit, Smoldering Bowl
+	2 Ifrit, Smoldering Chaos
 	2 Imperial Allegiant
 	2 New World Tyrant
 	2 Flames of Rebellion
@@ -3466,7 +3456,7 @@
 	6 Devastating Blow
 	6 Battle High
 	6 Piercing Note
-	6 Coordinated Assault
+	6 All Out Assault
 	6 Strike Out
 	15 Dravanian Hunter
 	15 Battleworn Skirmisher
@@ -3483,7 +3473,7 @@
 	7 Auspice of Rebirth
 	7 Repurposed Cultivator
 	7 Raubahn, Mhigan Champion
-	7 Ifrit, Smoldering Bowl
+	7 Ifrit, Smoldering Chaos
 	7 Imperial Allegiant
 	7 New World Tyrant
 	7 Flames of Rebellion

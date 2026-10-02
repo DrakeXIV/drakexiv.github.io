@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Auspice of Rebirth",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Beyond the Source",
-        "number": 123,
+        "number": 124,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -304,7 +304,7 @@
         "position": "102"
     },
     {
-        "card_name": "Ifrit, Smoldering Bowl",
+        "card_name": "Ifrit, Smoldering Chaos",
         "number": 136,
         "shape": "normal",
         "set": "EOR",
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "Alliance Commander",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -545,7 +545,7 @@
     },
     {
         "card_name": "Battleworn Skirmisher",
-        "number": 122,
+        "number": 123,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -585,7 +585,7 @@
     },
     {
         "card_name": "Cavalry Drake",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -625,7 +625,7 @@
     },
     {
         "card_name": "Chain Reactions",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
@@ -984,12 +984,12 @@
         "position": "77"
     },
     {
-        "card_name": "Battle High",
-        "number": 121,
+        "card_name": "All Out Assault",
+        "number": 119,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "126"
+        "position": "128"
     },
     {
         "card_name": "Distant Traveler",
@@ -1024,12 +1024,12 @@
         "position": "81"
     },
     {
-        "card_name": "Brotherhood of Ash",
-        "number": 124,
+        "card_name": "Battle High",
+        "number": 122,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "121"
+        "position": "126"
     },
     {
         "card_name": "Dodo of Paradise",
@@ -1064,12 +1064,12 @@
         "position": "79"
     },
     {
-        "card_name": "Coliseum Cyclone",
-        "number": 127,
+        "card_name": "Brotherhood of Ash",
+        "number": 125,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "117"
+        "position": "121"
     },
     {
         "card_name": "Ehcatl Brightfeather",
@@ -1104,12 +1104,12 @@
         "position": "76"
     },
     {
-        "card_name": "Company Recruitment",
+        "card_name": "Coliseum Cyclone",
         "number": 128,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "116"
+        "position": "117"
     },
     {
         "card_name": "Everbloom Sprite",
@@ -1144,12 +1144,12 @@
         "position": "88"
     },
     {
-        "card_name": "Coordinated Assault",
+        "card_name": "Company Recruitment",
         "number": 129,
         "shape": "normal",
         "set": "EOR",
         "rotated": false,
-        "position": "128"
+        "position": "116"
     },
     {
         "card_name": "Expedition Hijinks",
@@ -2294,20 +2294,12 @@
         "position": "261"
     },
     {
-        "card_name": "Ifrit, Smoldering Bowl",
-        "number": 0,
-        "shape": "token",
-        "set": "EOR",
-        "rotated": false,
-        "position": "273"
-    },
-    {
         "card_name": "Treasure",
         "number": 0,
         "shape": "token",
         "set": "EOR",
         "rotated": false,
-        "position": "274"
+        "position": "273"
     },
     {
         "card_name": "Army",
@@ -2324,6 +2316,9 @@
         "set": "EOR",
         "rotated": false,
         "position": "254"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

@@ -1,4 +1,317 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+All Out Assault added.
+Ifrit, Smoldering Chaos added.
+
+Coordinated Assault removed.
+Ifrit, Smoldering Bowl removed.
+Ifrit, Smoldering Bowl removed.
+
+Arcane Companion
+rules_text: When this creature enters, put a shield counter on target creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Activated abilities of permanents you control are flow abilities. [i](Each creature you tap while activating them pays for {1}.)[/i] => When this creature enters, put a shield counter on target creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Activated abilities of nonland permanents you control are flow abilities. [i](Each creature you tap while activating them pays for {1}.)[/i]
+
+Scholasticate Tactician
+
+Benevolent Moglin
+rules_text: {W}: Exile target card in a graveyard.
+During each of your turns while your enmity is twelve or greater, you may cast a permanent card you own that was exiled with this creature. [i](Enmity is the total mana value of your permanents.)[/i] => {W}: Exile target card from a graveyard.
+During each of your turns while your enmity is twelve or greater, you may cast a permanent card you own that was exiled with this creature. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Rhotano Scoundrel
+rules_text: Flash
+When this creature enters, you may remove a counter from target battle, creature, or planeswalker. If a counter is removed from a permanent you control this way, draw a card. => Flash
+When this creature enters, you may remove a counter from target permanent. If a counter is removed from a permanent you control this way, draw a card.
+
+Comrades in Arms
+
+Surecast Manipulator
+rules_text: Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Rogue[/b] | Whenever this creature attacks, look at the top two cards of your library. Put one into your hand and the other into your graveyard.
+[b]Wizard[/b] | {2}: Put target card in your graveyard on the bottom of your library. => Discipline [i](This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)[/i]
+[b]Rogue[/b] | Whenever this creature attacks, look at the top two cards of your library. Put one into your hand and the other into your graveyard.
+[b]Wizard[/b] | {2}: Put target card from your graveyard on the bottom of your library.
+
+Star Calling
+rules_text: When this Aether enters, create a 1/1 colorless Hero creature token. Surveil 4. [i](Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery. => When this Aether enters, create a 1/1 colorless Hero creature token. Surveil 4. [i](Look at the top four cards of your library, then put any number of them into your graveyard and the rest back on top in any order.)[/i]
+Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures. Activate only as a sorcery.
+
+Dragonsbane Dervish
+rules_text: This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever this creature attacks, you may remove a counter from a battle, creature, or planeswalker you control. If you do, untap this creature. => This creature enters with a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever this creature attacks, you may remove a counter from target permanent you control. If you do, untap this creature.
+
+Faetouched Vagabond
+rules_text: As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+Whenever this creature attacks, up to one target creature gets -1/-0 for each creature in your party until end of turn. => As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
+This creature is also the chosen type.
+Whenever this creature attacks, up to one target creature gets -1/-0 for each creature in your party until end of turn.
+
+Adamantoise
+
+Waterfall Sprites
+rules_text: {1}: Add one mana of any color. Activate only once each turn.
+When this creature blocks, sacrifice it. If you do, draw a card and create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i] => {1}: Add one mana of any color. Activate only once each turn.
+When this creature blocks, you may sacrifice it. If you do, draw a card and create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+
+Indigo Whorl
+rules_text: This spell costs {1} less for each creature that is attacking you or a permanent your are defending.
+Creatures get -6/-0 until end of turn. => This spell costs {1} less for each creature that is attacking you or a permanent you are defending.
+Creatures get -6/-0 until end of turn.
+
+Adloquium
+
+Looking for Help
+
+Trained Aesthetician
+rules_text: Whenever this creature attacks, you may remove a counter from a battle, creature, or planeswalker you control. If you do, this creature can't be blocked this turn.
+{1}: Target creature you control gets your choice of +1/-1 or -1/+1 until end of turn. => Whenever this creature attacks, you may remove a counter from a target permanent you control. If you do, this creature can't be blocked this turn.
+{1}: Target creature you control gets your choice of +1/-1 or -1/+1 until end of turn.
+
+Crystalline Brigand
+rules_text: As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, tap up to one target creature for each creature in your party. They don't untap on their controller's next untap step. => As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
+This creature is also the chosen type.
+When this creature enters, tap up to one target creature for each creature in your party. They don't untap on their controller's next untap step.
+
+Titan, Bottomless Crags
+rules_text: As long as there isn't a counter on this God, it isn't legendary and can't attack or block.
+When this God enters and whenever you attack with one or more Gods, each opponent turns a face up nontoken creature they control face down. They are artifacts with “{4}, {T}: Turn this artifact face up.”
+{U}{U}{U}: Put an indestructible counter on this God. Activate only as a sorcery. => As long as there isn't a counter on this God, it isn't legendary and can't attack or block.
+When this God enters and whenever you attack with one or more Gods, each opponent turns a face up nontoken creature they control face down. They are artifacts with “{4}, {T}: Turn this artifact face up.”
+{4}{U}{U}: Put an indestructible counter on this God. Activate only as a sorcery.
+pt: 6/6 => 5/5
+
+Dream in Ice
+cost: {2}{U}{U} => {3}{U}{U}
+rules_text: Each player chooses a party from among creatures they control, then returns the rest to their owner's hands. [i](Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)[/i] => Each player chooses a party from among creatures they control. Tap those creature. They don't untap during their controller's next untap step. Return the rest to their owner's hands. [i](Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)[/i]
+
+Sastasha Seagrot
+
+Corrupted Child
+
+Awaiting Orders
+rules_text: As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+Each opponent loses 2 life. Amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
+Each opponent loses 2 life. Amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+
+Traveled Tricksters
+rules_text: As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, target player mills two cards for each creature in your party. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i] => As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
+This creature is also the chosen type.
+When this creature enters, target player mills two cards for each creature in your party. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+
+Doman Shadow
+rules_text: When this creature enters, you may remove a counter from target battle, creature, or planeswalker. If a counter is removed from a permanent you control this way, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => When this creature enters, you may remove a counter from target permanent. If a counter is removed from a permanent you control this way, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Carteneau Mercenary
+rules_text: When this creature enters, you may remove a counter from target battle, creature, or planeswalker.
+Whenever a counter is removed from a permanent you control, you lose 1 life and draw a card. Do this only once each turn. => When this creature enters, you may remove a counter from target permanent.
+Whenever a counter is removed from a permanent you control, you lose 1 life and draw a card. Do this only once each turn.
+
+Lost Hope Corsair
+rules_text: When this creature enters, target player mills three cards. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+Whenever this creature attacks a permanent, put a shield counter on this creature. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => When this creature enters, you mill three cards. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+Players can't gain life.
+Whenever this creature attacks a permanent, put a shield counter on this creature. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+Praefectus Executioner
+rules_text: As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+When this creature enters, amass 3. [i](Put three +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
+When this creature enters, amass 3. [i](Put three +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+
+Decorated Adventurer
+rules_text: As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, draw a card for each creature in your party. You gain that much life. => As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
+This creature is also the chosen type.
+When this creature enters, draw a card for each creature in your party. You gain that much life.
+
+At Any Cost
+rules_text: As an additional cost to cast this spell, remove a counter from any number of battles, creatures, and planeswalkers you control. This spell costs {1} less for each counter removed this way.
+Return target creature card with mana value X or less from your graveyard to the battlefield. => As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
+Return target creature card with mana value X or less from your graveyard to the battlefield.
+
+Megalomaniac
+rules_text: As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, target creature you don't control gets -1/-1 for each creature in your party until end of turn. => As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
+This creature is also the chosen type.
+When this creature enters, target creature you don't control gets -1/-1 for each creature in your party until end of turn.
+
+Remastered Chopper
+rules_text: When this Vehicle enters, mill three cards. Put a card milled this way into your hand. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, mill three cards. Put a card milled this way into your hand. [i](To mill, put that many cards from the top of your library into your graveyard.)[/i]
+Crew 2 [i](Tap creatures you control with total power 2 or more: This becomes an artifact creature until end of turn.)[/i]
+
+Gaius, Sable Legatus
+rules_text: If a creature an opponent controls would die, instead exile it. If it was a nontoken, amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+{1}{B}: Remove a counter from target battle, creature, or planeswalker. You gain 2 life. Activate only as a sorcery. => If a creature an opponent controls would die, instead exile it. If it wasn't a token, amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+{1}{B}: Remove a counter from target permanent you control. If you do, you gain 2 life. Activate only as a sorcery.
+
+Pureheart Desperation
+type: Instant => Sorcery
+rules_text: You lose 3 life and draw three cards. Then if your enmity is twelve or greater, each opponent loses 3 life and discards three cards. [i](Enmity is the total mana value of your permanents.)[/i] => You lose 3 life and draw three cards. Then if your enmity is twelve or greater, you may cast a spell from your hand without paying its mana cost. If you do, you lose life equal to that spell's mana value. [i](Enmity is the total mana value of your permanents.)[/i]
+
+Miner Problems
+
+Maverick Officer
+rules_text: As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+This creature has first strike as long as it is your turn. => As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
+This creature has first strike as long as it is your turn.
+
+Battleworn Skirmisher
+rules_text: Each creature you control may attack permanents as though the have haste.
+Whenever this creature or another creature you control enters, you may remove a counter from a battle, creature, or planeswalker you control. If you do, this creature gets +2/+0 until end of turn. => Each creature you control may attack permanents as though they have haste.
+Whenever this creature or another creature you control enters, you may remove a counter from a permanent you control. If you do, this creature gets +2/+0 until end of turn.
+
+Alliance Commander
+rules_text: As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+{5}{R}: Amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
+{5}{R}: Amass 2. [i](Put two +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+
+Regal Replica
+rules_text: You may have this Vehicle enter as a copy of a permanent you control until end of turn, except it has haste.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => You may have this Vehicle enter as a copy of a permanent you control until end of turn, except it has haste.
+Crew 3 [i](Tap creatures you control with total power 3 or more: This becomes an artifact creature until end of turn.)[/i]
+
+Imperial Allegiant
+rules_text: This creature enters with a +1/+1 counter on it.
+When this creature enters, remove a counter from any number of battles, creatures, or planeswalkers you control. Amass X, where X is twice the number of counters removed this way. [i](Put X +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => This creature enters with a +1/+1 counter on it.
+When this creature enters, remove a counter from any number of permanents you control. Then amass X, where X is twice the number of counters removed this way. [i](Put X +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+
+Flames of Rebellion
+rules_text: As an additional cost to cast this spell, remove a counter from any number of battles, creatures, or planeswalkers you control. This spell costs {1} less for each counter removed this way.
+This spell deals X damage to any target. => As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs {1} less for each counter removed this way.
+This spell deals X damage to any target.
+
+Ruby Avenue
+cost: {3}{R} => {1}{R}
+rules_text: At the beginning of your upkeep, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => When this side is cleared, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Dodo of Paradise
+rules_text: When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{T}: Add one mana of any color. => When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest back on top in any order.)[/i]
+{T}: Add one mana of any color.
+
+Distant Traveler
+rules_text: As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, put a +1/+1 counter on it for each creature in your party. => As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
+This creature is also the chosen type.
+When this creature enters, put a +1/+1 counter on it for each creature in your party.
+
+Ehcatl Brightfeather
+
+Orchard Keeper
+
+Sharlayan Specialist
+rules_text: As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, create a 1/1 colorless Hero creature token for each creature in your party. => As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
+This creature is also the chosen type.
+When this creature enters, create a 1/1 colorless Hero creature token for each creature in your party.
+
+Garuda, Tempestuous Eye
+rules_text: As long as there isn't a counter on this God, it isn't legendary and can't attack or block.
+When this God enters and whenever you attack with one or more Gods, create two 2/2 green Bird creature tokens with “Whenever a land you control enters, this token gets +1/+0 until end of turn.”
+{G}{G}{G}: Put an indestructible counter on this God. Activate only as a sorcery. => As long as there isn't a counter on this God, it isn't legendary and can't attack or block.
+When this God enters and whenever you attack with one or more Gods, create a 2/2 green Bird creature token with “Whenever a land you control enters, this token gets +1/+0 until end of turn.”
+{4}{G}{G}: Put an indestructible counter on this God. Activate only as a sorcery.
+pt: 6/6 => 5/5
+
+Limber Forerunner
+rules_text: As this creature enters, choose Cleric, Rogue, Warrior, and Wizard.
+This creature is also the chosen type.
+When this creature enters, untap each creature you control. They get +1/+1 for each creature in your party and gain haste until end of turn. => As this creature enters, choose Cleric, Rogue, Warrior, or Wizard.
+This creature is also the chosen type.
+When this creature enters, untap each creature you control. They get +1/+1 for each creature in your party and gain haste until end of turn.
+
+Sanctuary Menagerie
+rules_text: As an additional cost to cast this spell, sacrifice a nonland permanent.
+Search your library for any number of nonland permanent cards with total mana value equal to or less than the mana value of the sacrificed permanent minus {1}, put them onto the battlefield, then shuffle. => As an additional cost to cast this spell, sacrifice a nonland permanent.
+Search your library for any number of nonland permanent cards with total mana value equal to or less than the mana value of the sacrificed permanent minus 1, put them onto the battlefield, then shuffle.
+
+Sylvan Thicket
+rules_text: When this side is cleared, draw a card.
+You may spend mana of any type to activate abilities. => When this side is cleared, draw a card.
+You may spend mana as though it were mana of any type to activate abilities.
+
+Jungle Longstop
+rules_text: If you would put a +1/+1 counter on a creature you control, instead put twice that many counters on it. => If an effect would put one or more +1/+1 counters on a creature you control, it puts twice that many +1/+1 counters instead.
+
+Novv, Clutch Father
+rules_text: Other Rogues you control get +1/+1.
+Whenever this creature attacks, you may remove a counter from target battle, creature, or planeswalker.
+Whenever one or more counter are removed from a permanent you control, each opponent discards a card. => Other Rogues you control get +1/+1.
+Whenever this creature attacks, you may remove a counter from target permanent.
+Whenever one or more counters are removed from a permanent you control during your turn, each opponent discards a card.
+
+Thancred, Dreaming Blade
+rules_text: This spell costs {1} less to cast for each Rogue and/or Hero you control.
+Whenever you attack, remove a counter from any target. If a counter is removed from a permanent you control this way, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Discard a card: Untap target creature. => This spell costs {1} less to cast for each Rogue and/or Hero you control.
+When this creature enters, remove a counter from target permanent. If you do, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{4}: Exile this creature, then return it to the battlefield tapped.
+pt: 5/5 => 4/4
+
+Wind-Up Flock
+rules_text: Flow — {4}: Surveil 2. [i](Each creature you tap while activating this pays for {1}. To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Flow — {4}: Surveil 2. [i](Each creature you tap while activating this pays for {1}. To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest back on top in any order.)[/i]
+
+Company Airship
+rules_text: Flying
+When this Vehicle enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+When this Vehicle enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Crew 1 [i](Tap creatures you control with total power 1 or more: This becomes an artifact creature until end of turn.)[/i]
+
+Crossroads Caravan
+rules_text: When this Vehicle enters, create two 2/2 green Bird creature tokens with “Whenever a land you control enters, this token gets +1/+0 until end of turn.”
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, create two 2/2 green Bird creature tokens with “Whenever a land you control enters, this token gets +1/+0 until end of turn.”
+Crew 4 [i](Tap creatures you control with total power 4 or more: This becomes an artifact creature until end of turn.)[/i]
+
+Lunar Facsimile
+rules_text: Ward—Sacrifice a creature [i](Whenever this becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a creature.)[/i]
+If your life total would change any amount, instead amass that amount. [i](Put that many +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i] => Ward—Sacrifice a creature. [i](Whenever this becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a creature.)[/i]
+If your life total would change any amount, instead amass that amount. [i](Put that many +1/+1 counters on an Army you control. If you don't have one, create a 0/0 black Army creature token first.)[/i]
+
+Coldlight Influence
+cost: {1}{W}{U} => {2}{W}{U}
+rules_text: This spell can't be countered.
+Counter target spell. Untap any number of permanents you control equal to that spell's mana value. => This spell costs {2} less to cast if you control two or more tapped creatures.
+Counter target spell. Then create two 1/1 colorless Hero creature tokens if you don't control any creatures.
+
+Iron Claw
+rules_text: When this Vehicle enters, target opponent reveals their hand. You may exile a nonland card from it until this Vehicle leaves the battlefield.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, target opponent reveals their hand. You may exile a nonland card from it until this Vehicle leaves the battlefield.
+Crew 3 [i](Tap creatures you control with total power 3 or more: This becomes an artifact creature until end of turn.)[/i]
+
+Cid Garlond
+rules_text: The “legend rule” doesn't apply to permanents you control.
+[+2]: Add {C} for each legendary permanent you control. This mana can't be spent to cast nonlegendary spells from your hand.
+[+2]: Discard a card. Draw a card.
+[-3]: You may play a permanent card from your graveyard this turn. Legendary spells cast this way can't be countered. => The “legend rule” doesn't apply to permanents you control.
+[+2]: Discard a card. Draw a card. If a legendary card is discarded, draw two cards instead.
+[+2]: Create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+[-3]: You may play a permanent card from your graveyard this turn. Noncreature spells cast this way cost {2} less to cast.
+special_text: The “legend rule” doesn't apply to permanents you control.
+[+2]: Add {C} for each legendary permanent you control. This mana can't be spent to cast nonlegendary spells from your hand.
+[+2]: Discard a card. Draw a card.
+[-3]: You may play a permanent card from your graveyard this turn. Legendary spells cast this way can't be countered. => The “legend rule” doesn't apply to permanents you control.
+[+2]: Discard a card. Draw a card. If a legendary card is discarded, draw two cards instead.
+[+2]: Create an Aether token. [i](An enchantment with “Sacrifice two Aether: Put a +1/+1 counter on up to two target creatures as a sorcery.”)[/i]
+[-3]: You may play a permanent card from your graveyard this turn. Noncreature spells cast this way cost {2} less to cast.
+
+Treasure
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Village Prodigy added.
